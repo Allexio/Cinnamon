@@ -100,7 +100,11 @@ Many thanks to [Comp500](https://modrinth.com/user/comp500) for the [Packwiz](ht
 
 ### Create & Friends
 
+- [tropheusj](https://modrinth.com/user/tropheusj): [Create](https://modrinth.com/mod/create-fabric)
 - [Possible_Triangle](https://modrinth.com/user/possible_triangle): [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)
+- [IThundxr](https://modrinth.com/user/IThundxr):
+  - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
+- [SOON] -- Not added yet -- [MarbleGateKeeper](https://modrinth.com/user/MarbleGateKeeper): [Create Enchantment Industry Fabric](https://modrinth.com/mod/create-enchantment-industry-fabric)
 
 ### Storage
 
