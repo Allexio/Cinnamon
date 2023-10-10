@@ -1,0 +1,13 @@
+name = "Colorize"
+filename = "colorize-1.20.2-fabric-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4sQDl6he/versions/k5fsPcur/colorize-1.20.2-fabric-1.7.1.jar"
+hash-format = "sha1"
+hash = "29333d9483ec001b322421fc2b1bb20c15f5a164"
+
+[update]
+[update.modrinth]
+mod-id = "4sQDl6he"
+version = "k5fsPcur"

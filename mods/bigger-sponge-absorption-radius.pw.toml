@@ -1,0 +1,13 @@
+name = "Bigger Sponge Absorption Radius"
+filename = "biggerspongeabsorptionradius-1.20.1-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3PLAyBxz/versions/cfNshH9q/biggerspongeabsorptionradius-1.20.1-3.1.jar"
+hash-format = "sha1"
+hash = "f6ab184203815a1ed41a1806204fdad93048018f"
+
+[update]
+[update.modrinth]
+mod-id = "3PLAyBxz"
+version = "cfNshH9q"

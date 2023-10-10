@@ -1,0 +1,13 @@
+name = "Legacies and Legends"
+filename = "legacies-and-legends-1.20-v1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rJvxBgdw/versions/VOPoXDqy/legacies-and-legends-1.20-v1.1.5.jar"
+hash-format = "sha1"
+hash = "4711d30c674871e2c7e0d983c29bb3a8dd2ffbbe"
+
+[update]
+[update.modrinth]
+mod-id = "rJvxBgdw"
+version = "VOPoXDqy"

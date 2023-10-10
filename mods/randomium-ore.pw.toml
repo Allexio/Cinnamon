@@ -1,0 +1,13 @@
+name = "Randomium Ore"
+filename = "randomium-1.20-1.29-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lz9WMhfG/versions/EeTvYqCc/randomium-1.20-1.29-fabric.jar"
+hash-format = "sha1"
+hash = "c5ec1e4d59e6c236ddda2793115817540661feda"
+
+[update]
+[update.modrinth]
+mod-id = "lz9WMhfG"
+version = "EeTvYqCc"
