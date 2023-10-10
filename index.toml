@@ -310,6 +310,11 @@ hash = "2723d5e467bc32a7a9d48c9dfcb725f38c7f618e07cfea71f1d91d2847999d82"
 metafile = true
 
 [[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "b6170f6465df20ddf674b44d11a81d08d57dfa9762e9c692ffe8a554c2de59d5"
+metafile = true
+
+[[files]]
 file = "mods/cyberanner-ironchest.pw.toml"
 hash = "af9263e844d38c6e46495f2ed42a8e0a52b16784d9b64601b010c0eb58158ff9"
 metafile = true
