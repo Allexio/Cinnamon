@@ -250,7 +250,3 @@ Many thanks to [Comp500](https://modrinth.com/user/comp500) for the [Packwiz](ht
   - [Controlling](https://modrinth.com/mod/controlling)
 - [Prospector](https://modrinth.com/user/Prospector): [modmenu](https://modrinth.com/mod/modmenu)
 - [Vazkii](https://modrinth.com/user/Vazkii): [Patchouli](https://modrinth.com/mod/patchouli)
-
-
-- [xxxxxxx](xxxxxxxxxxxx): [xxxxxxx](xxxxxxxxxxxx)
-- [xxxxxxx](xxxxxxxxxxxx): [xxxxxxx](xxxxxxxxxxxx)
