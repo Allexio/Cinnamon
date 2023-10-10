@@ -34,10 +34,11 @@ The modpack comes with Create (duh) alongside a few Create add-ons such as:
 - Repurposed Structures (Adds new structures)
 - Fabric Waystones (Adds teleport locations in *most* villages)
 
-We want teleport to be a late game option or a last resort.
-We want people to create extensive railway networks to link up with their friends.
+We want teleport to be a late game option for those with an extensive enchantment industry or as a last resort.
+This is to encourage people to create extensive railway networks to link up with their friends.<br>
 We balanced Waystones being in game by:
-- Making it cost a few levels to teleport. We want people to build railways with Create/Steam & Rails, not just teleport for free accross the map. If you make proper XP management with Create Enchantment industry, then you deserve to be able to teleport more than others. This will be balanced further in a later patch.
+- Making them indestructible. The only waystones that will exist are those that spawn in villages.
+- Making it cost a handful of levels to teleport (for now, 4).
 
 # Client setup
 
