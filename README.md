@@ -49,7 +49,7 @@ The default option is voice activation. This can be changed by pressing the V ke
 
 By default there are two "ranges" of loudness for when you speak (think of it as screaming or whispering)
 - 8 blocks (for whispering to someone without others hearing)
-- 64 blocks (for talking to people comfortably on the server without having to move near them)
+- 64 blocks (for talking to people comfortably on the server without having to stick to them like glue)
 
 # Server setup
 
