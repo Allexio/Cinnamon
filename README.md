@@ -188,6 +188,7 @@ Many thanks to [Comp500](https://modrinth.com/user/comp500) for the [Packwiz](ht
   - [Bigger Sponge Absorption Radius](https://modrinth.com/mod/bigger-sponge-absorption-radius)
   - [Fall Through Slime](https://modrinth.com/mod/fall-through-slime)
   - [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby)
+  - [Biome Spawn Point](https://modrinth.com/mod/biome-spawn-point)
 - [blackd](https://modrinth.com/user/blackd):
   - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
   - [libIPN](https://modrinth.com/mod/libipn)
