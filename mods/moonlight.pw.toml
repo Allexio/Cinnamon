@@ -1,13 +1,13 @@
 name = "Moonlight Lib"
-filename = "moonlight-1.20-2.8.44-fabric.jar"
+filename = "moonlight-1.20-2.8.47-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/twkfQtEc/versions/h6yrGow9/moonlight-1.20-2.8.44-fabric.jar"
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/Eax5TmfX/moonlight-1.20-2.8.47-fabric.jar"
 hash-format = "sha1"
-hash = "3f67044597b3c3c574d989a12d109262af3422cd"
+hash = "0fcce849aa8446e237431c14f8ffd671cc800fb1"
 
 [update]
 [update.modrinth]
 mod-id = "twkfQtEc"
-version = "h6yrGow9"
+version = "Eax5TmfX"

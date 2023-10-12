@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "ee741e6403fb657e0899d25762da0e0c2e18c90cc485584f2d7878daeb5018f4"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "f89e3061a0e71b7af0c260417e0771d2b1c04f95642fd1a142e954d99dbc6e86"
 
@@ -391,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/footprintparticle.pw.toml"
-hash = "683f07ef073ab623924c47c03497f775e4f31de29f6e4bd5dc5b6862167bd6a0"
+hash = "f53fb84143c590940450753e6dbd96d3288651fb060247df3645f80ed1a8eba4"
 metafile = true
 
 [[files]]
@@ -431,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "559a46acee6bd5368fac543cb90902a7eb692426329d1041af790d8a22167154"
+hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
 
 [[files]]
@@ -476,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "072f6f8811b34e73106a9c81976ab746cebd9267dfe56c8b66d16c7bfd2a7a88"
+hash = "ed046faab4ff8ab400ba3d5776f57286835409691c1106240ceb854a2f9ca9db"
 metafile = true
 
 [[files]]
@@ -511,12 +515,12 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "1ef638a5a1bc05863d2a3798114f5f338f70775cb03a39b75b236e06cd156fbd"
+hash = "fd1861c2fbfac935ba6829d64dfa9ea73119fd73681446bca3468badfed5be4c"
 metafile = true
 
 [[files]]
 file = "mods/portal-linking-compass.pw.toml"
-hash = "8d25b7412a7d248883345b9335b4661f7d3222b210ddebea0298f80eefd62100"
+hash = "4773a32aed39d317a7e79379a1ef0caba20020077f53ce186d53888f2c81ed8d"
 metafile = true
 
 [[files]]
@@ -620,9 +624,8 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-refresh.pw.toml"
-hash = "b64862b575783b8549ae45729088a3597c19ff45d99189d8003c1e5e40570c2a"
-metafile = true
+file = "mods/vanilla-refresh-1.4.17c.jar"
+hash = "792ee11b8a087c630b74dcb5ea81dc537cba15755b2f7b6529902d08c20be682"
 
 [[files]]
 file = "mods/village-bell-recipe.pw.toml"
@@ -663,6 +666,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
+hash = "a24e204902d6fcdcbc113839cfed988309e7f6e05ecc970662222844f1fc67e8"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
