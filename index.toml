@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ee741e6403fb657e0899d25762da0e0c2e18c90cc485584f2d7878daeb5018f4"
+hash = "642617741b357432c50cba22c12e246ccc338457ecc1cc326318d2cc04b7f947"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -246,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/bigger-sponge-absorption-radius.pw.toml"
 hash = "f3514dfa583caf012e6ef78f21b6a6c2f121007c437715ea864ddd803e452a18"
+metafile = true
+
+[[files]]
+file = "mods/biome-spawn-point.pw.toml"
+hash = "47910d7b679bd88f00091c12336682c32c1f496e510d042cc1a67bf3f4a5dfa2"
 metafile = true
 
 [[files]]
@@ -625,7 +630,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-refresh-1.4.17c.jar"
-hash = "792ee11b8a087c630b74dcb5ea81dc537cba15755b2f7b6529902d08c20be682"
+hash = "b2ed9ab4120e0c1611cf73b078a935989ed67d92c8b56881b913289f5972d98a"
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "b64862b575783b8549ae45729088a3597c19ff45d99189d8003c1e5e40570c2a"
+metafile = true
 
 [[files]]
 file = "mods/village-bell-recipe.pw.toml"
