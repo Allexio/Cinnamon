@@ -14,7 +14,7 @@ category = "key.plasmovoice.general"
 
 
 [voice]
-disabled = false
+disabled = enabled
 microphone_disabled = true
 activation_threshold = -30.0
 input_device = ""

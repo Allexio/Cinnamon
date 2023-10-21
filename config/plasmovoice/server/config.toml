@@ -23,7 +23,7 @@ client_mod_required = false
 client_mod_required_check_timeout_ms = 3000
 
 [voice.proximity]
-distances = [8, 32, 64]
+distances = [8, 64]
 default_distance = 32
 
 [voice.opus]
