@@ -214,7 +214,7 @@ hash = "a24e204902d6fcdcbc113839cfed988309e7f6e05ecc970662222844f1fc67e8"
 
 [[files]]
 file = "README.md"
-hash = "642617741b357432c50cba22c12e246ccc338457ecc1cc326318d2cc04b7f947"
+hash = "39ee8cb7bd1c57f40337eae1cadb6b5979ed0aece90dca53c493c10e311b9fe5"
 
 [[files]]
 file = "allexio-modpack-icon.png"
@@ -290,11 +290,11 @@ hash = "537da35e71aaa0a727264fcd7fa02843f07dcb50c5ba9cbd4d1b52eab13a526a"
 
 [[files]]
 file = "config/plasmovoice/client.toml"
-hash = "4af207760a18ceb9250dc3f977d2d268b1ff4428d329d62fe586b7b61b0fb067"
+hash = "4273c71b537f69b0543bf4360d24b716809e2f2b1d9132500c413b35d79187cc"
 
 [[files]]
 file = "config/plasmovoice/server/config.toml"
-hash = "3a2160a7b7273782331fdd13d27938c8e535f642719acf67fe39d0e733fc897e"
+hash = "40b7df7488962218a5bd4684c4a2690ec8201fc1408be90b0178ae975f182ea4"
 
 [[files]]
 file = "config/plasmovoice/server/languages/.crowdin/de_de.toml"
@@ -534,8 +534,18 @@ hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "94982cbfab37b39c59d750c7f66e9c88979398b0387490fb5db4f4ca2b9eadaf"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
@@ -590,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "210a7ceddcaadd495e9c80a7bd30d2af6c1e8aefca0b0babb4023adef541008d"
+hash = "4091b4282d862e53d617b33475ded505384e6475bd4c5c4ea1f15ccfcf978427"
 metafile = true
 
 [[files]]
@@ -650,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "33c89073f71a972da05cfee8c8b00eec1549e406222b0abab659e38b42797820"
+hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
 metafile = true
 
 [[files]]
@@ -770,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "c58c05a65fca731fca51d0f07f9a67f14b44341b6374fa948c6acfcb09f7ceee"
+hash = "f1e03ece85e67bc16de2f286c544f0c92a9cb1c2593d4eea650639f4b53fc4c1"
 metafile = true
 
 [[files]]
@@ -780,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
+hash = "71a584ee7d09de1685259a9d35bf4917901bdf88800a73cf0cf246ecc415626b"
 metafile = true
 
 [[files]]
@@ -835,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6abce1f6beba5e4e860aeac5dbadaf7e98b624f24458a4736b02df4ce350e939"
+hash = "41209fe012e1c2a5f6adfff3eec65b9c35f5abc6a4d52617d9d02734a0350855"
 metafile = true
 
 [[files]]
@@ -879,12 +889,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e3422e30d5b9188e2beadbc2ce69804506fe963a005bdfff865395ca68f2fa86"
+hash = "97da858e6f958a87d076852f8e68a94095c1169f38f4089718ad56ea3eb11a2d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "919980794d91ef11531ac64fc9a110f6d8ddebf8a7ed7e851529d2781f55816b"
+hash = "a94b26104a8ff5dafab4b0824eca6f44ed71aa0ed53b150a2659b1d7361a2b31"
 metafile = true
 
 [[files]]
