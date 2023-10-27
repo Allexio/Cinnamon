@@ -5,7 +5,7 @@
 'feet' : '',
 0 : '{Count:1b,id:"naturescompass:naturescompass"}',
 1 : '{Count:16b,id:"minecraft:bread"}',
-2 : '',
+2 : '{Count:1b,id:"minecraft:bamboo_raft"}',
 3 : '',
 4 : '',
 5 : '',

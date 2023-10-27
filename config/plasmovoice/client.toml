@@ -11,14 +11,28 @@ name = "key.plasmovoice.general.mute_microphone"
 any_context = false
 category = "key.plasmovoice.general"
 
+[[key_bindings]]
+name = "key.plasmovoice.proximity.distance_increase"
+any_context = false
+category = "hidden"
 
+[[key_bindings.keys]]
+code = 86
+type = "KEYSYM"
+
+
+[addons.pv-addon-soundphysics]
+"gui.plasmovoice.soundphysics.mic_reverb_volume" = 1.0
+"gui.plasmovoice.soundphysics.enabled" = true
+"gui.plasmovoice.soundphysics.mic_reverb" = true
 
 [voice]
-disabled = enabled
+disabled = false
 microphone_disabled = true
-activation_threshold = -30.0
+activation_threshold = -45.0
 input_device = ""
 output_device = ""
+disable_input_device = false
 use_javax_input = false
 microphone_volume = 1.0
 noise_suppression = false
@@ -29,11 +43,51 @@ directional_sources = false
 hrtf = false
 stereo_capture = false
 
-[voice.volumes.source_a2e71db3-67f1-4786-a595-2185ca4e401b]
+[voice.volumes.source_ee509272-fe9b-4ead-ba6c-78dc1be1a995]
+volume = 1.0
+[voice.volumes.source_eda4c5ec-baca-4f2e-ba5f-c0a7962a94bb]
+volume = 1.0
+[voice.volumes.source_7b133ab3-c6c1-4fd5-b6c2-06bcb7d6a9ac]
+volume = 1.0
+[voice.volumes.source_ed47a5af-dc93-4cc1-a017-4d4631f999f0]
+volume = 1.0
+[voice.volumes.source_7322d9af-3075-4ac8-ba37-45bf9947e269]
+volume = 1.0
+[voice.volumes.source_d07d53c5-9066-4ceb-83fb-b20a9d9c34ac]
+volume = 1.0
+[voice.volumes.source_018abcee-3de7-4909-ab16-28e123bb98af]
+volume = 1.0
+[voice.volumes.source_0da605d4-9f4e-405a-addf-2c7ba64f2ca4]
+volume = 1.0
+[voice.volumes.source_e2793073-c4f4-4f62-9b21-7c9f889bea9a]
+volume = 1.0
+[voice.volumes.source_ab9faedb-0655-443f-8910-0eaa7ff9bd7f]
+volume = 1.0
+[voice.volumes.source_5f3af09b-600a-42db-934f-5431d15a0f36]
+volume = 1.45
+[voice.volumes.source_bdb83b9f-1673-4ae0-84c7-2d8825e9387c]
+volume = 1.0
+[voice.volumes.source_17fc19c1-93d9-40fe-abd8-73f233414ac3]
+volume = 1.0
+[voice.volumes.source_ef3ffd12-7375-442d-859b-d48f86eec9d2]
 volume = 1.0
 [voice.volumes.proximity]
 volume = 1.0
+[voice.volumes.source_2b50d548-8b86-4c4d-9974-51ebdd4172d7]
+volume = 1.55
 [voice.volumes.source_84a559ce-aab2-40ec-857e-d07edb2edfe4]
+volume = 1.0
+[voice.volumes.source_50d6a18f-1f96-4444-93a1-ebf49fe48f7b]
+volume = 1.0
+[voice.volumes.source_ca936e50-8301-49d2-87dc-6721963c10df]
+volume = 1.0
+[voice.volumes.source_a1996cf3-3a2e-4ee5-8ea3-30ca3df35ff0]
+volume = 1.0
+[voice.volumes.source_c191fdd1-1dbc-4c63-a9bc-16be1d83b56b]
+volume = 1.0
+[voice.volumes.source_40af1429-2e9b-4a1c-9d75-6ad1ab80e374]
+volume = 1.0
+[voice.volumes.source_bed30a50-04af-4f2d-9e57-72beb58a808d]
 volume = 1.0
 
 [advanced]

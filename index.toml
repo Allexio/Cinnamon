@@ -1,218 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Allexio's-Create-Plus-1.0.0/modrinth.index.json"
-hash = "708eb774d7a9b7d7a332af85a132a8b55f2deaf1560075ff26c79e2082954e5d"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/README.md"
-hash = "642617741b357432c50cba22c12e246ccc338457ecc1cc326318d2cc04b7f947"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/allexio-modpack-icon.png"
-hash = "371c3d8f4bc63e45cffd25b6aa71545a1bc79c47330daf036b436a408306b915"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/biomespawnpoint/spawnbiomes.txt"
-hash = "cf26eceb379a84dd60346a6f48dfa59371e3b205dc0880a985e4c41bfafe1aca"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/fwaystones/config.json5"
-hash = "f89e3061a0e71b7af0c260417e0771d2b1c04f95642fd1a142e954d99dbc6e86"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/inventoryprofilesnext/192.168.1.171/prev-villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/inventoryprofilesnext/192.168.1.171/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "2b89c6868da2000aece619ff4d3ab67497688656f0653e92ecc8de7129a2f896"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/iris.properties"
-hash = "848405c79a9096c231b408cdf497b79d38f9aefb2b78ec2789842abda31657af"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/de_de.json"
-hash = "2bf3644d6b57c0966cd256d4b189b8ab4472cfc773a01997281aff2991ae97f6"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/es_es.json"
-hash = "a511c8336683e9d0ca0f9f05959f3d610bcdb0105cb96926ba0eed90b90a68ef"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/he_il.json"
-hash = "b33b3e0f842fe7257a774e85edd19f5afe393cf8511de74bdbbd0f41a35250e1"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/pl_pl.json"
-hash = "e2fdf0c9fb646b455d6edbfa610b48c7428dc1007459abfaff7e7df025c80f8f"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/pt_br.json"
-hash = "e99ed1c1c816f03e0dde7e65ee7b14a18a9ad537fe09572e6db73133787d2a8d"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/ru_ru.json"
-hash = "b8b3e481f8bfdb359d0b6ad5e7806290902ad175dd9b3f1dff0d87d1db5c158c"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/timestamp"
-hash = "0533f61a4931c2bf930a8abfadfeb89fa20f1e88dbd710470d8a5ab77a92be8f"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/uk_ua.json"
-hash = "6d6207e54d49664c420189e1fff3397ca75695874bb6ecd684ab342aaf885787"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/zh_cn.json"
-hash = "b3d26787bc80437350c784e914dfb3bb65884749aa9eecbacdb0df2f4a74418d"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/.crowdin/zh_tw.json"
-hash = "537da35e71aaa0a727264fcd7fa02843f07dcb50c5ba9cbd4d1b52eab13a526a"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/client.toml"
-hash = "4af207760a18ceb9250dc3f977d2d268b1ff4428d329d62fe586b7b61b0fb067"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/config.toml"
-hash = "3a2160a7b7273782331fdd13d27938c8e535f642719acf67fe39d0e733fc897e"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/de_de.toml"
-hash = "d0770d37f972451e92ff6157412c68dc6f47f15ccaf1a204fc20ce0a56c2bd51"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/es_es.toml"
-hash = "1ac5d89409ff04dd3fd12930d1477af3ec2043c3eb73ad427de7740d936770b7"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/he_il.toml"
-hash = "f60cd509bc40e2b54737a6305475cc86c438a41ebcf3dcdc564cfc537f70bae4"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/pl_pl.toml"
-hash = "6a4ecaaa39a832af19ffd91fbe84dd3bd0945a19ea3fdfba97fb5a0d89538038"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/pt_br.toml"
-hash = "562e59db276e06f2c6294b04f1b922f4ba50e8d22568bf3dd48570c37895f7aa"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/ru_ru.toml"
-hash = "e4ac04ab555f559d5103779d7336bfbae4a4cd167e023301feeeff9e0059fd24"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/timestamp"
-hash = "ce710a21d13a807b7f9c1494ae45e212be36f92e5db64d11a42067478ed51374"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/uk_ua.toml"
-hash = "a3907ef46ff03b4514d249d72eaa79472d7681f525342e4b75026617c0d873c1"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/zh_cn.toml"
-hash = "78920c3b680db933783c1a15b304e60c024476c52a7f98652685d7380340250e"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/.crowdin/zh_tw.toml"
-hash = "f88fefa13808ebcef1066765782c5881f44d85ca964b865e6f3f1bea0b32ed68"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/de_de.toml"
-hash = "7c91aa2dca8c50c9503e4a28b9cb9306f7f277013f8b91fc97200032c0c448c0"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/en_us.toml"
-hash = "518c0a307e82d698b32990a04d9420ada1c250131341f45e7a6e488e14c2ff8d"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/es_es.toml"
-hash = "41cd097550b3539cc7e95a36216605d6e609084749cafcad4f92a2961f90d93d"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/he_il.toml"
-hash = "f45ebeac450ff5d8a7b4c1e4463373302713d56732984f95a085a8954e54d319"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/pl_pl.toml"
-hash = "d837dc5ce75b71e3d639529c87b41f213e882ff30a0421f72c05180ac5146f02"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/pt_br.toml"
-hash = "4003116bdb927b89a42690432c959d129682ec2a06288a7cf16f83b8da83f551"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/ru_ru.toml"
-hash = "ce093aa1ab32c0148adf7f909930e33eca0c76c8dddda966c9795300213509c8"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/uk_ua.toml"
-hash = "b7c1bc6d61bc944841671f3cf5e92144e2afb689c6373d3bcbe8641d877becbe"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/zh_cn.toml"
-hash = "ed6f45f89278e1ce75b4b258281feefa4efc91dd151da763e6d207f1e4c6106e"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/languages/zh_tw.toml"
-hash = "49c1a2846f603858b4bfa1dc44e28d5e56b85223ef3646114d2edab4c884f2b6"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/uStats.toml"
-hash = "945bb9e00cccc4b1985741c0801c6c0b9d171766b6b9c835a4f69c4149bdddc6"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/plasmovoice/server/voice_mutes.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/presencefootsteps/updater.json"
-hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/presencefootsteps/userconfig.json"
-hash = "14c595614e50382adfaaca9272ad8641d9d480b755a126e22399cc2daadb4559"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/starterkit.json5"
-hash = "c5c2f85ee5e5d597af6481b53edab999d9c0e289845dd663582b7617b1edad10"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/starterkit/starterkit.txt"
-hash = "2a8a5a5aed5548bfde5403b457d49a72c443633ad82f470859df3d14bf16336f"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/weakerspiderwebs.json5"
-hash = "9118e92a075f8832ac740bb264337df82ba5789a8c42ad51fa5c55631aac755e"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/config/xaerominimap.txt"
-hash = "22b93eb21d8de6f5be18edf76bf8adf61b31493b03c380e4e03d055c4dfe6391"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/mods/iris-flywheel-compat-1.20.1-0.2.1.jar"
-hash = "ccc415770b9bd4dec969308d39409a1c02d883bca4575e116990776559fe0d4c"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/mods/vanilla-refresh-1.4.17c.jar"
-hash = "52d3d1ec27349cd7be1c954bc05d8c4743bbf83f6c99dcb9164388cdc3a835d7"
-
-[[files]]
-file = "Allexio's-Create-Plus-1.0.0/overrides/shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
-hash = "a24e204902d6fcdcbc113839cfed988309e7f6e05ecc970662222844f1fc67e8"
-
-[[files]]
 file = "README.md"
 hash = "39ee8cb7bd1c57f40337eae1cadb6b5979ed0aece90dca53c493c10e311b9fe5"
 
@@ -223,6 +11,14 @@ hash = "371c3d8f4bc63e45cffd25b6aa71545a1bc79c47330daf036b436a408306b915"
 [[files]]
 file = "config/biomespawnpoint/spawnbiomes.txt"
 hash = "cf26eceb379a84dd60346a6f48dfa59371e3b205dc0880a985e4c41bfafe1aca"
+
+[[files]]
+file = "config/doubledoors.json5"
+hash = "d7bb1517f49ccfd97f9cd3dce220c3ed33ff479eb22f2127e8c191f27abde086"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "483a2169a1b3f14379846d4bb265076d4d1c13989aeead3a6c87e8659dfc3329"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -290,7 +86,7 @@ hash = "537da35e71aaa0a727264fcd7fa02843f07dcb50c5ba9cbd4d1b52eab13a526a"
 
 [[files]]
 file = "config/plasmovoice/client.toml"
-hash = "4273c71b537f69b0543bf4360d24b716809e2f2b1d9132500c413b35d79187cc"
+hash = "de3d6216b13c9b54cc0aecbff1c86f522ffa70c0c64560fd3d160e9f31ce2f87"
 
 [[files]]
 file = "config/plasmovoice/server/config.toml"
@@ -393,12 +189,28 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "14c595614e50382adfaaca9272ad8641d9d480b755a126e22399cc2daadb4559"
 
 [[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+hash = "5a89fd95c1d62a7adb6bbdb19012689d3bb79717ae39e0d6e43e1ac758e78800"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "da84dbfaf4d21cd5818068c3b95bec05357a2ae5a7c3263fe7b8358dbb1ad94f"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "b424615809166d9c08345776904a4e33a3da8f3d396a560164aa4eb8e816525a"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "6e7afbef59d6a68255ef0138fb2e93d980f2b2da30190bbf59a4e2856d86dfb9"
+
+[[files]]
 file = "config/starterkit.json5"
 hash = "c5c2f85ee5e5d597af6481b53edab999d9c0e289845dd663582b7617b1edad10"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "2a8a5a5aed5548bfde5403b457d49a72c443633ad82f470859df3d14bf16336f"
+hash = "5058e0262ed067415b3f98343770ace0a52780508595d3c77af60f359d038e0d"
 
 [[files]]
 file = "config/weakerspiderwebs.json5"
@@ -407,6 +219,10 @@ hash = "9118e92a075f8832ac740bb264337df82ba5789a8c42ad51fa5c55631aac755e"
 [[files]]
 file = "config/xaerominimap.txt"
 hash = "22b93eb21d8de6f5be18edf76bf8adf61b31493b03c380e4e03d055c4dfe6391"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "1a246f3f565a226d8921f3783effb4f539bcacfb643c74c5868be8a004a21029"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -679,6 +495,11 @@ hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "1d8b10baa654959dbe4c1ca48e673c2eb7a78c849f372dbfe71bcffb006a5d7e"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -731,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "3b525404ba90b0d5fbe2a76a06cc7484863c0307d3359ad1a38647ed734a4735"
 metafile = true
 
 [[files]]
@@ -864,8 +690,8 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-refresh-1.4.17c.jar"
-hash = "52d3d1ec27349cd7be1c954bc05d8c4743bbf83f6c99dcb9164388cdc3a835d7"
+file = "mods/vanilla-refresh-custom-default.jar"
+hash = "2d309dd0c0aad6149fdf04da3146c75220a60f6a69d9ec9fb3105abb50c5a15e"
 
 [[files]]
 file = "mods/village-bell-recipe.pw.toml"
@@ -906,6 +732,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "4b897d9ab4ad0aeed10155f0de06d3530227f5f1df0f5b291a7c62b51cd92fe6"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
