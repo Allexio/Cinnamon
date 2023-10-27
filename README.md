@@ -101,6 +101,7 @@ Format:
 - [Iron Chest](https://modrinth.com/mod/cyberanner-ironchest) ([Cyberanner](https://modrinth.com/user/cyberanner)) adds extra variants of chests that hold more items.
   - _Be warned, they will become normal chest size when placing them on moving contraptions._
 - [Extended Drawers](https://modrinth.com/mod/extended-drawers/) ([MattiDragon](https://modrinth.com/user/MattiDragon)) allows you to automate item storage using chest groups.
+  - _Increased base drawer capacity from 1024 to 2048._
 
 ### New blocks / items
 
