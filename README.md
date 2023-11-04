@@ -54,7 +54,7 @@ services:
       VERSION: "1.20.1"
       TYPE: MODRINTH
       MODRINTH_LOADER: FABRIC
-      OPS: "Allexio"
+      OPS: "[REPLACE WITH LIST OF OPS]"
       MEMORY: "5G"
       MODRINTH_PROJECT: allexio-create+
       MODRINTH_VERSION: 0.9.10
