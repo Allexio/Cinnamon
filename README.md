@@ -117,7 +117,10 @@ Format:
 
 - [plasmo-voice](https://modrinth.com/plugin/plasmo-voice) ([kpids](https://modrinth.com/user/kpids)) adds a really cool and customisable voice chat to the game.
   - _Disabled the default `M` keybinding for muting so it doesn't conflict with the map. Feel free to rebind this as you want._
+  - _Moved the default `V` keybinding for opening the voice mod config menu to `#` (UK keyboards) / `\` (US keyboards)._
+  - _Lowered the default voice activation volume._
 - [pv-addon-soundphysics](https://modrinth.com/mod/pv-addon-soundphysics) ([kpids](https://modrinth.com/user/kpids)) makes the voice chat use the sound physics from [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered).
+  - _This can be disabled client side, I am fully aware some players do not like hearing reverb in caves and/or block sound occlusion._ 
 - [Sit](https://modrinth.com/mod/bl4cks-sit) ([bl4ckscor3](https://modrinth.com/user/bl4ckscor3)) allows you to sit on slabs.
 
 ### Sound
