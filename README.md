@@ -163,7 +163,8 @@ Format:
 
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) ([TheXaero](https://modrinth.com/user/thexaero)) adds a world map, accessible by pressing the `M` key.
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) ([TheXaero](https://modrinth.com/user/thexaero)) adds the ability to add waypoints and see monsters and mobs on the map.
-  - The minimap component is actually disabled by default. Clients can re-enable it if they want.
+  - _The minimap component is disabled by default. Clients can re-enable it if they want._
+  - _Map will only show waypoints and player icons (disabled showing other entities on it)_
 - [ToolTipFix](https://modrinth.com/mod/tooltipfix) ([kyrptonaught](https://modrinth.com/user/kyrptonaught)) fixes tooltips going off-screen.
 - [Colorize](https://modrinth.com/mod/colorize) ([PanSzelescik](https://modrinth.com/user/PanSzelescik)) allows you to colour blocks with `right-click` when you hold a tint in your hand.
 - [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) ([Shedaniel](https://modrinth.com/user/shedaniel)) adds a pane to the right of your crafting screen that allows you to look up items and recipes.
