@@ -13,7 +13,7 @@ In the end this will be a vanilla++ Fabric modpack that satisfies most people wh
 ## Voice Chat
 This is a voice chat enabled server, using the [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) mod (alongside its compatibility patch for Sound Physics Remastered).
 
-The default option is voice activation. This can be changed by pressing the ```V``` key and setting it up as you want.
+The default option is voice activation. This can be changed by pressing the `#`(UK) / `\`(US) key and setting it up as you want.
 
 By default there are two "ranges" of loudness for when you speak (think of it as screaming or whispering)
 - 8 blocks (for whispering to someone without others hearing)
@@ -122,6 +122,8 @@ Format:
 - [pv-addon-soundphysics](https://modrinth.com/mod/pv-addon-soundphysics) ([kpids](https://modrinth.com/user/kpids)) makes the voice chat use the sound physics from [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered).
   - _This can be disabled client side, I am fully aware some players do not like hearing reverb in caves and/or block sound occlusion._ 
 - [Sit](https://modrinth.com/mod/bl4cks-sit) ([bl4ckscor3](https://modrinth.com/user/bl4ckscor3)) allows you to sit on slabs.
+- [Music Maker Mod](https://modrinth.com/mod/music-maker-mod) ([xerca](https://modrinth.com/user/xerca)) adds musical instruments that can be manually played or fed user-creatable scores to play automatically. You can even plug in a keyboard to your computer and play the instruments directly.
+- [Joy of Painting](https://modrinth.com/mod/joy-of-painting) ([xerca](https://modrinth.com/user/xerca)) adds canvases that players can paint on. Share your creativity with others in brand new ways :)
 
 ### Sound
 

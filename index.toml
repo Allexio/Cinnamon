@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "39ee8cb7bd1c57f40337eae1cadb6b5979ed0aece90dca53c493c10e311b9fe5"
+hash = "96081f1105917798f647d966351f052645a48c0a457a909bbe09fa8cd9075f85"
 
 [[files]]
 file = "allexio-modpack-icon.png"
@@ -15,6 +15,10 @@ hash = "cf26eceb379a84dd60346a6f48dfa59371e3b205dc0880a985e4c41bfafe1aca"
 [[files]]
 file = "config/doubledoors.json5"
 hash = "d7bb1517f49ccfd97f9cd3dce220c3ed33ff479eb22f2127e8c191f27abde086"
+
+[[files]]
+file = "config/extended_drawers.json"
+hash = "21608004c8b13f08dda454a7e100f2277841d367b94dab3240de04ab745a4c94"
 
 [[files]]
 file = "config/fallingtree.json"
