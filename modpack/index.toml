@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "96081f1105917798f647d966351f052645a48c0a457a909bbe09fa8cd9075f85"
+hash = "3269808e06f58c284069e5eb55fe614f3ecad2016bb377fa5d5ee94bbbb89139"
 
 [[files]]
 file = "allexio-modpack-icon.png"
 hash = "371c3d8f4bc63e45cffd25b6aa71545a1bc79c47330daf036b436a408306b915"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "f293c49eeeaf9f37e00dd4ce779c4b42b798bf813694f7907849739f1c3e93d6"
 
 [[files]]
 file = "config/biomespawnpoint/spawnbiomes.txt"
@@ -26,7 +30,7 @@ hash = "483a2169a1b3f14379846d4bb265076d4d1c13989aeead3a6c87e8659dfc3329"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "f89e3061a0e71b7af0c260417e0771d2b1c04f95642fd1a142e954d99dbc6e86"
+hash = "adefe24a6f886dc32c66348745cefb73f8f8f9238dc1fbc71bb37645dc860f52"
 
 [[files]]
 file = "config/inventoryprofilesnext/192.168.1.171/prev-villager-trading-config.json"
@@ -386,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/discord-statusbot.pw.toml"
+hash = "a3d4974c27c3d831cdf8923a4f7d060dd98981acd392a5a2030fb0c147ae1a79"
 metafile = true
 
 [[files]]
