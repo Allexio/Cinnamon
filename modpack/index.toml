@@ -1,20 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "3269808e06f58c284069e5eb55fe614f3ecad2016bb377fa5d5ee94bbbb89139"
-
-[[files]]
-file = "allexio-modpack-icon.png"
-hash = "371c3d8f4bc63e45cffd25b6aa71545a1bc79c47330daf036b436a408306b915"
-
-[[files]]
 file = "config/betterf3.json"
 hash = "f293c49eeeaf9f37e00dd4ce779c4b42b798bf813694f7907849739f1c3e93d6"
 
 [[files]]
 file = "config/biomespawnpoint/spawnbiomes.txt"
 hash = "cf26eceb379a84dd60346a6f48dfa59371e3b205dc0880a985e4c41bfafe1aca"
+
+[[files]]
+file = "config/chunkloaders-common.toml"
+hash = "34f2431aaad7ab6b2abc42c48f0a01c36f8676169b026b8796f5c37464529f69"
 
 [[files]]
 file = "config/doubledoors.json5"
@@ -50,7 +46,7 @@ hash = "2b89c6868da2000aece619ff4d3ab67497688656f0653e92ecc8de7129a2f896"
 
 [[files]]
 file = "config/iris.properties"
-hash = "848405c79a9096c231b408cdf497b79d38f9aefb2b78ec2789842abda31657af"
+hash = "da5647aa1ee14bbecd4df987d402409d039ffedd1c1a06a43ced25ef600bfd6e"
 
 [[files]]
 file = "config/plasmovoice/.crowdin/de_de.json"
@@ -263,6 +259,11 @@ hash = "ead86ab1bacf74c7ad2d28c11157c2982fab4d15d2c25158e77b7491eff3d983"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -328,6 +329,16 @@ hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "c0a9f74591d0a2ea22da7775d167c00c877959a69d6ef51d6f78ce52d4c896ae"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "ed917f425399ad4d2b38249319b4ecaac72f23eff3b3c723ad706a13cb4da2f7"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -353,6 +364,16 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "f504ad6d6e32d60deea0e15bfa645259ff42d7b6d36dd8ebc72e7a221de883ca"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "75d5d9a53126994e1e25c7dc2d4f4cec8509855517a4b9133bf000f58e467af2"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
@@ -371,6 +392,10 @@ metafile = true
 file = "mods/create-structures.pw.toml"
 hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
+
+[[files]]
+file = "mods/create_enchantment_industry-1.0.1.b.jar"
+hash = "1c5269576c48ed40c9c2242427657729a8ebe847d8475416ab118c8703ffbc17"
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
@@ -458,6 +483,11 @@ hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
+metafile = true
+
+[[files]]
 file = "mods/fish-on-the-line.pw.toml"
 hash = "9a50a55c804c291276794f98bd1dbc82ddfb3a07dcdfe23c1877b4376ffc1620"
 metafile = true
@@ -473,8 +503,18 @@ hash = "3f09bb38efde1a93e272c206e11bbf9aed4b70dfea20a346f53c4e7da5080a82"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "08636c58b5d8591cb713231a9f9831369436b8ad2504c5610c3b66370b5891fc"
+metafile = true
+
+[[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "b38a7635f23e55121ed6bd111503fa80f7149e3e80001781102ecc62a0cae97a"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
 metafile = true
 
 [[files]]
@@ -573,6 +613,11 @@ hash = "3b525404ba90b0d5fbe2a76a06cc7484863c0307d3359ad1a38647ed734a4735"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
@@ -585,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "240cc009c83904cbe69eccf79f42ef50300007fe9cc00d0489dbd888383cb883"
 metafile = true
 
 [[files]]
@@ -615,6 +665,11 @@ metafile = true
 [[files]]
 file = "mods/randomium-ore.pw.toml"
 hash = "ac134169331a02143959b1b2247804b2661f9379551d1a695e24df3d45625b5b"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
@@ -653,6 +708,11 @@ hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
@@ -680,6 +740,16 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "28486737522d360de011b65f7637c241f4db3618ecda9786bd14f009e1b48172"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
 metafile = true
 
 [[files]]
@@ -748,11 +818,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4b897d9ab4ad0aeed10155f0de06d3530227f5f1df0f5b291a7c62b51cd92fe6"
+hash = "aa96f995fd424435ef5a4e3c2dc39693e9fbbf3a9c1fc5fbf16aa66e27d8a862"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
-hash = "a24e204902d6fcdcbc113839cfed988309e7f6e05ecc970662222844f1fc67e8"
+file = "scripts/remove-waystone-recipe.zs"
+hash = "f81dd328ff3acad02fb5e9b2c8f2a16c9b7c0497a985b52bdac57694edec9a11"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.zip.txt"
+hash = "7445301c2503e0ea130a3426f2c4a35c9f6969b64386b5902a91a7aacd26b1a3"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
