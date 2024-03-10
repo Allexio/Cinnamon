@@ -94,7 +94,7 @@ Format:
 - [Create Fabric](https://modrinth.com/mod/create-fabric) ([tropheusj](https://modrinth.com/user/tropheusj)) is the fabric port of the [Create](https://modrinth.com/mod/create) mod we all know and love.
 - [Create Slice & Dice](https://modrinth.com/mod/slice-and-dice) ([Possible_Triangle](https://modrinth.com/user/possible_triangle)) adds a way to make [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric) recipes with [Create](https://modrinth.com/mod/create-fabric) automation. Also sprinklers.
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) ([IThundxr](https://modrinth.com/user/IThundxr)) adds a cool new monorail system and many other enhancements to the [Create](https://modrinth.com/mod/create-fabric) rail system.
-- [COMING SOON] -- Not added yet -- [Create Enchantment Industry Fabric](https://modrinth.com/mod/create-enchantment-industry-fabric) ([MarbleGateKeeper](https://modrinth.com/user/MarbleGateKeeper))
+- [Create Enchantment Industry Fabric](https://modrinth.com/mod/create-enchantment-industry-fabric) ([MarbleGateKeeper](https://modrinth.com/user/MarbleGateKeeper))
 
 ### Storage
 
@@ -144,9 +144,10 @@ Format:
 
 ### Biomes
 
-- [Terralith](https://modrinth.com/mod/terralith) ([Stardust](https://modrinth.com/user/Stardust)) adds biomes to the overworld.
-- [Incendium](https://modrinth.com/mod/incendium) ([Stardust](https://modrinth.com/user/Stardust)) adds biomes to the nether.
-- [Nullscape](https://modrinth.com/mod/nullscape) ([Stardust](https://modrinth.com/user/Stardust)) adds biomes to the end.
+- [Terralith](https://modrinth.com/mod/terralith) ([Stardust Labs](https://modrinth.com/organization/stardust-labs)) adds biomes to the overworld.
+- [Remove Terralith Intro Message](https://modrinth.com/datapack/remove-terralith-intro-message) ([Stardust Labs](https://modrinth.com/organization/stardust-labs)) removes th- just read the mod's name.
+- [Incendium](https://modrinth.com/mod/incendium) ([Stardust Labs](https://modrinth.com/organization/stardust-labs)) adds biomes to the nether.
+- [Nullscape](https://modrinth.com/mod/nullscape) ([Stardust Labs](https://modrinth.com/organization/stardust-labs)) adds biomes to the end.
 
 ### Structures
 
@@ -169,13 +170,14 @@ Format:
 - [Colorize](https://modrinth.com/mod/colorize) ([PanSzelescik](https://modrinth.com/user/PanSzelescik)) allows you to colour blocks with `right-click` when you hold a tint in your hand.
 - [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) ([Shedaniel](https://modrinth.com/user/shedaniel)) adds a pane to the right of your crafting screen that allows you to look up items and recipes.
 - [BetterF3](https://modrinth.com/mod/betterf3) ([Treyruffy](https://modrinth.com/user/treyruffy)) adds additional info and colours to your F3. Fully customisable client-side.
+  - _Pre-configured to minimise the amount of information displayed to make it much more readable and also take less screen space. Feel free to re-enable individual modules if you so desire._
 - [FallingTree](https://modrinth.com/mod/fallingtree) ([Rakambda](https://modrinth.com/user/Rakambda)) makes trees fall down when you cut any wood block of them with an axe.
 - [Why Stacks of 16](https://modrinth.com/mod/why-stacks-of-16) ([LaidBackSloth](https://modrinth.com/user/LaidBackSloth)) makes all stacks 64 instead of some being arbitrarily 16.
 - [Double Doors](https://modrinth.com/mod/double-doors) ([Serilum](https://modrinth.com/user/Serilum)) makes all doors/hatches open/close when you interact with one of a connected group.
 - [Weaker Spiderwebs](https://modrinth.com/mod/weaker-spiderwebs) ([Serilum](https://modrinth.com/user/Serilum)) makes spiderwebs break when you go through them.
   - _Time set to 1 second._
 - [Starter Kit](https://modrinth.com/mod/starter-kit) ([Serilum](https://modrinth.com/user/Serilum)) allows players to start with a default kit of equipment when they spawn in the server.
-  - _Set to be 16 bread and a [Nature's Compass](https://modrinth.com/mod/natures-compass)._
+  - _Set to be 16 bread, a [Nature's Compass](https://modrinth.com/mod/natures-compass), and a boat (it helps when you spawn on an island)_
 - [Better Spawner Control](https://modrinth.com/mod/better-spawner-control) ([Serilum](https://modrinth.com/user/Serilum)) allows you to completely disable spawners by sticking torches all around them.
 - [Fish on the Line](https://modrinth.com/mod/fish-on-the-line) ([Serilum](https://modrinth.com/user/Serilum)) allows you to equip a bell offhand when fishing and whenever something is on the line it'll ring.
 - [Edibles](https://modrinth.com/mod/edibles) ([Serilum](https://modrinth.com/user/Serilum)) allows you to eat potion ingredients directly for a (very) temporary buff.
@@ -185,7 +187,7 @@ Format:
 - [Fall Through Slime](https://modrinth.com/mod/fall-through-slime) ([Serilum](https://modrinth.com/user/Serilum)) allows you to fall through slime blocks if you don't move.
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby) ([Serilum](https://modrinth.com/user/Serilum)) makes scaffolding pieces fall next to the one you initially break.
 - [Biome Spawn Point](https://modrinth.com/mod/biome-spawn-point) ([Serilum](https://modrinth.com/user/Serilum)) makes world spawn point be in a specific biome
-  - _Biome spawn point is set to a floating spring island. Have fun and enjoy the views._
+  - _Biome spawn point is set to a floating spring island. Not inspired by Tears of the Kingdom at all._
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) ([blackd](https://modrinth.com/user/blackd))
   - _Disabled audio warnings when about to break._
   - _Disabled inventory profiles._
@@ -217,7 +219,6 @@ Format:
 - [Debugify](https://modrinth.com/mod/debugify) ([isxander](https://modrinth.com/user/isxander)) fixes bugs in Minecraft.
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) ([ishland](https://modrinth.com/user/ishland)) allows better chunk performance.
 - [Krypton](https://modrinth.com/mod/krypton) ([astei](https://modrinth.com/user/astei)) adds server performance improvements.
-- [Iris & Oculus Flywheel Compat](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) ([leon_mout](https://legacy.curseforge.com/members/leon_mout/projects))
 
 ## Graphical Additions
 
