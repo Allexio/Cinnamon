@@ -1,13 +1,13 @@
 name = "Better Spawner Control"
-filename = "betterspawnercontrol-1.20.1-4.3.jar"
+filename = "betterspawnercontrol-1.20.1-4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hmAeYRJT/versions/IcnYx2dQ/betterspawnercontrol-1.20.1-4.3.jar"
+url = "https://cdn.modrinth.com/data/hmAeYRJT/versions/Wf31wJNj/betterspawnercontrol-1.20.1-4.4.jar"
 hash-format = "sha1"
-hash = "afff06adb5eddbe59c117b0fe4e7de1121b3b89a"
+hash = "d077bacdf074cf430896104cdecf7e48df0bd801"
 
 [update]
 [update.modrinth]
 mod-id = "hmAeYRJT"
-version = "IcnYx2dQ"
+version = "Wf31wJNj"

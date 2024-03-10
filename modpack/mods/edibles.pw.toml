@@ -1,13 +1,13 @@
 name = "Edibles"
-filename = "edibles-1.20.1-4.2.jar"
+filename = "edibles-1.20.1-4.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rjl8pCZ9/versions/1pLMRQqy/edibles-1.20.1-4.2.jar"
+url = "https://cdn.modrinth.com/data/Rjl8pCZ9/versions/9vPGP4PO/edibles-1.20.1-4.3.jar"
 hash-format = "sha1"
-hash = "629626450f7346f1f95af65fc0a6551d5e1259c4"
+hash = "16dfe423fc439162d98aa618423b99b12dcdefdb"
 
 [update]
 [update.modrinth]
 mod-id = "Rjl8pCZ9"
-version = "1pLMRQqy"
+version = "9vPGP4PO"
