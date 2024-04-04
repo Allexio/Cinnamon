@@ -22,8 +22,3 @@ By default there are two "ranges" of loudness for when you speak (think of it as
 ## Minimap
 
 The minimap is disabled by default because I feel like it changes the vanilla game too much. You can still access the full map by pressing `M` and clients can re-enable the minimap individually.
-
-# Server setup
-
-
-
