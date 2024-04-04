@@ -16,17 +16,4 @@ In the end this will be a vanilla++ Fabric modpack that satisfies most people wh
   <a href="modlist"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/modlist.png" alt="modlist" width="49.7%"/></a>
 </p>
 
-# Client setup
-
-## Voice Chat
-This is a voice chat enabled server, using the [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) mod (alongside its compatibility patch for Sound Physics Remastered).
-
-The default option is voice activation. This can be changed by pressing the `#`(UK) / `\`(US) key and setting it up as you want.
-
-By default there are two "ranges" of loudness for when you speak (think of it as screaming or whispering)
-- 8 blocks (for whispering to someone without others hearing)
-- 64 blocks (for talking to people comfortably on the server without having to stick to them like glue)
-
-## Minimap
-
-The minimap is disabled by default because I feel like it changes the vanilla game too much. You can still access the full map by pressing `M` and clients can re-enable the minimap individually.
+Thanks for using the modpack!
