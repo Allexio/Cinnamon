@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Close Combat",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "lookinsharp:diamond_broadsword"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/adventure.png"
+}

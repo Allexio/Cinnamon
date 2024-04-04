@@ -1,0 +1,43 @@
+{
+	"experience_per_level": {
+		"type": "values",
+		"data": {
+			"values": [
+				200,
+				300,
+				400,
+				400,
+				500,
+				550
+			]
+		}
+	},
+	"sources": [
+		{
+
+			"type": "puffish_skills:mine_block",
+			"data": {
+				"conditions": {
+					"axe": {
+						"type": "block_tag",
+						"data": {
+							"tag": "minecraft:mineable/axe"
+						}
+					},
+					"pickaxe": {
+						"type": "block_tag",
+						"data": {
+							"tag": "minecraft:mineable/pickaxe"
+						}
+					}
+				},
+				"experience": [
+					{
+						"condition": "(axe | pickaxe)",
+						"expression": "2"
+					}
+				]
+			}
+		}
+	]
+}

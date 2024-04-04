@@ -1,0 +1,154 @@
+{
+	"root_misc": {
+		"title": "Adventure Begins!",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "soulsweapons:chungus_emerald"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"fortune": {
+		"title": "+0.1 Fortune",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile080.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"mining_speed": {
+		"title": "+3% Mining Speed",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile160.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"sprint_speed": {
+		"title": "+5% Sprint Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.sprinting_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"knockback_power": {
+		"title": "+2% Knockback",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile280.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.knockback",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"exp_dropped": {
+		"title": "+0.3 Experience Drop",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile198.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additionalentityattributes:dropped_experience",
+					"value": 0.3,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"lung_capacity": {
+		"title": "+1 Lung Capacity",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/efficiency2.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additionalentityattributes:lung_capacity",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"dodge": {
+		"title": "-1 Dodge Cooldown",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile188.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "combatroll:recharge",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	}
+}

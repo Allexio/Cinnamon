@@ -1,0 +1,488 @@
+{
+	"7yh8a0ox1wrdbvjn": {
+		"definition": "root_melee",
+		"x": 0,
+		"y": 450,
+		"root": true
+	},
+	"papsgcya3gpxgyrp": {
+		"definition": "resistance",
+		"x": -100,
+		"y": 400,
+		"root": false
+	},
+	"lwuivta03me3o94d": {
+		"definition": "melee_damage",
+		"x": 0,
+		"y": 400,
+		"root": false
+	},
+	"00aifhv5yk4367d7": {
+		"definition": "attack_speed",
+		"x": 100,
+		"y": 400,
+		"root": false
+	},
+	"7ne1i4uy9274ldc9": {
+		"definition": "melee_damage",
+		"x": 0,
+		"y": 100,
+		"root": false
+	},
+	"b97joq6gj90cykmg": {
+		"definition": "melee_damage",
+		"x": 150,
+		"y": 250,
+		"root": false
+	},
+	"qqwvzym17hs9mrgu": {
+		"definition": "crit_dmg",
+		"x": 250,
+		"y": 200,
+		"root": false
+	},
+	"et4jq23vhblkt8bd": {
+		"definition": "resistance",
+		"x": -150,
+		"y": 250,
+		"root": false
+	},
+	"v9b1zyo3frvabrqk": {
+		"definition": "health",
+		"x": -250,
+		"y": 200,
+		"root": false
+	},
+	"ad2wuk3huuhsrtuu": {
+		"definition": "crit_dmg",
+		"x": -50,
+		"y": 250,
+		"root": false
+	},
+	"ncyrj63ddjpk5mkl": {
+		"definition": "health",
+		"x": 0,
+		"y": 0,
+		"root": false
+	},
+	"ogbwwr0m2z78ml9c": {
+		"definition": "attack_speed",
+		"x": 300,
+		"y": 100,
+		"root": false
+	},
+	"w8bg4q2vgd4euxaz": {
+		"definition": "warding",
+		"x": 0,
+		"y": -450,
+		"root": false
+	},
+	"x4496xima9ds08mu": {
+		"definition": "resistance",
+		"x": -150,
+		"y": -250,
+		"root": false
+	},
+	"tw1755vavodxuwgb": {
+		"definition": "resistance",
+		"x": 300,
+		"y": -100,
+		"root": false
+	},
+	"5jjcedaviz4js4a3": {
+		"definition": "crit_dmg",
+		"x": -300,
+		"y": -100,
+		"root": false
+	},
+	"kvfg1f6goazl6v5i": {
+		"definition": "attack_speed",
+		"x": -350,
+		"y": -350,
+		"root": false
+	},
+	"0h4sxnoldmd9ceyt": {
+		"definition": "resistance",
+		"x": -250,
+		"y": -350,
+		"root": false
+	},
+	"kil05ebybefmy3pa": {
+		"definition": "resistance",
+		"x": -200,
+		"y": -400,
+		"root": false
+	},
+	"7ni8a9uw078db6oa": {
+		"definition": "melee_damage",
+		"x": 0,
+		"y": -350,
+		"root": false
+	},
+	"yy7msjh5zq99kd99": {
+		"definition": "melee_damage",
+		"x": 0,
+		"y": -400,
+		"root": false
+	},
+	"51kxgfgyjhv12z70": {
+		"definition": "attack_speed",
+		"x": 200,
+		"y": -400,
+		"root": false
+	},
+	"vj94sjg6zz62gzc7": {
+		"definition": "resistance",
+		"x": -450,
+		"y": 100,
+		"root": false
+	},
+	"2vf6b7vt3lunfkdg": {
+		"definition": "regen",
+		"x": -400,
+		"y": 0,
+		"root": false
+	},
+	"0of8b71tu573s8ju": {
+		"definition": "regen",
+		"x": -150,
+		"y": 50,
+		"root": false
+	},
+	"r2bfb0ekgyvc0pzh": {
+		"definition": "saturation",
+		"x": 150,
+		"y": 50,
+		"root": false
+	},
+	"tt70fr3kpb29xr31": {
+		"definition": "saturation",
+		"x": 400,
+		"y": 0,
+		"root": false
+	},
+	"p0rznmdrhoxztzdy": {
+		"definition": "warding",
+		"x": 450,
+		"y": 100,
+		"root": false
+	},
+	"fheco1zm0038glka": {
+		"definition": "saturation",
+		"x": -350,
+		"y": 150,
+		"root": false
+	},
+	"djfoqukzfcnwv4xs": {
+		"definition": "regen",
+		"x": 350,
+		"y": 150,
+		"root": false
+	},
+	"k00mzy8ck67tqhwu": {
+		"definition": "attack_speed",
+		"x": 250,
+		"y": -350,
+		"root": false
+	},
+	"b4rqp8pai5fvg57j": {
+		"definition": "melee_damage",
+		"x": 350,
+		"y": -350,
+		"root": false
+	},
+	"hpt4jug9lfg6a900": {
+		"definition": "regen",
+		"x": -350,
+		"y": 300,
+		"root": false
+	},
+	"9y0qdw3x321yexo8": {
+		"definition": "melee_damage",
+		"x": -500,
+		"y": 300,
+		"root": false
+	},
+	"d710v6v3yyuz8bqr": {
+		"definition": "health",
+		"x": -400,
+		"y": 250,
+		"root": false
+	},
+	"91m4oejtot570mif": {
+		"definition": "melee_damage",
+		"x": 400,
+		"y": 250,
+		"root": false
+	},
+	"vtyefgpz0pxjj7aq": {
+		"definition": "health",
+		"x": 350,
+		"y": 300,
+		"root": false
+	},
+	"ws3umu304krwovye": {
+		"definition": "resistance",
+		"x": 500,
+		"y": 300,
+		"root": false
+	},
+	"3bytno5z1eocqoqb": {
+		"definition": "resistance",
+		"x": -300,
+		"y": 100,
+		"root": false
+	},
+	"9cn4pf5ix6ob2mqt": {
+		"definition": "health",
+		"x": -150,
+		"y": -450,
+		"root": false
+	},
+	"ets582wnpnk0rpd6": {
+		"definition": "health",
+		"x": 150,
+		"y": -450,
+		"root": false
+	},
+	"f1l2d70dcjsh77sm": {
+		"definition": "melee_damage",
+		"x": 0,
+		"y": -200,
+		"root": false
+	},
+	"gqcgzktt9m0vf1j6": {
+		"definition": "attack_speed",
+		"x": 150,
+		"y": -250,
+		"root": false
+	},
+	"9a3wwr9w95cxmje6": {
+		"definition": "warding",
+		"x": -450,
+		"y": -200,
+		"root": false
+	},
+	"jh53t73q5ckdp0kn": {
+		"definition": "melee_damage",
+		"x": 450,
+		"y": -200,
+		"root": false
+	},
+	"erm6q6gz500aa5dt": {
+		"definition": "attack_speed",
+		"x": 0,
+		"y": 200,
+		"root": false
+	},
+	"5epfy2aag6feyarx": {
+		"definition": "resistance",
+		"x": -200,
+		"y": 400,
+		"root": false
+	},
+	"7gslvsl1m9tim23d": {
+		"definition": "attack_speed",
+		"x": 200,
+		"y": 400,
+		"root": false
+	},
+	"065geot9hvzon8f8": {
+		"definition": "attack_speed",
+		"x": 400,
+		"y": -300,
+		"root": false
+	},
+	"qpn234dpuqyl1r6n": {
+		"definition": "melee_damage",
+		"x": 0,
+		"y": 300,
+		"root": false
+	},
+	"r0hyax47n5kclt1m": {
+		"definition": "saturation",
+		"x": -400,
+		"y": -300,
+		"root": false
+	},
+	"jrlwgz98bhutua8h": {
+		"definition": "luck",
+		"x": 0,
+		"y": -500,
+		"root": false
+	},
+	"1lbh57xb1t9ntvgj": {
+		"definition": "melee_damage",
+		"x": -200,
+		"y": 300,
+		"root": false
+	},
+	"f5xlgio7xefxuwgz": {
+		"definition": "attack_speed",
+		"x": 200,
+		"y": 300,
+		"root": false
+	},
+	"bhp1x6zyf8l1lmjs": {
+		"definition": "melee_damage",
+		"x": -100,
+		"y": 150,
+		"root": false
+	},
+	"t46ck9qmq1259xod": {
+		"definition": "resistance",
+		"x": 100,
+		"y": 150,
+		"root": false
+	},
+	"wmr1u3qp8y8rc5r8": {
+		"definition": "melee_damage",
+		"x": 0,
+		"y": -50,
+		"root": false
+	},
+	"wifq2ajzeb7bjsez": {
+		"definition": "attack_speed",
+		"x": -200,
+		"y": 100,
+		"root": false
+	},
+	"u56uusz6bjk8vc9j": {
+		"definition": "resistance",
+		"x": 200,
+		"y": 100,
+		"root": false
+	},
+	"umhyd1p19h2xj33j": {
+		"definition": "attack_speed",
+		"x": -450,
+		"y": 200,
+		"root": false
+	},
+	"5iplpwz59pxbe466": {
+		"definition": "saturation",
+		"x": 450,
+		"y": 200,
+		"root": false
+	},
+	"ai6c5199d66rf6z6": {
+		"definition": "resistance",
+		"x": -250,
+		"y": -250,
+		"root": false
+	},
+	"iiyah16ivp1f2dwx": {
+		"definition": "attack_speed",
+		"x": 250,
+		"y": -250,
+		"root": false
+	},
+	"jzz5lrfb0uct7i4x": {
+		"definition": "melee_damage",
+		"x": -100,
+		"y": -500,
+		"root": false
+	},
+	"wqbsdd1rzpiczwpq": {
+		"definition": "melee_damage",
+		"x": 100,
+		"y": -500,
+		"root": false
+	},
+	"m8piuwchjeasq11k": {
+		"definition": "resistance",
+		"x": -100,
+		"y": -50,
+		"root": false
+	},
+	"7b6xiyw5g9qo4dkr": {
+		"definition": "attack_speed",
+		"x": 100,
+		"y": -50,
+		"root": false
+	},
+	"0mp5oofobrcynrjj": {
+		"definition": "attack_speed",
+		"x": -200,
+		"y": -200,
+		"root": false
+	},
+	"ymvkwam0dybhae34": {
+		"definition": "resistance",
+		"x": 200,
+		"y": -200,
+		"root": false
+	},
+	"qfkodhh1s36952zp": {
+		"definition": "crit_dmg",
+		"x": 0,
+		"y": -300,
+		"root": false
+	},
+	"g9d53hl6v9a7c832": {
+		"definition": "melee_damage",
+		"x": -100,
+		"y": -350,
+		"root": false
+	},
+	"ad0nyb7d6qku7t6m": {
+		"definition": "melee_damage",
+		"x": 100,
+		"y": -350,
+		"root": false
+	},
+	"qme3m6xfmk2fwmyo": {
+		"definition": "crit_dmg",
+		"x": -50,
+		"y": -150,
+		"root": false
+	},
+	"906xd7bqbvy46vu5": {
+		"definition": "crit_dmg",
+		"x": 50,
+		"y": -150,
+		"root": false
+	},
+	"853hr0q1errustwj": {
+		"definition": "warding",
+		"x": -200,
+		"y": -50,
+		"root": false
+	},
+	"o2iumhsec4wtmhju": {
+		"definition": "melee_damage",
+		"x": 200,
+		"y": -50,
+		"root": false
+	},
+	"g3n76sr7gczrk17c": {
+		"definition": "melee_damage",
+		"x": 50,
+		"y": 250,
+		"root": false
+	},
+	"rtuiczr1d61dyi00": {
+		"definition": "resistance",
+		"x": -500,
+		"y": -250,
+		"root": false
+	},
+	"68sbb3qy0dom7mgr": {
+		"definition": "crit_dmg",
+		"x": 500,
+		"y": -250,
+		"root": false
+	},
+	"v8vem6koc8hch14v": {
+		"definition": "melee_damage",
+		"x": -250,
+		"y": -400,
+		"root": false
+	},
+	"bjx82la5sb9lk1lt": {
+		"definition": "saturation",
+		"x": 250,
+		"y": -400,
+		"root": false
+	}
+}

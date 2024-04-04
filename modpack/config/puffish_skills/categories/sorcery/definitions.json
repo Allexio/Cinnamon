@@ -1,0 +1,258 @@
+{
+	"root_mage": {
+		"title": "The Path of Sorcery",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "runes:arcane_stone"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:critical_chance",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:root_mage"
+				}
+			}
+		]
+	},
+	"warding": {
+		"title": "+1 Warding",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile143.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spellbladenext:warding",
+					"value": 1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:warding"
+				}
+			}
+		]
+	},
+	"fire_damage": {
+		"title": "+5% Fire Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile005.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:fire",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:fire"
+				}
+			}
+		]
+	},
+	"spell_cd": {
+		"title": "-5% Spell Cooldown",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/efficiency.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:haste",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:spellcd"
+				}
+			}
+		]
+	},
+	"luck": {
+		"title": "+0.25 Luck",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:luck"
+				}
+			}
+		]
+	},
+	"healing": {
+		"title": "+7% Healing Power",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile080.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:healing",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:healing"
+				}
+			}
+		]
+	},
+	"arcane_damage": {
+		"title": "+5% Arcane Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile037.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:arcane",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:arcane"
+				}
+			}
+		]
+	},
+	"frost_damage": {
+		"title": "+5% Frost Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile069.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:frost",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:frost"
+				}
+			}
+		]
+	},
+	"critical_damage": {
+		"title": "+10% Crit Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile144.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:critical_damage",
+					"value": 0.10,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:spell_critdmg"
+				}
+			}
+		]
+	},
+	"critical_chance": {
+		"title": "+15% Crit Chance",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/strenght.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:critical_damage",
+					"value": 15,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:spell_critrate"
+				}
+			}
+		]
+	}
+}

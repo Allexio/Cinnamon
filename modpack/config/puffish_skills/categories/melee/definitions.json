@@ -1,0 +1,258 @@
+{
+	"root_melee": {
+		"title": "Take on the path of the Warrior.",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "lookinsharp:diamond_broadsword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:root_melee"
+				}
+			}
+		]
+	},
+	"health": {
+		"title": "+1 Heart",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile337.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "tfunction commands:hp"
+				}
+			}
+		]
+	},
+	"resistance": {
+		"title": "+1% Resistance",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile303.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:resist"
+				}
+			}
+		]
+	},
+	"melee_damage": {
+		"title": "+2% Melee Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile259.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:melee_damage"
+				}
+			}
+		]
+	},
+	"attack_speed": {
+		"title": "+3% Attack Speed",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile268.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:atkspeed"
+				}
+			}
+		]
+	},
+	"luck": {
+		"title": "+0.25 Luck",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:luck"
+				}
+			}
+		]
+	},
+	"saturation": {
+		"title": "+3% Saturation",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "saturation"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:saturation"
+				}
+			}
+		]
+	},
+	"regen": {
+		"title": "+4% Regeneration",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile336.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.04,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:regen"
+				}
+			}
+		]
+	},
+	"crit_dmg": {
+		"title": "+5% Crit Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile343.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additionalentityattributes:critical_bonus_damage",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:cdmg"
+				}
+			}
+		]
+	},
+	"warding": {
+		"title": "+1 Warding",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile143.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spellbladenext:warding",
+					"value": 1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:warding"
+				}
+			}
+		]
+	}
+}

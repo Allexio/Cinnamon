@@ -42,9 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["fabric","minecraft:supporteatinganimation", "presencefootsteps:default_sound_pack"]
+resourcePacks:["vanilla","pfm-asset-resources","fabric","minecraft:supporteatinganimation","presencefootsteps:default_sound_pack","seasons:seasonal_lush_caves","Moonlight Mods Dynamic Assets","continuity:default","file/Default-Dark-Mode-1.20.1-0.5-000000-1-0.5-000000-AAAAAA-(2023.11.0).zip","file/EBE_1.20.x_v1.1.zip","file/Stay_True_1.20.zip","railways:green_signals"]
 incompatibleResourcePacks:[]
-lastServer:192.168.1.171
 lang:en_us
 soundDevice:""
 chatVisibility:0
@@ -172,7 +171,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

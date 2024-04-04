@@ -1,0 +1,13 @@
+name = "Extra RPG Attributes"
+filename = "extraspellattributes-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oskghcoj/versions/a2NoEf6w/extraspellattributes-1.1.1.jar"
+hash-format = "sha1"
+hash = "6eb84f4551b9fb3f695c8cb6e28a17d8f16a415e"
+
+[update]
+[update.modrinth]
+mod-id = "oskghcoj"
+version = "a2NoEf6w"

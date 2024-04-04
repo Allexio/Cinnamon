@@ -1,0 +1,13 @@
+name = "Truly Modular: Archery"
+filename = "Truly-Modular-Archery-1.2-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RXklwn50/versions/EpgbZIql/Truly-Modular-Archery-1.2-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "b241ca26eca8866e47baacb9e690b03b6283b1dc"
+
+[update]
+[update.modrinth]
+mod-id = "RXklwn50"
+version = "EpgbZIql"

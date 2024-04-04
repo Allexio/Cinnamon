@@ -1,6 +1,6 @@
 'offhand' : '',
 'head' : '',
-'chest' : '',
+'chest' : '{Count:1b,id:"vc_gliders:paraglider_wood"}',
 'legs' : '',
 'feet' : '',
 0 : '{Count:1b,id:"naturescompass:naturescompass"}',

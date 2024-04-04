@@ -1,0 +1,233 @@
+{
+	"root_hunter": {
+		"title": "Take on the path of the Hunter",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "archers:composite_longbow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "projectile_damage:generic",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:root_archer"
+				}
+			}
+		]
+	},
+	"health": {
+		"title": "+1 Heart",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile337.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:hp"
+				}
+			}
+		]
+	},
+	"ranged_damage": {
+		"title": "+2% Ranged Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile258.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.ranged_damage",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:archer_damage"
+				}
+			}
+		]
+	},
+	"skill_cd": {
+		"title": "-5% Skill Cooldown",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/dexterity.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:haste",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:archer_cd"
+				}
+			}
+		]
+	},
+	"luck": {
+		"title": "+0.25 Luck",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:luck"
+				}
+			}
+		]
+	},
+	"saturation": {
+		"title": "+3% Saturation",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "saturation"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:saturation"
+				}
+			}
+		]
+	},
+	"regen": {
+		"title": "+4% Regeneration",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile336.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.04,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:regen"
+				}
+			}
+		]
+	},
+	"accuracy": {
+		"title": "+5% Accuracy",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/tile261.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "obscure_api:accuracy",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:accuracy"
+				}
+			}
+		]
+	},
+	"crit_dmg": {
+		"title": "+5% Crit Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "textures/items/strenght.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additionalentityattributes:critical_bonus_damage",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "function commands:cdmg"
+				}
+			}
+		]
+	}
+}

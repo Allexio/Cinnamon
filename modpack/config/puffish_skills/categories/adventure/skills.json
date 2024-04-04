@@ -1,0 +1,272 @@
+{
+	"kpdp99k6jdcln3mx": {
+		"definition": "fortune",
+		"x": -57.735026918962575,
+		"y": 0,
+		"root": false
+	},
+	"m3b49k73s35lvhj0": {
+		"definition": "fortune",
+		"x": 57.735026918962575,
+		"y": 0,
+		"root": false
+	},
+	"2j3lgllnj1wy0o3j": {
+		"definition": "fortune",
+		"x": -519.6152422706632,
+		"y": 0,
+		"root": false
+	},
+	"gfcwx96g51nkdco7": {
+		"definition": "fortune",
+		"x": 519.6152422706632,
+		"y": 0,
+		"root": false
+	},
+	"prei3updcvnshfpy": {
+		"definition": "sprint_speed",
+		"x": -144.33756729740645,
+		"y": -50,
+		"root": false
+	},
+	"zke7c8xwovo2vn9p": {
+		"definition": "sprint_speed",
+		"x": -144.33756729740645,
+		"y": 50,
+		"root": false
+	},
+	"d55io93edksecgow": {
+		"definition": "knockback_power",
+		"x": -173.20508075688772,
+		"y": 0,
+		"root": false
+	},
+	"8re4xviy1lb51m8n": {
+		"definition": "mining_speed",
+		"x": -86.60254037844385,
+		"y": 250,
+		"root": false
+	},
+	"0wjuiali9y8o9s3b": {
+		"definition": "mining_speed",
+		"x": -86.60254037844388,
+		"y": -250,
+		"root": false
+	},
+	"ifw9zed27w2240ka": {
+		"definition": "lung_capacity",
+		"x": -433.0127018922193,
+		"y": -50,
+		"root": false
+	},
+	"7zmk9e1qmsexr1r8": {
+		"definition": "lung_capacity",
+		"x": -433.0127018922193,
+		"y": 50,
+		"root": false
+	},
+	"8fuot0gr0y17dcap": {
+		"definition": "sprint_speed",
+		"x": 144.33756729740645,
+		"y": -50,
+		"root": false
+	},
+	"ebrm6bbdka6tbdz8": {
+		"definition": "sprint_speed",
+		"x": 144.33756729740645,
+		"y": 50,
+		"root": false
+	},
+	"r1lu6xd8mmvtzigv": {
+		"definition": "lung_capacity",
+		"x": 86.60254037844385,
+		"y": -250,
+		"root": false
+	},
+	"grp7q97vjm0iio50": {
+		"definition": "lung_capacity",
+		"x": 86.60254037844388,
+		"y": 250,
+		"root": false
+	},
+	"gs6t5kkvm6ojs22r": {
+		"definition": "mining_speed",
+		"x": 433.0127018922193,
+		"y": -50,
+		"root": false
+	},
+	"fnag7bmjt8g6f961": {
+		"definition": "mining_speed",
+		"x": 433.0127018922193,
+		"y": 50,
+		"root": false
+	},
+	"54v9hx54zv9i5fo1": {
+		"definition": "knockback_power",
+		"x": 173.20508075688772,
+		"y": 0,
+		"root": false
+	},
+	"x92yp10xwl46frr2": {
+		"definition": "exp_dropped",
+		"x": 288.6751345948129,
+		"y": 0,
+		"root": false
+	},
+	"r3090j643hp02iww": {
+		"definition": "exp_dropped",
+		"x": -288.6751345948129,
+		"y": 0,
+		"root": false
+	},
+	"2tbt15nagh0gb2a3": {
+		"definition": "mining_speed",
+		"x": -259.8076211353316,
+		"y": 50,
+		"root": false
+	},
+	"o4uwn07i4ga9nam9": {
+		"definition": "mining_speed",
+		"x": -259.8076211353316,
+		"y": -50,
+		"root": false
+	},
+	"bbkj4ulfzq0sj9e4": {
+		"definition": "lung_capacity",
+		"x": 259.8076211353316,
+		"y": 50,
+		"root": false
+	},
+	"fr4bfkcia2n66rc4": {
+		"definition": "lung_capacity",
+		"x": 259.8076211353316,
+		"y": -50,
+		"root": false
+	},
+	"24cdc8cdmi2zvbd7": {
+		"definition": "exp_dropped",
+		"x": 0,
+		"y": -100,
+		"root": false
+	},
+	"gfi14fqi8aazhzdy": {
+		"definition": "exp_dropped",
+		"x": 0,
+		"y": 100,
+		"root": false
+	},
+	"ejstjwbr382iehzd": {
+		"definition": "mining_speed",
+		"x": 0,
+		"y": 200,
+		"root": false
+	},
+	"1bcau9z27r3qu8wd": {
+		"definition": "lung_capacity",
+		"x": 0,
+		"y": 300,
+		"root": false
+	},
+	"jc6sebok5ql353vr": {
+		"definition": "mining_speed",
+		"x": 0,
+		"y": 400,
+		"root": false
+	},
+	"s4yl73dpagsxj9a4": {
+		"definition": "lung_capacity",
+		"x": 0,
+		"y": -200,
+		"root": false
+	},
+	"9urowmx6kiatygo1": {
+		"definition": "mining_speed",
+		"x": 0,
+		"y": -300,
+		"root": false
+	},
+	"c8fyogyjf4aul20d": {
+		"definition": "lung_capacity",
+		"x": 0,
+		"y": -400,
+		"root": false
+	},
+	"qp19wiavxd7nm2n9": {
+		"definition": "knockback_power",
+		"x": -259.8076211353316,
+		"y": -250,
+		"root": false
+	},
+	"pz8vum1vrtqkvcs3": {
+		"definition": "knockback_power",
+		"x": 259.80762113533154,
+		"y": -250,
+		"root": false
+	},
+	"1h1tslt7qbyvxsjf": {
+		"definition": "knockback_power",
+		"x": 259.8076211353316,
+		"y": 250,
+		"root": false
+	},
+	"0w4jmax14yauxk05": {
+		"definition": "knockback_power",
+		"x": -259.80762113533154,
+		"y": 250,
+		"root": false
+	},
+	"wnngkq3cfk12mvxk": {
+		"definition": "dodge",
+		"x": -86.60254037844386,
+		"y": 150,
+		"root": false
+	},
+	"y24xi3wm8hqg0lqe": {
+		"definition": "dodge",
+		"x": -115.47005383792515,
+		"y": 100,
+		"root": false
+	},
+	"7oi5yhvfh0xwuoj8": {
+		"definition": "dodge",
+		"x": 86.60254037844386,
+		"y": 150,
+		"root": false
+	},
+	"yiu7oqjff9455xto": {
+		"definition": "dodge",
+		"x": 115.47005383792515,
+		"y": 100,
+		"root": false
+	},
+	"drjhzbkkvqga6qaf": {
+		"definition": "dodge",
+		"x": 115.47005383792515,
+		"y": -100,
+		"root": false
+	},
+	"9nm0zj5c159gctp5": {
+		"definition": "dodge",
+		"x": 86.60254037844386,
+		"y": -150,
+		"root": false
+	},
+	"ctxp3jumxea0mym7": {
+		"definition": "dodge",
+		"x": -86.60254037844386,
+		"y": -150,
+		"root": false
+	},
+	"tjjzg7011q4mbihe": {
+		"definition": "dodge",
+		"x": -115.47005383792515,
+		"y": -100,
+		"root": false
+	},
+	"mxchzjbsudst6fjl": {
+		"definition": "root_misc",
+		"x": 0,
+		"y": 0,
+		"root": true
+	}
+}

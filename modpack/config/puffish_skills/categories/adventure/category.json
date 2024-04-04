@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Adventure",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "soulsweapons:chungus_emerald"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/adventure.png"
+}

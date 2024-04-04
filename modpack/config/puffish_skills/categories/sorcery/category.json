@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Sorcery",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "runes:arcane_stone"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/adventure.png"
+}
