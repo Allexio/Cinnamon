@@ -7,7 +7,7 @@
 
 # Cinnamon modpack
 
-_Because sometimes vanilla needs a little spice._
+<i>Because sometimes $\large{\color{#fff8d7}{\\textit{vanilla}}}$ needs a little $\large{\color{#d2691e}{\\textit{spice}}}$</i>.
 
 The goal of this modpack is to provide a relatively well rounded experience that provides a fair amount of content, great performance, and breathtaking visuals all the while remaining a vanilla aesthetic and maintaining the player immersed in the world.
 
