@@ -5,16 +5,24 @@
   <a href="https://modrinth.com/modpack/cinnamon"><img src="https://img.shields.io/badge/dynamic/json?color=158000&label=downloads&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/cinnamon&logo=modrinth"></a>
 </div>
 
-# Allexio's Create Plus 
+# Cinnamon modpack
 
-A Create-centred modpack made for me and a bunch of friends (and friends' friends).
+_Because sometimes vanilla needs a little spice._
 
-We started with a vanilla+ base with Create as a "central" mod and a bunch of performance / cosmetic / QoL mods without changing the content much (except for Create).
+The goal of this modpack is to provide a relatively well rounded experience that provides a fair amount of content, great performance, and breathtaking visuals all the while remaining a vanilla aesthetic and maintaining the player immersed in the world.
 
-We then added a few vanilla-friendly content packs to keep the game fresh for returning players.
+This modpack is suited for:
+- [x] low-end to high-end machines (shaders are included and soon DH will be as well)
+- [x] people who want a lot of extra content but want to feel like they're still playing Minecraft
+- [x] playing with friends or friends' friends up to 20-30 simultaneous players (tested for long periods with 20)
 
-In the end this will be a vanilla++ Fabric modpack that satisfies most people who want more of the latest version of Minecraft & Create without adding anything that detracts from the original experience.
+This modpack is **not** suited for:
+- [ ] extra large servers with more than 30 simultaneous players (no ultra large server mods included)
+- [ ] public servers (there are no claim mods included)
 
+This is a vanilla++ Fabric modpack that satisfies most people who want more of the latest version of Minecraft & Create without adding anything that detracts from the original experience.
+
+Find out more info on the modpack through the following links:
 
 <p float="left">
   <a href="server-setup"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/server-setup.png" alt="server setup" width="49%"/></a>
