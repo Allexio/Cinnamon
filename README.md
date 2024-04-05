@@ -19,6 +19,7 @@ This modpack is suited for:
 This modpack is **not** suited for:
 - [ ] extra large servers with more than 30 simultaneous players (no ultra large server mods included)
 - [ ] public servers (there are no claim mods included)
+- [ ] players looking for a fully guided single-player adventure
 
 This is a vanilla++ Fabric modpack that satisfies most people who want more of the latest version of Minecraft & Create without adding anything that detracts from the original experience.
 
