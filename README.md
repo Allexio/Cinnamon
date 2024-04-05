@@ -14,7 +14,7 @@ The goal of this modpack is to provide a relatively well rounded experience that
 This modpack is suited for:
 - [x] low-end to high-end machines (shaders are included and soon DH will be as well)
 - [x] people who want a lot of extra content but want to feel like they're still playing Minecraft
-- [x] playing with friends or friends' friends up to 20 simultaneous players (tested for long periods with 20)
+- [x] playing with friends or friends' friends up to 20 simultaneous players (tested for long periods with 15)
 
 This modpack is **not** suited for:
 - [ ] extra large servers with more than 30 simultaneous players (no ultra large server mods included)
