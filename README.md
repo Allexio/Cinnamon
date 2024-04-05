@@ -26,10 +26,10 @@ This is a vanilla++ Fabric modpack that satisfies most people who want more of t
 Find out more info on the modpack through the following links:
 
 <p float="left">
-  <a href="server-setup"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/server-setup.png" alt="server setup" width="49%"/></a>
-  <a href="feature-guide"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/feature-guide.png" alt="player guide" width="49%"/></a>
-  <a href="player-config"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/player-config.png" alt="server setup" width="49%"/></a>
-  <a href="modlist"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/modlist.png" alt="modlist" width="49%"/></a>
+  <a href="https://github.com/Allexio/Cinnamon/wiki/server-setup"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/server-setup.png" alt="server setup" width="49%"/></a>
+  <a href="https://github.com/Allexio/Cinnamon/wiki/feature-guide"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/feature-guide.png" alt="player guide" width="49%"/></a>
+  <a href="https://github.com/Allexio/Cinnamon/wiki/player-config"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/player-config.png" alt="server setup" width="49%"/></a>
+  <a href="https://github.com/Allexio/Cinnamon/wiki/modlist"><img src="https://github.com/Allexio/create-plus/blob/main/assets/thumbnails/modlist.png" alt="modlist" width="49%"/></a>
 </p>
 
 Thanks for using the modpack!
