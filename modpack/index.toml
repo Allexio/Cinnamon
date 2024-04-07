@@ -294,7 +294,7 @@ hash = "6e7afbef59d6a68255ef0138fb2e93d980f2b2da30190bbf59a4e2856d86dfb9"
 
 [[files]]
 file = "config/starterkit.json5"
-hash = "c5c2f85ee5e5d597af6481b53edab999d9c0e289845dd663582b7617b1edad10"
+hash = "20dbdd8d77faf4294b1feb7cdd29a03dea1a31e5439ba040f1ce4f3b769499fb"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -1137,11 +1137,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "67968cdba5fd4b43f594703d46446e4efac5ce6c59f32d2d0c1c878d9e9e7636"
+hash = "e92a80ea43242ca5e6737a0ccd059f9613d9d9c60caf9bc29b50f9572662c748"
 
 [[files]]
-file = "resourcepacks/Default-Dark-Mode-1.20.1-0.5-000000-1-0.5-000000-AAAAAA-(2023.11.0).zip"
+file = "resourcepacks/Default-Dark-Mode.zip"
 hash = "638aeda45c3fe8a14c1bc8ca5c9bc41e5fa7789b28fa3ae00e651ef66b68ca82"
+
+[[files]]
+file = "resourcepacks/NoBushyLeaves.zip"
+hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
