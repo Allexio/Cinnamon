@@ -1,4 +1,4 @@
-name = "Allexio's Create +"
+name = "Cinnamon"
 author = "Allexio"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c3ccffba0f56ffb477893dd807ac38eb04f0fb4e5764102cc371cc66224028b5"
+hash = "19e5d6f6046d865f0ab5d08bc7c5c401754446973e6bd45a4692a11a1a36df76"
 
 [versions]
 fabric = "0.15.7"

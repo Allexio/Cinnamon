@@ -1,13 +1,13 @@
 name = "Discord Statusbot"
-filename = "statusbot-13.0-Fabric.jar"
+filename = "statusbot-18.0-Fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/G9ZpI0bU/versions/kOjbsEYL/statusbot-13.0-Fabric.jar"
+url = "https://cdn.modrinth.com/data/G9ZpI0bU/versions/QSsogE0g/statusbot-18.0-Fabric.jar"
 hash-format = "sha1"
-hash = "f20c68d373f3e6aaec8be704e54bfa69f424cb4e"
+hash = "16a5342c6bf3e063305b1b85059caaab395f5f1a"
 
 [update]
 [update.modrinth]
 mod-id = "G9ZpI0bU"
-version = "kOjbsEYL"
+version = "QSsogE0g"
