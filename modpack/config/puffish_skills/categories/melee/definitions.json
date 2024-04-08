@@ -217,7 +217,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "additionalentityattributes:critical_bonus_damage",
+					"attribute": "additionalentityattributes:player.critical_bonus_damage",
 					"value": 0.05,
 					"operation": "multiply_base"
 				}
@@ -242,7 +242,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "spellbladenext:warding",
+					"attribute": "extraspellattributes:spellsuppression",
 					"value": 1,
 					"operation": "multiply_total"
 				}

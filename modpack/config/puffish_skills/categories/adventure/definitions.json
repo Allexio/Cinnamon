@@ -106,7 +106,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "additionalentityattributes:dropped_experience",
+					"attribute": "additionalentityattributes:player.dropped_experience",
 					"value": 0.3,
 					"operation": "addition"
 				}
@@ -125,7 +125,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "additionalentityattributes:lung_capacity",
+					"attribute": "additionalentityattributes:generic.lung_capacity",
 					"value": 1,
 					"operation": "addition"
 				}

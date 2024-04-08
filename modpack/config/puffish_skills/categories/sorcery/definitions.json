@@ -42,7 +42,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "spellbladenext:warding",
+					"attribute": "extraspellattributes:spellsuppression",
 					"value": 1,
 					"operation": "multiply_total"
 				}
