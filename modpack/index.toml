@@ -206,7 +206,7 @@ hash = "2902b62ed6e9272c7a93bbd22fccf6120b0c753b992b00a4af9026d1306794b4"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/category.json"
-hash = "93c366e0098bcb4d21658bcc51d46cb7b885f619390a87544f40918e248695c9"
+hash = "80a199c7fc88406220fa7962a6f9fc21adc81b8850fd6727bfba5b88be98c6ec"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/connections.json"
@@ -214,7 +214,7 @@ hash = "6db5e2590f04af654f26cd45341c9ad43f541deaac52299f3d1fcee6cbe9284e"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/definitions.json"
-hash = "9531d924e8257d8f2080f52a8d2131f3110385b30e50218f69f4d403928a1306"
+hash = "a3f318a4c3074e9af6ff1a5ff7a2bd85954697349c43e0f3c646143baa270b8a"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/experience.json"
@@ -226,7 +226,7 @@ hash = "6bc176ac46db38c9b705c4e356ef394fbfc93c8160bcb5fe9a33f34822942fe5"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/category.json"
-hash = "f1719d94675fa2ea6fdb807c2edad61fee8ddca13072ad2369bbf25963286302"
+hash = "487e731e8944ef0953d75855e0435ff4bef1e7c95e36b535e9cd3d5cc73dbb97"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/connections.json"
@@ -234,7 +234,7 @@ hash = "b15c286d0d9843cd43e723c5c48e4f226a41c87582ae8756c2f4fdfcd6dfeaa2"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/definitions.json"
-hash = "22410d81f7381ab4910ef2540b3a8a258507722545c0a537c0022f3e67baa0db"
+hash = "e2b02826dcaaeeea38cb6c083e89923a042d219906417d32a12d07e8359fa31d"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/experience.json"
@@ -246,7 +246,7 @@ hash = "cfaa0b82732e201d11f497513f6ed2ec47dd2b09389ced1051c7a8e37665fd5d"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/category.json"
-hash = "e2ea0d9e93fce44a525e1c205b7cf69468616ed2d28e8fd8e8ef51c31a6d14b4"
+hash = "3b5f67dc1afd5b81ec864437ce5b7681f62fdd73cb182fdebb4aa5aef15fedc4"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/connections.json"
@@ -254,7 +254,7 @@ hash = "0b7072e046615617f07d0340214044e232ed6680a12cd63471e9db54e5cddde0"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/definitions.json"
-hash = "d8ad5ea8ef5409a6ae2bf6db7e54a8f8bb9f946b449ef3f6442e5c66df701087"
+hash = "13479104530ab7f152401e4f0aa0cc3489a2c5a8b8b2bf2c4155f1116cc97ba9"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/experience.json"
@@ -266,7 +266,7 @@ hash = "d34b688dfdd247f748aafda392d39b1d5cab11b23afa1f214001fd0f3686aa5c"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/category.json"
-hash = "da6b9ec167bf1fdbdb1cffe50fcdf45bb3e02604cf57714c9717f1a05d8e1065"
+hash = "0c47d6b5b7b3af48e88c9d04ca264877b2c73347523ebf8f1b3556160a1941ac"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/connections.json"
@@ -274,7 +274,7 @@ hash = "c47faeb25065cadd861babaecd4021ff77acaf38e89c8a5453223808013d7e75"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/definitions.json"
-hash = "56197c1e2ca2b1517d34544731d3a34c694b1307718cb07e4055801ffb0c4263"
+hash = "e22b62def200c685f6c1ae357f2d70a473b9b93516cfa11f8302daa5bda4a24b"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/experience.json"
@@ -349,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
@@ -772,6 +777,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/mariums-soulslike-weaponry.pw.toml"
+hash = "818fd64a2e6f5fbac4be23aeb12c63b53a544884152dc31cc492e443c3866248"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -1154,6 +1164,490 @@ metafile = true
 [[files]]
 file = "resourcepacks/icons.zip"
 hash = "c268aadcd24fc8536a5a91170fc2505bf1fbfb1e23df8665ff41ec0fb4b5d3df"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/gui/advancements/backgrounds/sourcestone.png"
+hash = "85e06b40ed2094cbaeecaf64083ccb489c6c8f4fb4ac7587ccd1ae2e1265177e"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/gui/advancements/backgrounds/sourcestoneblue.png"
+hash = "998d4fdfe838ec8ce75a47c719147f1c212bc6d772155b9e975652b0ca4c79b4"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/armorhealth1.png"
+hash = "dcd723104277343ae15500158b7af098a8131503993d0650352087920d8b69a2"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/armorhealth2.png"
+hash = "88e11842e124facbc5b84f6659f07136e17a08abcb22661a24aebc633dca8146"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/armorhealth3.png"
+hash = "05dc87c33794d8fc04a198a179b18794ce941e6bc8de88dc777688c21527cab4"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/armorknockback1.png"
+hash = "26a6e62f0e1f487b8c96495f1790b2bf34fd0f5f49e55eaebbdc3be7f25ae57b"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/armorknockback2.png"
+hash = "57a06fe3e149b21bc923b6b81535fe525a32ae58eea15b8cbd63c2f0148615cc"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/armorknockback3.png"
+hash = "eb9f86233d624e0f606a86072bf8e8267508af356de7be9b7e8c68ffff2a643c"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackarmor1.png"
+hash = "75f1a5fbb2eaf5c6100f101e4891d21ead9db7b444243904a77c21365382f4ee"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackarmor2.png"
+hash = "4e98f1d53e77cc4bbb45aa5be1f13fb2d8d77fed8ef8ce7defc91de79245fe35"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackarmor3.png"
+hash = "8d9efd63b90396d6db216ecfbf3d5e2482505680e41895d69ad222639c195c46"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackattackspeed1.png"
+hash = "3941e628cac4b89ad4b80b72257b111a07e81415c0c7778166d8a62c2673029c"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackattackspeed2.png"
+hash = "aeff577632346d837d06e501f1dd6f313cd9fc239a830f8b97bbbc7721318d68"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackattackspeed3.png"
+hash = "fe1a855675d4224630115879ecb4727af667ff0b1180f0e13a7b545bd8e0a184"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackhealth1.png"
+hash = "062cf046fd47f4c788c6dcd0088805592a04e0d0831949e2e8773ba6d6afdece"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackhealth2.png"
+hash = "d854e7bbd8d9141a78a5f24fd8a7c3bce6f32cfa1668f361c470577473415021"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackhealth3.png"
+hash = "3a6f162853c14d412b0c5703f675e3edcffda77436072abadccf94467b45162b"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackspeedcrit1.png"
+hash = "9d92eb2c7d16f94b32243e9af0cb8ceb7477bd9164c12de21cc9f00f2a2199a8"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackspeedcrit2.png"
+hash = "44fcde2f4ee6ab933d6c6322c8c13c4a3f79758914d61a79b88ee673f5e77051"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackspeedcrit3.png"
+hash = "3a49a57eaea241800e19e2601a1d8ae5b0f552324c233d7a63a80d194453608d"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackspeedhealth1.png"
+hash = "6f92c061a2e28bb69b702993897f9feaf3c50cd8dcc2384e386144262b38c402"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackspeedhealth2.png"
+hash = "de315e49f6fdaea233098968d2bf7607022199386c76f914a1c1079a00e52c6a"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/attackspeedhealth3.png"
+hash = "b52dda1e8bca5b5b0cc802d60eec4d195d6f1697041862b9afaa26a75f2f913a"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/dexterity.png"
+hash = "c81b90e0619d5cf580e1abd3e48b4d17c6df8d3f6c47ea61ee8b242e177cd258"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/dexterity2.png"
+hash = "148aea0f08d6f9eb929a75212766bf7ffe039c05f1190be577cc17b37c910b98"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/efficiency.png"
+hash = "0dfbe82a8f6f5ec85a79561c02ce7004c6ec555a1441ae9d6a88c12efd4836e4"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/efficiency2.png"
+hash = "7527be3cf48f02fa9ff373552b78a09bc8bda2ce6eec428e7865f34c9a679333"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/health1.png"
+hash = "3c0e3fb6fb8d888a955ad34d3f5685678810b1401f93ccdbbb61d5e7c2762eab"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/health2.png"
+hash = "efe95c14a411f1e56a568f0ed6f5d25ee30e677b77ce7f55364de63b7cb6f4e3"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/health3.png"
+hash = "5a6cc8b25d64b2ca828af47290a8744ddd2fe0d2f2bbfdf4bdb4af5f525d9842"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/knockbackhealth1.png"
+hash = "e8320843931fa4c551c0570fac9b518e758f2fbfc226f5f5def634f7e84f44bc"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/knockbackhealth2.png"
+hash = "f06e67c6975f04592df8931e1b140bddd2f0ed3c1517a122d5665b169176428f"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/knockbackhealth3.png"
+hash = "a0481fb4ed8aad742116fc631e4c22e76e64233e49bd0a220826515ffe5b5456"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/knockbackspeed1.png"
+hash = "94734a3349c7afd57a6b026d6056658fb6816f59155cdf47c3e79f413fcda50f"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/knockbackspeed2.png"
+hash = "b27aa73645acec3e8a64be1bbdf20bc1a5d6a5af711a4f80cac9e87deae13278"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/knockbackspeed3.png"
+hash = "8681291853277d9c9d421aaacb5f97475bc82698a08e4bfb0ef1694709f5ba94"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/rangedspeed1.png"
+hash = "be769d57e93d8617c5d9a4ad95682555733b7ec66fb5c77f417c47b67dc53442"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/rangedspeed2.png"
+hash = "9e9b20c5255725586479fa18ae1c8b740a6dadc57c33b2c0f9e6102f7a44d848"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/rangedspeed3.png"
+hash = "86754ef7d398e03caf1cf59d15e97a5f0bd4fcd4d534062d4aed9072a57220fd"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/speedhealth1.png"
+hash = "47091a80da870e521f2b033d1e56456b781e97be55e66020bc3bcf4c82be24ee"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/speedhealth2.png"
+hash = "4370959443366e507a823a651b0ab0e63861cde318915ca2908cd831f630494b"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/speedhealth3.png"
+hash = "8eaf507dd6f39efd3a42de46edb84ccfadfc93713b1e605fa880cb9600c6f9b7"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/speedknockback1.png"
+hash = "b7c39c6dea040a7e24cf28a307647c5c6c88e82857606a5a9e5532ea4c9a2230"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/speedknockback2.png"
+hash = "62f16bf378b706f76f0f7e04d06fda206e4de5e8037ed18832a798b0cda63641"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/speedknockback3.png"
+hash = "96013abf599f0144707f58c3ae8b644a1219d5e02efd87164696912f00a7a8b4"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/strenght.png"
+hash = "12a066e309b5dca01d8b74a2cf1700c26bf2c48f4c457f718c980553340c6ded"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/strenght2.png"
+hash = "945de059157003eced49d9b8982eb69e18e953742b28128846a1150d9c13d047"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile005.png"
+hash = "9c88cc6a22ca2eb8881514dd21e2bab9f1ba0530dea8d435630a05f3474b97f3"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile013.png"
+hash = "e00d7aebc929681100f00553be35ee8180c8c1dce46992cd0f1383dd8c45136a"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile015.png"
+hash = "a536a123a348079f7bfd6b4e24791d8bc11daef9588fad13877de971948b8d22"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile021.png"
+hash = "57b9d70f4f464d800dcb74320446e57f0414b546c3f5ed19c8614c8a7c204878"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile037.png"
+hash = "d0c2496300151752a8acff33cee8703465c9be7cb2728bdddb82117a0229b373"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile045.png"
+hash = "cc54dfddd40eda1926cb9b39a467e423e3de550d262bf8a9c0b0cf084a6569d1"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile047.png"
+hash = "2552618bef542cd0f2e79d336559a340878748164c99f59d0242ce19fe921101"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile061.png"
+hash = "5f4935b8336f57b45941632cf29aa671d2bd9ae768ab074d4dd2efd6322b33ec"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile063.png"
+hash = "e29dc17f0ec2667369f740b4873e5264c00d93d8c521cc5e258a8b68f7153fc0"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile069.png"
+hash = "59b3187903d7c9dbf05c71077baecce9a15d7a381126fa74fb8b70101bea4d81"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile078.png"
+hash = "f4b1e328915593d8f6cbc1865b9fb5d2e012406e36a1b31f2439b8e2fb8e0a78"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile080.png"
+hash = "2b059b43cb63b95967a791395e7aa3e1806141151687e107e4e61f99625d8297"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile085.png"
+hash = "57791c4159609e991746e5ec13fbf443710841ac16c629011819acd47cd6ff88"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile094.png"
+hash = "175782de26a8a4f87ef144d1308b4001a0b97d86394b98027cc3711ba49efd45"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile096.png"
+hash = "54ec78dca4aecc0d627607a2309f0e7205b6f36178a8d988f8ac833ea725c2b0"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile112.png"
+hash = "f2ef146060d9c4f4ad6e2d52d5cbb2a3140aa69f6c81d32e01690c391130616d"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile117.png"
+hash = "3ae66c8d7529d61ae4ed0fe95f83c45c91ef7a8edb56395b7a5d57302d495dac"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile126.png"
+hash = "157ed7cf124c40807b357001a6b56e327f29c644b191fcd26f486580faa90eb2"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile128.png"
+hash = "aabebf96260f62659fc48d5c3ae6789feece73d5fec78f699741323ffc6c2bcc"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile139.png"
+hash = "1cde1a2e97cd3a49c4702086ae995fe1fe35050a8b35651dedc9532f54dd64c2"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile140.png"
+hash = "21178a6862fc252dcf0221b837abc83f2c5bec5ee3cf7314148511d2bbe7960c"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile143.png"
+hash = "ebda25af386185ddb67095f88c17a5fcb7a27f0cc7090296bb8821c05d906fc0"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile144.png"
+hash = "97c9b30ebc8a709ee2a980adea627f6784ffd9fc825e91515ba8df68f2f9fa7d"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile159.png"
+hash = "4bed4b744242edd657545cc59ab42efbb79d59a4fb26539dff0184fa08762449"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile160.png"
+hash = "260365b8bf190d690a36a5b955f7162346023a6241bcad9dd4503a29c9f3be9d"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile171.png"
+hash = "46fe36ffa45e072ea4debfa2071df122e6248ec9b8d3a5f78b841cc2e8509854"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile172.png"
+hash = "1678b716f363b4e27ad2cecfd07743e4cd174359287a9a1bb1a7ec360b6c5854"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile175.png"
+hash = "1d8b7e99ac8ed35c63d4d0910f6ff9e7fed49075cd3a506628f68c2889e2d061"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile187.png"
+hash = "321c6248ab4f6d200aef80428dd31146670c0b1b48cc0a33a7ce13f5c853ebde"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile188.png"
+hash = "6635319003bf8aa76b98fad386e9a0548a8a93555b9824d154beec8f8a483680"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile192.png"
+hash = "9a6b287e1e984d2f3ef5851840326a4e6bb9946112ba1fab5e7d2cb2f8aec030"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile197.png"
+hash = "a3bfbecce185c5b633bb15f107031944520074515db5c8f36a5f48b6b01c6072"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile198.png"
+hash = "5859ac57188ed5ee71660a8dbcaadbd2d96870fef299e669c3943adbb1fd703a"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile199.png"
+hash = "006533f0b68f6a426d2ea7e2f5675de9872d75e3ac2adcf9ef337bfc80e47351"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile208.png"
+hash = "edb7649f939a0d87b561784702d5efda64daad77c18c6f69c09b8e7ba53520a7"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile215.png"
+hash = "8c4b9f21450fa81cee8982731a479e17c82272d6a3e5918365998cbd9726b9f1"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile222.png"
+hash = "35d157147a92c1850b5888ca462ad2921bcad81c2aa6de5c105f5df9d0839edb"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile224.png"
+hash = "e3fc722dad4139a37312ea0d81cd459facf3afeb7e60a1f1f1977ebe70f6170d"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile229.png"
+hash = "c1772368be94627f4e5e57bde55584d04bf69a9e2509ee99d4f788a06d5ea329"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile230.png"
+hash = "1a73a7dd362b5c355b88dd6c98bd736853b090949f5051ada120acfe9cc26016"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile231.png"
+hash = "bc4933501bfc9583fb7e3562d124173e9dfcd682a294ab605d017fb9dc9b330d"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile238.png"
+hash = "3d72a78f21c952d330c4721047aa5baf384cd2de584a937441095741dac9cba2"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile245.png"
+hash = "e2e8077a4103e3a863de5f99eb12c8430922b9fe7786eb0beb70536548a60017"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile246.png"
+hash = "10c1ad750c458083eb3eae404599142d5d908ff1c0e4af489ae3d5c66aa2bab0"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile254.png"
+hash = "324646aee00af4f4e90871f55cead232d9963e66257a24098299f40eb457f802"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile258.png"
+hash = "afc8bb6c2b488843589c13657ff5ba16e8275de681be60abb9c191a92ee57421"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile259.png"
+hash = "5e4bf606bd3d7c10bdb98a5b36d4ddb92a6698aec7aa537a02d683fc1ead9ae1"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile261.png"
+hash = "4daf5baac476d54d6e21ec240625145d5c4de6931cfea8aaeb196495a243e2ba"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile262.png"
+hash = "2133b93081c2087aecc76a8623b07c75f8c87736f2655f3d114d61c46a1ad622"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile264.png"
+hash = "748943446549d1b5d2b08a43888fe0e271a97e440990743fdad93a8beed1e638"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile268.png"
+hash = "7b2a1efe358d7763ead47f7d94cba350b800440c3c6b4e8e5a811cfc84823559"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile277.png"
+hash = "f03f81d75000dbd4cd569d093a40dba1944d14a676bc3e000610e541e2a94aa7"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile278.png"
+hash = "58add347e53b528d7accce2b60b2aee0a9cf4b18614392bc078c47d32f5c88c1"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile280.png"
+hash = "1694f60566b8b379dac4d5e5e30e40bf114ca2cce717e70f2c0df344f20b5b03"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile284.png"
+hash = "74b21911370d4c00694726475bfa4f6f0648656eebb630bef8ff96301e0d9044"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile287.png"
+hash = "e947cc3990db819d642a13248a3ebb13b0cc571b265c604884f402aa3e6553ea"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile290.png"
+hash = "3e1490d4ff0e7bae9669b42c900b6b346c8073d7cd97bc76cf1586773dd7b687"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile291.png"
+hash = "cf2e8b576481ad77f323298ace0456b4a89f8c128be92a31bd3a6d7465c98336"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile303.png"
+hash = "2990a74f266865ea4e8cff90bd25ed678253d904145b496e4caaa54149fa357c"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile306.png"
+hash = "446c06c0faa43a2d83e7b85c137d0897eb97ffe4b65819f8e473bf077dfee68f"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile307.png"
+hash = "db4b580001a942aca10303e2fea640a3d10b66a7781cd1ac843c1377ea4e4f45"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile309.png"
+hash = "1cbb6133a0aa4d4c7e7fca93c6d895414e578198d90523545b88c1f47136f077"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile310.png"
+hash = "b9735edf53910f3e0df8cc118a699cca999d74512c96dd71dcf949c9f3f162b6"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile312.png"
+hash = "6ffdfe84b962ef4a1f01a562f85666080a6b1efa72464567294a433bbce1910d"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile316.png"
+hash = "435a5e55e2863a7da99e410131b440904b772be48f35f19b068ad614516146d8"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile319.png"
+hash = "265792a7e314de0006caac89d6ef8b7e1ca31769aa7e576cabc9bd7cd1ef5c8e"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile320.png"
+hash = "5a6cc8b25d64b2ca828af47290a8744ddd2fe0d2f2bbfdf4bdb4af5f525d9842"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile327.png"
+hash = "0dd78ed7c3a8c9ef4d39c4964212e2007964c262aa4c59922fb41f4d113b0100"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile336.png"
+hash = "3c0e3fb6fb8d888a955ad34d3f5685678810b1401f93ccdbbb61d5e7c2762eab"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile337.png"
+hash = "3e1b2c2e92aab09bdb895090b02a5a876de44917f2b4c0729740f54f305a7eb7"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile343.png"
+hash = "0c21f3d9b05878ab0cafdc99df5c89c09742d64e55c7c6ab9669f8c75def5e56"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile368.png"
+hash = "efe95c14a411f1e56a568f0ed6f5d25ee30e677b77ce7f55364de63b7cb6f4e3"
+
+[[files]]
+file = "resourcepacks/icons/assets/minecraft/textures/items/tile375.png"
+hash = "7c7bcaacb8566493a477f16c45b9a53a1df835fcd24e6bbe4e0a0ec1e3108cd5"
+
+[[files]]
+file = "resourcepacks/icons/pack.mcmeta"
+hash = "41d39f728e953731ae189fead6f431ef85b1dcf472a7acc4ebb0980eb8f16471"
 
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
