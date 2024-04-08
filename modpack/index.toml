@@ -297,22 +297,6 @@ file = "config/railways-common.toml"
 hash = "58f7821842631af9ec8bcaddb60526b81cd1b9ad63cbba87c83c70e53c3a9b16"
 
 [[files]]
-file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "5a89fd95c1d62a7adb6bbdb19012689d3bb79717ae39e0d6e43e1ac758e78800"
-
-[[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "da84dbfaf4d21cd5818068c3b95bec05357a2ae5a7c3263fe7b8358dbb1ad94f"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "b424615809166d9c08345776904a4e33a3da8f3d396a560164aa4eb8e816525a"
-
-[[files]]
-file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "6e7afbef59d6a68255ef0138fb2e93d980f2b2da30190bbf59a4e2856d86dfb9"
-
-[[files]]
 file = "config/starterkit.json5"
 hash = "20dbdd8d77faf4294b1feb7cdd29a03dea1a31e5439ba040f1ce4f3b769499fb"
 
@@ -1147,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e92a80ea43242ca5e6737a0ccd059f9613d9d9c60caf9bc29b50f9572662c748"
+hash = "ceadcd0ab4ac89eab4933144623056eb9abd485baacd9e0208f7808f31ae4bf1"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"
@@ -1161,6 +1145,10 @@ hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
+
+[[files]]
+file = "resourcepacks/icons.zip"
+hash = "66e081ab54f43d31c6baee2d645f42d2eae7b724d08c00f1755b51a27515b777"
 
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
