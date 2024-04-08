@@ -214,7 +214,7 @@ hash = "6db5e2590f04af654f26cd45341c9ad43f541deaac52299f3d1fcee6cbe9284e"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/definitions.json"
-hash = "5544b941d05a70238e5847767679e8592c882fb9fb153d9a64295daae07b4275"
+hash = "9531d924e8257d8f2080f52a8d2131f3110385b30e50218f69f4d403928a1306"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/experience.json"
@@ -234,7 +234,7 @@ hash = "b15c286d0d9843cd43e723c5c48e4f226a41c87582ae8756c2f4fdfcd6dfeaa2"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/definitions.json"
-hash = "9e502f791756f2191f82db0ff0830f55e170f0f30cf73dda64fb0b8815a0394b"
+hash = "22410d81f7381ab4910ef2540b3a8a258507722545c0a537c0022f3e67baa0db"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/experience.json"
@@ -254,7 +254,7 @@ hash = "0b7072e046615617f07d0340214044e232ed6680a12cd63471e9db54e5cddde0"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/definitions.json"
-hash = "ce7165948509901f61abc20268b35ef18aa2a4db3491899d989f665472c1e541"
+hash = "d8ad5ea8ef5409a6ae2bf6db7e54a8f8bb9f946b449ef3f6442e5c66df701087"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/experience.json"
@@ -274,7 +274,7 @@ hash = "c47faeb25065cadd861babaecd4021ff77acaf38e89c8a5453223808013d7e75"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/definitions.json"
-hash = "464df8dd375a75651dfa7a16ef23a6f405e971ce7214e0b7753ba172a62b9648"
+hash = "56197c1e2ca2b1517d34544731d3a34c694b1307718cb07e4055801ffb0c4263"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/experience.json"
@@ -888,11 +888,6 @@ hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
 metafile = true
 
 [[files]]
-file = "mods/pv-addon-soundphysics.pw.toml"
-hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
@@ -960,11 +955,6 @@ metafile = true
 [[files]]
 file = "mods/softer-hay-bales.pw.toml"
 hash = "a795acc660f4900670a53a9f596824f72ecd52255e6d1b7dbc15803a007842ae"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "ccf55ba362726080854360dc1a19323576b5da9e71dab5ea055490003b4f037d"
 metafile = true
 
 [[files]]
