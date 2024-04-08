@@ -13,6 +13,18 @@ file = "config/chunkloaders-common.toml"
 hash = "34f2431aaad7ab6b2abc42c48f0a01c36f8676169b026b8796f5c37464529f69"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "717e001dc549229ae3bf5fec8bb0f5b18fe09bbf5aadfffe5dd83b22850a7234"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "701d531f06fed0f95b5475fa4d7caf701106ca1fb24fcbe4c25eb56207e1044c"
+
+[[files]]
 file = "config/doubledoors.json5"
 hash = "d7bb1517f49ccfd97f9cd3dce220c3ed33ff479eb22f2127e8c191f27abde086"
 
@@ -277,6 +289,14 @@ file = "config/puffish_skills/config.json"
 hash = "a8366b9a4c451d61160742d16812cf1f366a74369910cd889e5e9524fc814af1"
 
 [[files]]
+file = "config/railways-client.toml"
+hash = "bd53460b414882bd01d40d423fd614d219938160d124ea5c7ca43f5099b09c4d"
+
+[[files]]
+file = "config/railways-common.toml"
+hash = "58f7821842631af9ec8bcaddb60526b81cd1b9ad63cbba87c83c70e53c3a9b16"
+
+[[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "5a89fd95c1d62a7adb6bbdb19012689d3bb79717ae39e0d6e43e1ac758e78800"
 
@@ -324,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/additionalentityattributes.pw.toml"
-hash = "55445524bc8f409c55de6bac2cd718886cdc4bbc83f0441841399c5e7af96f06"
+hash = "686eecb98f2af2380594caa12e9d80e124d1fbc0ae0c944466977a056484c8ef"
 metafile = true
 
 [[files]]
@@ -499,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
@@ -1004,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "8d3b6425c75c450d958cc7ac73463c78c670a2b579370626eb3f463274f6cb85"
+hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
 metafile = true
 
 [[files]]
