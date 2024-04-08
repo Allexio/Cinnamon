@@ -1,10 +1,10 @@
 {
 	"unlocked_by_default": true,
-	"title": "Archery",
+	"title": "Path of the Ranger",
 	"icon": {
-		"type": "item",
+		"type": "texture",
 		"data": {
-			"item": "archers:composite_longbow"
+			"texture": "textures/items/tile306.png"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/adventure.png"

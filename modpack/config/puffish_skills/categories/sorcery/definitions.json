@@ -1,6 +1,6 @@
 {
 	"root_mage": {
-		"title": "The Path of Sorcery",
+		"title": "Path of the Mage",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -8,9 +8,9 @@
 			}
 		},
 		"icon": {
-			"type": "effect",
+			"type": "texture",
 			"data": {
-				"effect": "runes:arcane_stone"
+				"texture": "textures/items/tile343.png"
 			}
 		},
 		"rewards": [

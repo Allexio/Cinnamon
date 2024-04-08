@@ -1,10 +1,10 @@
 {
 	"root_misc": {
-		"title": "Adventure Begins!",
+		"title": "Path of the Explorer",
 		"icon": {
-			"type": "item",
+			"type": "texture",
 			"data": {
-				"item": "soulsweapons:chungus_emerald"
+				"texture": "textures/items/tile080.png"
 			}
 		},
 		"rewards": [

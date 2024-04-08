@@ -1,6 +1,6 @@
 {
 	"root_hunter": {
-		"title": "Take on the path of the Hunter",
+		"title": "Path of the Ranger",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -8,9 +8,9 @@
 			}
 		},
 		"icon": {
-			"type": "item",
+			"type": "texture",
 			"data": {
-				"item": "archers:composite_longbow"
+				"texture": "textures/items/tile306.png"
 			}
 		},
 		"rewards": [

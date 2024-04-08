@@ -1,10 +1,10 @@
 {
 	"unlocked_by_default": true,
-	"title": "Close Combat",
+	"title": "Path of the Warrior",
 	"icon": {
-		"type": "item",
+		"type": "texture",
 		"data": {
-			"item": "lookinsharp:diamond_broadsword"
+			"texture": "textures/items/tile013.png"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/adventure.png"
