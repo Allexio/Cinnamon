@@ -442,11 +442,6 @@ hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
 
 [[files]]
-file = "mods/cat_jam.pw.toml"
-hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "030b5adce4dd6f31635992d8eebe27b2bae86b14fba1469ad19e1cae473c59df"
 metafile = true
