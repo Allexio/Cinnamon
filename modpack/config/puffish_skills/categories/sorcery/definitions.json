@@ -8,9 +8,9 @@
 			}
 		},
 		"icon": {
-			"type": "texture",
+			"type": "item",
 			"data": {
-				"texture": "textures/items/tile343.png"
+				"texture": "runes:arcane_stone"
 			}
 		},
 		"rewards": [

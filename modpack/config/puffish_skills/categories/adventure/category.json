@@ -2,9 +2,9 @@
 	"unlocked_by_default": true,
 	"title": "Path of the Explorer",
 	"icon": {
-		"type": "texture",
+		"type": "item",
 		"data": {
-			"texture": "textures/items/tile080.png"
+			"item": "soulsweapons:chungus_emerald"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/adventure.png"

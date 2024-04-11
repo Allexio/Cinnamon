@@ -8,9 +8,9 @@
 			}
 		},
 		"icon": {
-			"type": "texture",
+			"type": "item",
 			"data": {
-				"texture": "textures/items/tile306.png"
+				"texture": "minecraft:bow"
 			}
 		},
 		"rewards": [

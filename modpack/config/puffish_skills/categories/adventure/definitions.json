@@ -2,9 +2,9 @@
 	"root_misc": {
 		"title": "Path of the Explorer",
 		"icon": {
-			"type": "texture",
+			"type": "item",
 			"data": {
-				"texture": "textures/items/tile080.png"
+				"texture": "naturescompass:naturescompass"
 			}
 		},
 		"rewards": [
@@ -126,7 +126,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "additionalentityattributes:generic.lung_capacity",
-					"value": 1,
+					"value": 100,
 					"operation": "addition"
 				}
 			}

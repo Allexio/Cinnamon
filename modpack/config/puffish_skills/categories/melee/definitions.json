@@ -8,9 +8,9 @@
 			}
 		},
 		"icon": {
-			"type": "texture",
+			"type": "item",
 			"data": {
-				"texture": "textures/items/tile013.png"
+				"texture": "minecraft:wooden_sword"
 			}
 		},
 		"rewards": [
