@@ -206,7 +206,7 @@ hash = "2902b62ed6e9272c7a93bbd22fccf6120b0c753b992b00a4af9026d1306794b4"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/category.json"
-hash = "bec2b7f160b107e3c5869a35b80ff102d2829c6b02536fc61713e0cf71f853ae"
+hash = "80a199c7fc88406220fa7962a6f9fc21adc81b8850fd6727bfba5b88be98c6ec"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/connections.json"
@@ -214,7 +214,7 @@ hash = "6db5e2590f04af654f26cd45341c9ad43f541deaac52299f3d1fcee6cbe9284e"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/definitions.json"
-hash = "2d9fe89c1adf7b90eb43fb1afa1372eb9845cd41862edfc477065b961a68eb9a"
+hash = "3887c73c333553161bb5d7845b7852cb5f612c5be97350ffc9d5e98e0fb8e648"
 
 [[files]]
 file = "config/puffish_skills/categories/adventure/experience.json"
@@ -226,7 +226,7 @@ hash = "6bc176ac46db38c9b705c4e356ef394fbfc93c8160bcb5fe9a33f34822942fe5"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/category.json"
-hash = "70733557ec8f33978e8c9dd902e8e5b478fd6055494effbe188555307bf94003"
+hash = "5d85b82bcf1f31bb63563dbe24da4a626e9499070bff6d546bf24f77fa8578d5"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/connections.json"
@@ -234,7 +234,7 @@ hash = "b15c286d0d9843cd43e723c5c48e4f226a41c87582ae8756c2f4fdfcd6dfeaa2"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/definitions.json"
-hash = "f3485ebc6d4276ece35ae65b5ee99d7fe187c2ecc652e16f4d6ca6a057afdad7"
+hash = "3a3eaba89c5eacadd4c9d51c9f8022be164a4ee3e91b502e4e0f95388b7b05e9"
 
 [[files]]
 file = "config/puffish_skills/categories/archery/experience.json"
@@ -246,7 +246,7 @@ hash = "cfaa0b82732e201d11f497513f6ed2ec47dd2b09389ced1051c7a8e37665fd5d"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/category.json"
-hash = "8b45d7a32004a9dd2abf595e83616c75f864728029fa2b1896fd46e569d26bed"
+hash = "4346828ffac6f5cd9a4dc62b8d0a6e5ddbd7a4292dfb302c3417ca5a07a0125f"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/connections.json"
@@ -254,7 +254,7 @@ hash = "0b7072e046615617f07d0340214044e232ed6680a12cd63471e9db54e5cddde0"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/definitions.json"
-hash = "ad4bccb0c3de8b6f353334c1a1349a0504ea842fc871ea2db428ed93773b9809"
+hash = "f701b7573f7d68096b5bcc3f7c853481936b35c85d4167799cf6d6612002ca3f"
 
 [[files]]
 file = "config/puffish_skills/categories/melee/experience.json"
@@ -266,7 +266,7 @@ hash = "d34b688dfdd247f748aafda392d39b1d5cab11b23afa1f214001fd0f3686aa5c"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/category.json"
-hash = "81ab4e5d26994aed195b2f9d6b2647b5261a676e54f1ba605e6b394c4a6752c2"
+hash = "a1fc01bf48ca9d4393a5f75fc9b52fbed59b6ad969eed072e77519bc480c2386"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/connections.json"
@@ -274,7 +274,7 @@ hash = "c47faeb25065cadd861babaecd4021ff77acaf38e89c8a5453223808013d7e75"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/definitions.json"
-hash = "3233134d6be6fd4f3408afb5e92c5265ad43659edaa9ceb8155149966b366592"
+hash = "ee0facb46e7600e4c41992341d4addf39a45c27abfc829ef3c5ce1153358409d"
 
 [[files]]
 file = "config/puffish_skills/categories/sorcery/experience.json"
