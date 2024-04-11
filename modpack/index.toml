@@ -1181,6 +1181,11 @@ file = "resourcepacks/icons.zip"
 hash = "c268aadcd24fc8536a5a91170fc2505bf1fbfb1e23df8665ff41ec0fb4b5d3df"
 
 [[files]]
+file = "resourcepacks/pixel-icons.pw.toml"
+hash = "1f4d41540388b58751b7febd6f98a97798d7765ee0842ae5d6b2d03d1e3f7841"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stay-true.pw.toml"
 hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
 metafile = true

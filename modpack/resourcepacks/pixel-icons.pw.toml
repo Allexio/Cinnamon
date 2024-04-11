@@ -1,0 +1,13 @@
+name = "Pixel RPG icons"
+filename = "open_rpg_icons.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L3oL3u9X/versions/oDTj6uIY/open_rpg_icons.zip"
+hash-format = "sha1"
+hash = "bb0eb92c141b8896f1f1ab92b10075661fcc6460"
+
+[update]
+[update.modrinth]
+mod-id = "L3oL3u9X"
+version = "oDTj6uIY"
