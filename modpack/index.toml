@@ -567,6 +567,11 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/difficulty.pw.toml"
+hash = "64fbd73858e5efb40c661e81e00cf24cb3009210639b739c1da61cecfb756d00"
+metafile = true
+
+[[files]]
 file = "mods/discord-statusbot.pw.toml"
 hash = "23ec11a6d407814e857c8571f1fdcadcd62ad789df9799c349b332aa36bc9a9c"
 metafile = true
@@ -639,6 +644,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
+file = "mods/fakerlib.pw.toml"
+hash = "c0a025f5c46533dc1dbd125f36e6ba6a3c761e91ace0c39e044e71afcfc7e73a"
 metafile = true
 
 [[files]]
@@ -1160,13 +1170,18 @@ hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
 metafile = true
 
 [[files]]
+file = "mods/zenith-attributes.pw.toml"
+hash = "9ce0ede39d7106053f41448db3242536e199f16e1c7d753415c349acbd6768f8"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7702f541917e9530d33e3258f729096d0c4a22246117d7ed9bfeeb221d2ec363"
+hash = "2f27c7172576b390de4e8ae9fddd8c2bffc0deb43953a172cad68b7b05f76f91"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"
@@ -1191,9 +1206,8 @@ hash = "1f4d41540388b58751b7febd6f98a97798d7765ee0842ae5d6b2d03d1e3f7841"
 metafile = true
 
 [[files]]
-file = "resourcepacks/stay-true.pw.toml"
-hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
-metafile = true
+file = "resourcepacks/stay_true_fixed.zip"
+hash = "54ab5f8171ec3e410900fc3c870fc0ea274400318323f2d3f7ba9c1a02f195e5"
 
 [[files]]
 file = "scripts/remove-waystone-recipe.zs"
