@@ -466,6 +466,11 @@ hash = "91d5dd2f8f16d8765e275d4f814a9b6cd155b0d9b3b0d89d93b54ffbda4a0440"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "9022ec899edf2af44a13d5d715b10661f394672306e3cff5b29bdd7452c783f7"
+metafile = true
+
+[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "3f3e1c92d0bef30d0bfaba219ad58847a67fcfeba51e8c32c228658c1c5a6557"
 metafile = true
@@ -643,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/edibles.pw.toml"
 hash = "59c1e45bf4c554998777874fb58660d48d6993c70187dcb0d94ad4b2d3d75d87"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
 metafile = true
 
 [[files]]
