@@ -205,88 +205,88 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "2902b62ed6e9272c7a93bbd22fccf6120b0c753b992b00a4af9026d1306794b4"
 
 [[files]]
-file = "config/puffish_skills/categories/adventure/category.json"
+file = "config/puffish_skills/categories/explorer/category.json"
 hash = "80a199c7fc88406220fa7962a6f9fc21adc81b8850fd6727bfba5b88be98c6ec"
 
 [[files]]
-file = "config/puffish_skills/categories/adventure/connections.json"
+file = "config/puffish_skills/categories/explorer/connections.json"
 hash = "6db5e2590f04af654f26cd45341c9ad43f541deaac52299f3d1fcee6cbe9284e"
 
 [[files]]
-file = "config/puffish_skills/categories/adventure/definitions.json"
+file = "config/puffish_skills/categories/explorer/definitions.json"
 hash = "3887c73c333553161bb5d7845b7852cb5f612c5be97350ffc9d5e98e0fb8e648"
 
 [[files]]
-file = "config/puffish_skills/categories/adventure/experience.json"
+file = "config/puffish_skills/categories/explorer/experience.json"
 hash = "6d266416524b291bebf2331932c590b1932daa2c145a28460c92546b55c7225a"
 
 [[files]]
-file = "config/puffish_skills/categories/adventure/skills.json"
+file = "config/puffish_skills/categories/explorer/skills.json"
 hash = "6bc176ac46db38c9b705c4e356ef394fbfc93c8160bcb5fe9a33f34822942fe5"
 
 [[files]]
-file = "config/puffish_skills/categories/archery/category.json"
-hash = "5d85b82bcf1f31bb63563dbe24da4a626e9499070bff6d546bf24f77fa8578d5"
-
-[[files]]
-file = "config/puffish_skills/categories/archery/connections.json"
-hash = "b15c286d0d9843cd43e723c5c48e4f226a41c87582ae8756c2f4fdfcd6dfeaa2"
-
-[[files]]
-file = "config/puffish_skills/categories/archery/definitions.json"
-hash = "3a3eaba89c5eacadd4c9d51c9f8022be164a4ee3e91b502e4e0f95388b7b05e9"
-
-[[files]]
-file = "config/puffish_skills/categories/archery/experience.json"
-hash = "029a8a16828100c52431ffde63b2ff8d637e048909ef42e1dd67b1da95c17ead"
-
-[[files]]
-file = "config/puffish_skills/categories/archery/skills.json"
-hash = "cfaa0b82732e201d11f497513f6ed2ec47dd2b09389ced1051c7a8e37665fd5d"
-
-[[files]]
-file = "config/puffish_skills/categories/melee/category.json"
-hash = "d77cf1c819533261ea64622f0f56abfd0ba05825a79a77abb7be426518c77cf9"
-
-[[files]]
-file = "config/puffish_skills/categories/melee/connections.json"
-hash = "459536897ebe4267931a820869c1dbdbde0434473009734e9ab7e9f471994e64"
-
-[[files]]
-file = "config/puffish_skills/categories/melee/definitions.json"
-hash = "17efa6724f818255f279e9a35736706cf97d285cea6f839205870501ddd83ca6"
-
-[[files]]
-file = "config/puffish_skills/categories/melee/experience.json"
-hash = "fb70e40e84066663c3edbf4791e2a62efaac39e2235da037434b53d516e8e7f7"
-
-[[files]]
-file = "config/puffish_skills/categories/melee/skills.json"
-hash = "f8f9518f67f5bfd677edbdf8c296e9179e9f15010a8eee17ecf22e297175f4f5"
-
-[[files]]
-file = "config/puffish_skills/categories/sorcery/category.json"
+file = "config/puffish_skills/categories/mage/category.json"
 hash = "a1fc01bf48ca9d4393a5f75fc9b52fbed59b6ad969eed072e77519bc480c2386"
 
 [[files]]
-file = "config/puffish_skills/categories/sorcery/connections.json"
+file = "config/puffish_skills/categories/mage/connections.json"
 hash = "c47faeb25065cadd861babaecd4021ff77acaf38e89c8a5453223808013d7e75"
 
 [[files]]
-file = "config/puffish_skills/categories/sorcery/definitions.json"
+file = "config/puffish_skills/categories/mage/definitions.json"
 hash = "ee0facb46e7600e4c41992341d4addf39a45c27abfc829ef3c5ce1153358409d"
 
 [[files]]
-file = "config/puffish_skills/categories/sorcery/experience.json"
+file = "config/puffish_skills/categories/mage/experience.json"
 hash = "25c3fef48ca662f92b9b11c07994a7b4c19b51ba34f9c9559957e0279d15110f"
 
 [[files]]
-file = "config/puffish_skills/categories/sorcery/skills.json"
+file = "config/puffish_skills/categories/mage/skills.json"
 hash = "7df27ebbb8066c5cfa7c8c8242002bfb45a9870c35e1a25f2b86817d6fbfff6b"
 
 [[files]]
+file = "config/puffish_skills/categories/ranger/category.json"
+hash = "887f035e348a94bc250c1d055309626213ed599aea515ad590bc9a1644083e1f"
+
+[[files]]
+file = "config/puffish_skills/categories/ranger/connections.json"
+hash = "351014126d5ab99803c166b0b24f62f185acb98deee5bfd768585b4388111e84"
+
+[[files]]
+file = "config/puffish_skills/categories/ranger/definitions.json"
+hash = "806aa034b39d323e5121a3329fce380893b44bbaac18e7e1ab5781c8d4e28e1b"
+
+[[files]]
+file = "config/puffish_skills/categories/ranger/experience.json"
+hash = "029a8a16828100c52431ffde63b2ff8d637e048909ef42e1dd67b1da95c17ead"
+
+[[files]]
+file = "config/puffish_skills/categories/ranger/skills.json"
+hash = "d48263982f182af408e25d11cb5cd6d72ae8b348fc4ffd7626a698a3e20b45b1"
+
+[[files]]
+file = "config/puffish_skills/categories/warrior/category.json"
+hash = "d77cf1c819533261ea64622f0f56abfd0ba05825a79a77abb7be426518c77cf9"
+
+[[files]]
+file = "config/puffish_skills/categories/warrior/connections.json"
+hash = "459536897ebe4267931a820869c1dbdbde0434473009734e9ab7e9f471994e64"
+
+[[files]]
+file = "config/puffish_skills/categories/warrior/definitions.json"
+hash = "2ca5aa44a83e2e7ba44e252b92cd25b623f1f2219e9954584c6b1b35d9737578"
+
+[[files]]
+file = "config/puffish_skills/categories/warrior/experience.json"
+hash = "fb70e40e84066663c3edbf4791e2a62efaac39e2235da037434b53d516e8e7f7"
+
+[[files]]
+file = "config/puffish_skills/categories/warrior/skills.json"
+hash = "f8f9518f67f5bfd677edbdf8c296e9179e9f15010a8eee17ecf22e297175f4f5"
+
+[[files]]
 file = "config/puffish_skills/config.json"
-hash = "a8366b9a4c451d61160742d16812cf1f366a74369910cd889e5e9524fc814af1"
+hash = "3774df7e004435b41607bf57306f8691d72f8fb1b5241470e3643056b4eee617"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -295,6 +295,50 @@ hash = "bd53460b414882bd01d40d423fd614d219938160d124ea5c7ca43f5099b09c4d"
 [[files]]
 file = "config/railways-common.toml"
 hash = "58f7821842631af9ec8bcaddb60526b81cd1b9ad63cbba87c83c70e53c3a9b16"
+
+[[files]]
+file = "config/sihywtcamd/arthropods.json"
+hash = "8409fc318af918b590bb9cc43288ddac6d1ea7130a5d58c5ef3f486264fb7b39"
+
+[[files]]
+file = "config/sihywtcamd/bosses.json"
+hash = "70f7275c81b2962fbc0a8daa78363c1bc81234f7df728701f8b8c130224e496d"
+
+[[files]]
+file = "config/sihywtcamd/cosmetics.json"
+hash = "0595ccea5a6f0e3c3bd5b6c02f8b13bffd94fb4a8df0aff21edad0d90c164d3d"
+
+[[files]]
+file = "config/sihywtcamd/end.json"
+hash = "99d92ec5545caf3b8170c2e4ea1e75d9136ae6caba6903e81af50e3812602db2"
+
+[[files]]
+file = "config/sihywtcamd/general.json"
+hash = "9f9ca918fc4a9180de443fafc799a1a3a73f60b6288ce786f102c0b378981fce"
+
+[[files]]
+file = "config/sihywtcamd/illagers.json"
+hash = "c434dd89ebb0ae99b85834f2d993cda437a21c9e90163d673e1153f33e3f9e8f"
+
+[[files]]
+file = "config/sihywtcamd/nether.json"
+hash = "bc16f05616ad5645fb83733dcc2e63215c47a88dc8c5df2c839b716af94e78ba"
+
+[[files]]
+file = "config/sihywtcamd/overworld.json"
+hash = "388177d5c76ba9dbc0885a0d3528095525e010d29e12109d6a70733625d054f6"
+
+[[files]]
+file = "config/sihywtcamd/skeletons.json"
+hash = "dd0e7ee657dd2d73c2f75220cca60d34dbfd3d7a1644320cd37037b4619a3c7d"
+
+[[files]]
+file = "config/sihywtcamd/undead.json"
+hash = "ee74c1a8f8ad824707d1fb67fb84c601e6c886a7ed086e961867d14e008c7020"
+
+[[files]]
+file = "config/sihywtcamd/zombies.json"
+hash = "5f5e595ec78ffc6d56c43ba5a7d849089d9d95d32aa725e52091d568730dfa56"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -804,11 +848,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
-metafile = true
-
-[[files]]
-file = "mods/mariums-soulslike-weaponry.pw.toml"
-hash = "818fd64a2e6f5fbac4be23aeb12c63b53a544884152dc31cc492e443c3866248"
 metafile = true
 
 [[files]]
