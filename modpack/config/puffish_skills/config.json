@@ -4,9 +4,9 @@
 	"show_warnings": true,
 
 	"categories": [
-		"melee",
-		"archery",
-		"sorcery",
-		"adventure"
+		"warrior",
+		"explorer",
+		"mage",
+		"ranger"
 	]
 }

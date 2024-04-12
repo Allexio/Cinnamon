@@ -2,9 +2,9 @@
 	"unlocked_by_default": true,
 	"title": "Path of the Ranger",
 	"icon": {
-		"type": "item",
+		"type": "texture",
 		"data": {
-			"texture": "archers:royal_longbow"
+			"texture": "icons/weapons/Bow02.png"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/adventure.png"

@@ -1,6 +1,7 @@
 {
-	"root_hunter": {
+	"root_ranger": {
 		"title": "Path of the Ranger",
+		"description": "§8You use your superior agility and bow to take enemies out efficiently and quietly. Follow this path to become a lethal hunter. \n\n§aGet experience in this tree by getting ranged kills",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -8,9 +9,9 @@
 			}
 		},
 		"icon": {
-			"type": "item",
+			"type": "texture",
 			"data": {
-				"texture": "minecraft:bow"
+				"texture": "icons/weapons/Bow02.png"
 			}
 		},
 		"rewards": [
@@ -21,46 +22,36 @@
 					"value": 0.5,
 					"operation": "addition"
 				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:root_archer"
-				}
 			}
 		]
 	},
-	"health": {
-		"title": "+1 Heart",
+	"superior-strings": {
+		"title": "Superior Strings",
+		"description": "§8Your string is a lot more elastic.\n§8Wait no that's not what I- \n\n§a+5% Bow Draw speed",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile337.png"
+				"texture": "icons/skills/Bow13.png"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "generic.max_health",
-					"value": 2,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:hp"
+					"attribute": "zenith_attributes:draw_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
 				}
 			}
 		]
 	},
 	"ranged_damage": {
-		"title": "+2% Ranged Damage",
+		"title": "Sharper Tips",
+		"description": "§8You sharpen your arrow tips. Cavemen are proud of you.\n\n\n§a+3% Arrow Damage",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile258.png"
+				"texture": "icons/skills/Bow01.png"
 			}
 		},
 		"rewards": [
@@ -68,49 +59,59 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_skills:player.ranged_damage",
-					"value": 0.02,
+					"value": 0.03,
 					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:archer_damage"
 				}
 			}
 		]
 	},
-	"skill_cd": {
-		"title": "-5% Skill Cooldown",
+	"arrow_velocity": {
+		"title": "Wind-blessed Arrows",
+		"description": "§8Your arrows are blessed by the godess of the wind and meet their targets sooner.\n\n§a+10% Arrow Velocity",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/dexterity.png"
+				"texture": "icons/skills/Bow05.png"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "spell_power:haste",
-					"value": 0.05,
-					"operation": "multiply_base"
+					"attribute": "zenith_attributes:arrow_velocity",
+					"value": 0.10,
+					"operation": "multiply_total"
 				}
-			},
+			}
+		]
+	},
+	"dodge": {
+		"title": "Dodgy",
+		"description": "§8You dodge hits suspiciously well.\n\n§a+10% Dodge Chance",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Shadow14.png"
+			}
+		},
+		"rewards": [
 			{
-				"type": "puffish_skills:command",
+				"type": "puffish_skills:attribute",
 				"data": {
-					"command": "function commands:archer_cd"
+					"attribute": "zenith_attributes:dodge_chance",
+					"value": 0.10,
+					"operation": "multiply_total"
 				}
 			}
 		]
 	},
 	"luck": {
-		"title": "+0.25 Luck",
+		"title": "Lucky",
+		"description": "§8You must be a punk because you're feeling lucky.\n\n§a+0.25 Luck",
 		"icon": {
-			"type": "effect",
+			"type": "texture",
 			"data": {
-				"effect": "luck"
+				"texture": "icons/items/Clover.png"
 			}
 		},
 		"rewards": [
@@ -121,21 +122,16 @@
 					"value": 0.25,
 					"operation": "addition"
 				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:luck"
-				}
 			}
 		]
 	},
-	"saturation": {
-		"title": "+3% Saturation",
+	"scavenger": {
+		"title": "Scavenger",
+		"description": "§8It's a good thing you grew up watching those survivalist youtube videos.\n\n§a+3% Stamina Efficiency",
 		"icon": {
-			"type": "effect",
+			"type": "texture",
 			"data": {
-				"effect": "saturation"
+				"texture": "icons/items/C_Fish.png"
 			}
 		},
 		"rewards": [
@@ -146,71 +142,76 @@
 					"value": 0.03,
 					"operation": "multiply_total"
 				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:saturation"
-				}
 			}
 		]
 	},
-	"regen": {
-		"title": "+4% Regeneration",
+	"crit_chance": {
+		"title": "Head Hunter",
+		"description": "§8Through trial and error, you have learnt that aiming for the head generates greater returns.\n\n§a+5% Critical Chance",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile336.png"
+				"texture": "icons/skills/Bow09.png"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.healing",
-					"value": 0.04,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:regen"
-				}
-			}
-		]
-	},
-	"accuracy": {
-		"title": "+5% Accuracy",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "textures/items/tile261.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "obscure_api:accuracy",
+					"attribute": "zenith_attributes:crit_chance",
 					"value": 0.05,
 					"operation": "multiply_base"
 				}
-			},
+			}
+		]
+	},
+	"sprint1": {
+		"title": "Sunday Sprinter",
+		"description": "§8There are worse things for your health than sprinting once a week.\n\n§a+5% Movement Speed",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Buff04.png"
+			}
+		},
+		"rewards": [
 			{
-				"type": "puffish_skills:command",
+				"type": "puffish_skills:attribute",
 				"data": {
-					"command": "function commands:accuracy"
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
 				}
 			}
 		]
 	},
-	"crit_dmg": {
-		"title": "+5% Crit Damage",
+	"sprint2": {
+		"title": "Monday Marathoner",
+		"description": "§8How else would you start a great week than with your favourite activity.\n\n§a+10% Movement Speed",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/strenght.png"
+				"texture": "icons/skills/Buff11.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.10,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"crit_damage": {
+		"title": "It's over 5%!",
+		"description": "§8Sometimes your hits do more damage.\n§8Now they do even more damage when that happens.\n\n§a+5% Critical Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Bow06.png"
 			}
 		},
 		"rewards": [
@@ -221,11 +222,65 @@
 					"value": 0.05,
 					"operation": "multiply_base"
 				}
-			},
+			}
+		]
+	},
+	"back_stabber": {
+		"title": "Back Stabber",
+		"description": "§8Look at you being all original.The front wasn't good enough for you?\n\n§a+10% Backstab Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Dagger02.png"
+			}
+		},
+		"rewards": [
 			{
-				"type": "puffish_skills:command",
+				"type": "puffish_skills:attribute",
 				"data": {
-					"command": "function commands:cdmg"
+					"attribute": "miapi:generic.back_stab",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"speed_stabber": {
+		"title": "Speed Stabber",
+		"description": "§8How many stabs could a stabber stab if a stabber could stab you?\n\n§a+10% Attack Speed",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Dagger06.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"versatile": {
+		"title": "Versatile",
+		"description": "§8You're so used to using people, you've become proficient at using items too!\n\n§a+10% Item use Speed",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/potions/Red07.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.player_item_use_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
 				}
 			}
 		]
