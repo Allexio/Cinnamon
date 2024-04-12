@@ -2,9 +2,9 @@
 	"unlocked_by_default": true,
 	"title": "Path of the Warrior",
 	"icon": {
-		"type": "item",
+		"type": "texture",
 		"data": {
-			"texture": "soulsweapons:bluemoon_greatsword"
+			"texture": "icons/weapons/Sword006.png"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/adventure.png"
