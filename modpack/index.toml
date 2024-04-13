@@ -1270,3 +1270,11 @@ hash = "7445301c2503e0ea130a3426f2c4a35c9f6969b64386b5902a91a7aacd26b1a3"
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "a52f50c5447c760342a7ab6e8f3f29269aa8f8fe8cc8dcda0e603c26ef199e9d"
 metafile = true
+
+[[files]]
+file = "shaderpacks/photon.zip"
+hash = "348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684"
+
+[[files]]
+file = "shaderpacks/photon.zip.txt"
+hash = "a88da27909be77fe3e49366470fe4fe0c917fffa4fdc3b61e72e56ba93154b06"
