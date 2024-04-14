@@ -1,5 +1,5 @@
 {
-	"root_misc": {
+	"root_explorer": {
 		"title": "Path of the Explorer",
 		"icon": {
 			"type": "item",
@@ -18,88 +18,133 @@
 			}
 		]
 	},
-	"fortune": {
-		"title": "+0.1 Fortune",
+	"luck": {
+		"title": "Lucky",
+		"description": "§8You must be a punk because you're feeling lucky.\n\n§a+0.25 Luck",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile080.png"
+				"texture": "icons/items/Clover.png"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.fortune",
-					"value": 0.1,
+					"attribute": "generic.luck",
+					"value": 0.25,
 					"operation": "addition"
 				}
 			}
 		]
 	},
-	"mining_speed": {
-		"title": "+3% Mining Speed",
+	"scavenger": {
+		"title": "Scavenger",
+		"description": "§8It's a good thing you grew up watching those survivalist youtube videos.\n\n§a+3% Stamina Efficiency",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile160.png"
+				"texture": "icons/items/C_Fish.png"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.mining_speed",
+					"attribute": "puffish_skills:player.stamina",
 					"value": 0.03,
 					"operation": "multiply_total"
 				}
 			}
 		]
 	},
-	"sprint_speed": {
-		"title": "+5% Sprint Speed",
+	"sprint1": {
+		"title": "Sunday Sprinter",
+		"description": "§8There are worse things for your health than sprinting once a week.\n\n§a+5% Movement Speed",
 		"icon": {
-			"type": "effect",
+			"type": "texture",
 			"data": {
-				"effect": "speed"
+				"texture": "icons/skills/Buff04.png"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.sprinting_speed",
+					"attribute": "minecraft:generic.movement_speed",
 					"value": 0.05,
 					"operation": "multiply_base"
 				}
 			}
 		]
 	},
-	"knockback_power": {
-		"title": "+2% Knockback",
+	"sprint2": {
+		"title": "Monday Marathoner",
+		"description": "§8How else would you start a great week than with your favourite activity.\n\n§a+10% Movement Speed",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile280.png"
+				"texture": "icons/skills/Buff11.png"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.knockback",
-					"value": 0.02,
-					"operation": "multiply_total"
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.10,
+					"operation": "multiply_base"
 				}
 			}
 		]
 	},
-	"exp_dropped": {
-		"title": "+0.3 Experience Drop",
+	"long-arms": {
+		"title": "Long Armed",
+		"description": "§8These freakishly long arms would've been useful to defuse the bomb an hour ago.\n\n§a+1 Reach",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile198.png"
+				"texture": "icons/skills/Buff11.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "reach-entity-attributes.reach",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"loot-magnet": {
+		"title": "Loot Magnet",
+		"description": "§8Items on the floor seem to be drawn to your body and you're not entirely sure why, but your back thanks you.\n\n§a+1 Collection Range",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Magic07.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additionalentityattributes:player.collection_range",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"more-xp": {
+		"title": "Avid Learner",
+		"description": "§8There's nothing better than practice to learn. No, I don't want to see how fast you unsheathe your sword.\n\n§a+10% XP Gained",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Magic09.png"
 			}
 		},
 		"rewards": [
@@ -107,18 +152,59 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "additionalentityattributes:player.dropped_experience",
-					"value": 0.3,
-					"operation": "addition"
+					"value": 0.10,
+					"operation": "multiply_base"
 				}
 			}
 		]
 	},
-	"lung_capacity": {
-		"title": "+1 Lung Capacity",
+	"aquaman": {
+		"title": "Aquaman",
+		"description": "§8You move underwater like a dolphin.\n\n§a+10% Movement Speed in Water",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/efficiency2.png"
+				"texture": "icons/skills/Water03.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additionalentityattributes:player.water_speed",
+					"value": 0.10,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"lavaman": {
+		"title": "Lavaman",
+		"description": "§8You move underlava like a... like a... \n\n§8You move faster in lava.\n\n§a+10% Movement Speed in Lava",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Fire02.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additionalentityattributes:player.lava_speed",
+					"value": 0.10,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"deep-breaths": {
+		"title": "Water Breather",
+		"description": "§8You can breathe underwater!\n\n§8Okay I lied you can't breathe underwater BUT you CAN hold your breath a bit longer!\n\n§a+10% Lung Capacity",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Water07.png"
 			}
 		},
 		"rewards": [
@@ -126,27 +212,8 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "additionalentityattributes:generic.lung_capacity",
-					"value": 100,
-					"operation": "addition"
-				}
-			}
-		]
-	},
-	"dodge": {
-		"title": "-1 Dodge Cooldown",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "textures/items/tile188.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "combatroll:recharge",
-					"value": 1,
-					"operation": "addition"
+					"value": 0.10,
+					"operation": "multiply_base"
 				}
 			}
 		]

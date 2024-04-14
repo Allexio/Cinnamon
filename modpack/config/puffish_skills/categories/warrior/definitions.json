@@ -1,5 +1,5 @@
 {
-	"root_melee": {
+	"root_warrior": {
 		"title": "Path of the Warrior",
 		"description": "§8Plough through hordes of enemies with your trusty sword, shield, and the latest luxury armour. \nFollow this path to become more proficient with all three to better chop up your enemies whilst staying in one (very flashy-looking) piece. \n\n§aGet experience in this tree by getting melee kills and vanquishing raids",
 		"frame": {
@@ -146,7 +146,7 @@
 		]
 	},
 	"vampire": {
-		"title": "Vampiric Tendencies",
+		"title": "Specialisation: Vampiric Tendencies",
 		"description": "§8You leech the life straight out of your enemies with every hit.\n§8What a sucker.\n\n§aSiphon 50% of damage dealt to enemies, caps at half max health \n\n§c-80% Regen from all other sources",
 		"icon": {
 			"type": "texture",
@@ -254,7 +254,7 @@
 		]
 	},
 	"fortress": {
-		"title": "Unmoving Fortress",
+		"title": "Specialisation: Unmoving Fortress",
 		"description": "§8You are a true fortress, a bastion standing tall against the enemy.\n§8They won't breach your defences, but they are so entrenched you have trouble moving.\n\n§a+30% Damage Resistance \n\n§a+50% Knockback Resistance \n\n§c-40% Movement Speed",
 		"icon": {
 			"type": "texture",
@@ -289,6 +289,34 @@
 			}
 		]
 	},
+	"glass-cannon": {
+		"title": "Specialisation: Glass Cannon",
+		"description": "§8Who thought it would be a good idea to make a cannon out of glass? \n\n§a+20% Melee Damage \n\n§c-30% Resistance",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/shields/Cannon03.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.20,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": -0.30,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
 	"penetrator": {
 		"title": "Penetrator",
 		"description": "§8...\nDo I really have to explain what you're good at?\n\n§a+1 Armour Piercing",
@@ -303,6 +331,26 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "zenith_attributes:armor_pierce",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"roller": {
+		"title": "Roller",
+		"description": "§8You can do one more combat roll! Don't do three in a row or you'll get dizzy.\n\n§8Just kidding.\n\n§a+1 Combat Roll Count",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Wind03.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "combatroll:count",
 					"value": 1,
 					"operation": "addition"
 				}

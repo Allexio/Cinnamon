@@ -4,7 +4,7 @@
 	"icon": {
 		"type": "item",
 		"data": {
-			"item": "soulsweapons:chungus_emerald"
+			"item": "naturescompass:naturescompass"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/adventure.png"

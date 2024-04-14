@@ -3,38 +3,31 @@
 		"type": "values",
 		"data": {
 			"values": [
-				200,
-				300,
-				400,
-				400,
-				500,
-				550
+				2,
+				3,
+				4,
+				4,
+				5,
+				6
 			]
 		}
 	},
 	"sources": [
 		{
-
-			"type": "puffish_skills:mine_block",
+			"type": "puffish_skills:increase_stat",
 			"data": {
 				"conditions": {
-					"axe": {
-						"type": "block_tag",
+					"looted_chest": {
+						"type": "stat",
 						"data": {
-							"tag": "minecraft:mineable/axe"
-						}
-					},
-					"pickaxe": {
-						"type": "block_tag",
-						"data": {
-							"tag": "minecraft:mineable/pickaxe"
+							"stat": "lootr:looted_stat"
 						}
 					}
 				},
 				"experience": [
 					{
-						"condition": "(axe | pickaxe)",
-						"expression": "2"
+						"condition": "looted_chest",
+						"expression": "1"
 					}
 				]
 			}
