@@ -303,7 +303,7 @@
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/shields/Cannon03.png"
+				"texture": "icons/items/Cannon03.png"
 			}
 		},
 		"rewards": [

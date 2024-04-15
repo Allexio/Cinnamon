@@ -206,7 +206,7 @@ hash = "2902b62ed6e9272c7a93bbd22fccf6120b0c753b992b00a4af9026d1306794b4"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/category.json"
-hash = "d1094ffe4601e21eb27b47986c6218368f3756c0ea161616705af9523b12b804"
+hash = "903ffc9099594b7855d2f3fcd65ddc4c16e9c10d260e6997987e9a2c4ff9c3e0"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/connections.json"
@@ -214,7 +214,7 @@ hash = "6fb86f3851aa6b38725c79ff1b7e88a232c458cb67d7da03843ab361fa2e414b"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/definitions.json"
-hash = "2b2d8aaeddf86bf05c72c1a3559fbf283f07ddda3222ddf11b277f9e3c023c45"
+hash = "69472ae0081c769163008e9333757a6f2faa6997aebacedcae2ada7244db2531"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/experience.json"
@@ -238,7 +238,7 @@ hash = "899f7d37a1d490e1ad2b31641906f055d82a7ab22986f5a611c83e6fbd1df86c"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/experience.json"
-hash = "25c3fef48ca662f92b9b11c07994a7b4c19b51ba34f9c9559957e0279d15110f"
+hash = "8d192eebba136ae0ec3c66729ba8606abf1d292ae4bbe172c321ef0e0fab2553"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/skills.json"
@@ -254,11 +254,11 @@ hash = "d8d2125a309e7b4186298c598ac2cd78367f2d8eaf8b8c76dd91ab487ca57c7d"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/definitions.json"
-hash = "39a4b394b35473331194b99decafa6ec119e2d8092b681202be6a7e7616900a6"
+hash = "44c3bff6596b9cbcf447ec96551a6887e1c7eda8ef1bd7074297e9b22673dc02"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/experience.json"
-hash = "029a8a16828100c52431ffde63b2ff8d637e048909ef42e1dd67b1da95c17ead"
+hash = "398ad572ee6f7a67ad872714fe5272394c23f97b332b439707a9c92ba6ff98e7"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/skills.json"
@@ -270,7 +270,7 @@ hash = "d77cf1c819533261ea64622f0f56abfd0ba05825a79a77abb7be426518c77cf9"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/connections.json"
-hash = "459536897ebe4267931a820869c1dbdbde0434473009734e9ab7e9f471994e64"
+hash = "0cd67402b02b2047dd491a5572c086cf434c05974edfedadb29c8db3773d7e03"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/definitions.json"
@@ -278,11 +278,11 @@ hash = "d8fe1ab6171ee79fe38db793e1fb57222622bb7ec3f4cc98c3e7c7385ee747fd"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/experience.json"
-hash = "bab26de14f8d0812fdd474bfd99d33db4925b34d6ac9b08186f20ecf66d94983"
+hash = "7f5a511759a0e4dd17bc6517bb65b5cdcb753ef3fbe60e9226698916d96c9f60"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/skills.json"
-hash = "7d7dede1fb05867fbffae4afc7c8a10b0e4094e792a8246581a063ffc865ba52"
+hash = "6d7bc44ec0ac78532ed124893d2e744d83ad40910ccfc83a0e74208209ebfa41"
 
 [[files]]
 file = "config/puffish_skills/config.json"
