@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "e57f37c3874885ee031dfb33d83ec0f0d6440de3de5a7674c2077de18395fc89"
+
+[[files]]
 file = "config/betterf3.json"
 hash = "f293c49eeeaf9f37e00dd4ce779c4b42b798bf813694f7907849739f1c3e93d6"
 
@@ -250,7 +254,7 @@ hash = "887f035e348a94bc250c1d055309626213ed599aea515ad590bc9a1644083e1f"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/connections.json"
-hash = "d8d2125a309e7b4186298c598ac2cd78367f2d8eaf8b8c76dd91ab487ca57c7d"
+hash = "6ecb7342ea3fd3d3adfc38cecf2334c68f97ab2b8848812698cd928194adace9"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/definitions.json"
@@ -262,7 +266,7 @@ hash = "398ad572ee6f7a67ad872714fe5272394c23f97b332b439707a9c92ba6ff98e7"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/skills.json"
-hash = "2133e93a777e28a8e7dc6ad9fb3ba4d8b86961d4a43dfd1a462a94218140cd50"
+hash = "9cb02bb154c946b23c3cd5eee55a9a80ada0160dfb4b1dc0b42d8e46bd9dd767"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/category.json"
@@ -270,19 +274,19 @@ hash = "d77cf1c819533261ea64622f0f56abfd0ba05825a79a77abb7be426518c77cf9"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/connections.json"
-hash = "0cd67402b02b2047dd491a5572c086cf434c05974edfedadb29c8db3773d7e03"
+hash = "dfba1af6a460daeb4e006fee8ed25cdf50dbb7e39bbf35f5ec0a59ee38bc2a3d"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/definitions.json"
-hash = "d8fe1ab6171ee79fe38db793e1fb57222622bb7ec3f4cc98c3e7c7385ee747fd"
+hash = "be68be70f26bc750165dd0e7c6be482263dfd28d21f9aa695e2b377f42649a55"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/experience.json"
-hash = "7f5a511759a0e4dd17bc6517bb65b5cdcb753ef3fbe60e9226698916d96c9f60"
+hash = "8fc1f9fb52afd418d7a61c6654f214cdb1648a3e68b6fc90f9acc4f3c9243905"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/skills.json"
-hash = "6d7bc44ec0ac78532ed124893d2e744d83ad40910ccfc83a0e74208209ebfa41"
+hash = "42a455d5f23ebab1e1fddc6e2e215fb93a30458dd6803b0bfdd7b4bfac50953e"
 
 [[files]]
 file = "config/puffish_skills/config.json"
@@ -885,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-item-api.pw.toml"
-hash = "01c3823fb6ba20870174bcaf22fc33dd88532e16ff04a339e61704aef97606f6"
+hash = "2dad783fce0e226f1d76c8f918bd074d719d3e91c8cfc3ebd4b9d395580f55a0"
 metafile = true
 
 [[files]]
@@ -975,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "3cda85e2da5d48c8ae89c43c0519c6e4dce11e1d4c6fce66bdb98c9fe17a32d7"
+hash = "0e64ce1d4ea3e8bc03882aad9efe4671d154eb786ec60a44bd26d4ed4e9adeae"
 metafile = true
 
 [[files]]
@@ -1228,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2f27c7172576b390de4e8ae9fddd8c2bffc0deb43953a172cad68b7b05f76f91"
+hash = "e58273c83e878f35f64d620d303e42b8c8eb01af2d7b1c5e9864e5af9f6ad5f9"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"
@@ -1249,7 +1253,7 @@ hash = "c268aadcd24fc8536a5a91170fc2505bf1fbfb1e23df8665ff41ec0fb4b5d3df"
 
 [[files]]
 file = "resourcepacks/pixel-icons.pw.toml"
-hash = "1f4d41540388b58751b7febd6f98a97798d7765ee0842ae5d6b2d03d1e3f7841"
+hash = "b2702f14ce25a21172423614934d1234bbd08412c65327915a0c7bde76b363c8"
 metafile = true
 
 [[files]]
