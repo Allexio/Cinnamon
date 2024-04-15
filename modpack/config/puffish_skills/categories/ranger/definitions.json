@@ -252,7 +252,7 @@
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/potions/Red07.png"
+				"texture": "icons/weapons/Bow16.png"
 			}
 		},
 		"rewards": [
@@ -352,7 +352,7 @@
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/skills/Wind07.png"
+				"texture": "icons/skills/Wind04.png"
 			}
 		},
 		"rewards": [
@@ -372,7 +372,7 @@
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/skills/Wind04.png"
+				"texture": "icons/skills/Wind07.png"
 			}
 		},
 		"rewards": [

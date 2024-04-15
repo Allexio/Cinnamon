@@ -29,12 +29,6 @@
 		"y": 0,
 		"root": false
 	},
-	"j7b37pvc1fdmtl2p": {
-		"definition": "luck",
-		"x": -96,
-		"y": 0,
-		"root": false
-	},
 	"l7ncl2pnm6qj1xoe": {
 		"definition": "crit_chance",
 		"x": -32,
@@ -59,12 +53,6 @@
 		"y": 0,
 		"root": false
 	},
-	"4ucqnuuhw3u2peh6": {
-		"definition": "scavenger",
-		"x": -64,
-		"y": 0,
-		"root": false
-	},
 	"3ihawf5vxb5hjn6i": {
 		"definition": "back_stabber",
 		"x": 96,
@@ -80,6 +68,36 @@
 	"6z24wua3ekhd8tyq": {
 		"definition": "versatile",
 		"x": 160,
+		"y": 0,
+		"root": false
+	},
+	"e39yt218ig1gwvmk": {
+		"definition": "spec-Archery",
+		"x": -96,
+		"y": 0,
+		"root": false
+	},
+	"tshcnxy2hxjjfs6v": {
+		"definition": "spec-sniper",
+		"x": -64,
+		"y": 0,
+		"root": false
+	},
+	"xpyd6j5x05obveag": {
+		"definition": "spec-rapid-fire",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"1egf5yi90ohbbczf": {
+		"definition": "faster-rolls",
+		"x": 224,
+		"y": 0,
+		"root": false
+	},
+	"0ypx8be6sgtpegnq": {
+		"definition": "roll-recovery",
+		"x": 256,
 		"y": 0,
 		"root": false
 	}

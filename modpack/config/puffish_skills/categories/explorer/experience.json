@@ -20,7 +20,7 @@
 					"looted_chest": {
 						"type": "stat",
 						"data": {
-							"stat": "lootr:looted_stat"
+							"stat": "minecraft.custom:lootr.looted_stat"
 						}
 					}
 				},

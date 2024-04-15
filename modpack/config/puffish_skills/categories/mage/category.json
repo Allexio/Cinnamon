@@ -2,9 +2,9 @@
 	"unlocked_by_default": true,
 	"title": "Path of the Mage",
 	"icon": {
-		"type": "item",
+		"type": "texture",
 		"data": {
-			"item": "spellbladenext:arcane_orb"
+			"texture": "icons/weapons/Book06.png"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/sourcestone.png"

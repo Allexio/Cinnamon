@@ -30,7 +30,11 @@
 						"condition": "magic",
 						"expression": "dropped_xp + max_health / 40"
 					}
-				]
+				],
+				"anti_farming":{
+					"limit_per_chunk":"10",
+					"reset_after_seconds":"120"
+				}
 			}
 		}
 	]

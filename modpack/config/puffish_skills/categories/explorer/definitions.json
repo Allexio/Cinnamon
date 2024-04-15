@@ -1,10 +1,17 @@
 {
 	"root_explorer": {
 		"title": "Path of the Explorer",
+		"description": "§8You don't need to fight enemies if they can't catch up to you. Follow this path to train your stamina, agility, and luck to their very limits!\n\n§aGet experience in this tree by finding and opening chests",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
 		"icon": {
 			"type": "item",
 			"data": {
-				"texture": "naturescompass:naturescompass"
+				"item": "naturescompass:naturescompass"
 			}
 		},
 		"rewards": [
@@ -44,7 +51,7 @@
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/items/C_Fish.png"
+				"texture": "icons/food/Fish.png"
 			}
 		},
 		"rewards": [
@@ -111,7 +118,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "reach-entity-attributes.reach",
+					"attribute": "reach-entity-attributes:reach",
 					"value": 1,
 					"operation": "addition"
 				}
@@ -138,26 +145,6 @@
 			}
 		]
 	},
-	"more-xp": {
-		"title": "Avid Learner",
-		"description": "§8There's nothing better than practice to learn. No, I don't want to see how fast you unsheathe your sword.\n\n§a+10% XP Gained",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "icons/skills/Magic09.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "additionalentityattributes:player.dropped_experience",
-					"value": 0.10,
-					"operation": "multiply_base"
-				}
-			}
-		]
-	},
 	"aquaman": {
 		"title": "Aquaman",
 		"description": "§8You move underwater like a dolphin.\n\n§a+10% Movement Speed in Water",
@@ -171,7 +158,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "additionalentityattributes:player.water_speed",
+					"attribute": "additionalentityattributes:generic.water_speed",
 					"value": 0.10,
 					"operation": "multiply_base"
 				}
@@ -191,7 +178,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "additionalentityattributes:player.lava_speed",
+					"attribute": "additionalentityattributes:generic.lava_speed",
 					"value": 0.10,
 					"operation": "multiply_base"
 				}
@@ -213,6 +200,62 @@
 				"data": {
 					"attribute": "additionalentityattributes:generic.lung_capacity",
 					"value": 0.10,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"bigger-jumps": {
+		"title": "Jolly Jumper",
+		"description": "§8You can jump higher.\n\n§8Watch out for painful landings.\n\n§a+50% Jump Height",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Wind06.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additionalentityattributes:generic.jump_height",
+					"value": 0.50,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"elytra-expertise": {
+		"title": "Elytra Expertise",
+		"description": "§8Do a barrel roll!\n\n§a+15% Elytra Turn Efficiency\n\n§a+15% Elytra Rocket Efficiency\n\n§a+15% Elytra Glide Efficiency",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Holy05.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.elytra_glide_efficiency",
+					"value": 0.15,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.elytra_rocket_efficiency",
+					"value": 0.15,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "miapi:generic.elytra_turn_efficiency",
+					"value": 0.15,
 					"operation": "multiply_base"
 				}
 			}

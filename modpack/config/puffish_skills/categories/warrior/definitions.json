@@ -127,7 +127,7 @@
 	},
 	"regen": {
 		"title": "Miraculous Constitution",
-		"description": "§8You recover from wounds faster. Doesn't apply to common cold symptoms. §a+5% Regeneration",
+		"description": "§8You recover from wounds faster. Doesn't apply to common cold symptoms. \n\n§a+5% Regeneration",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -147,7 +147,7 @@
 	},
 	"vampire": {
 		"title": "Specialisation: Vampiric Tendencies",
-		"description": "§8You leech the life straight out of your enemies with every hit.\n§8What a sucker.\n\n§aSiphon 50% of damage dealt to enemies, caps at half max health \n\n§c-80% Regen from all other sources",
+		"description": "§8You leech the life straight out of your enemies with every hit.\n§8What a sucker.\n\n§aSiphon 50% of damage dealt to enemies to overheal, caps at half max health \n\n§c-80% Regen from all other sources",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -161,6 +161,14 @@
 					"attribute": "zenith_attributes:overheal",
 					"value": 0.5,
 					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": -0.80,
+					"operation": "multiply_base"
 				}
 			}
 		]

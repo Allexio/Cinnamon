@@ -1,6 +1,7 @@
 {
 	"root_mage": {
 		"title": "Path of the Mage",
+		"description": "§8Muscles? what are those?\n\n§8Follow this path to learn and become proficient with the arcane arts.\n\n§aGet experience by killing enemies with magic",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -8,9 +9,9 @@
 			}
 		},
 		"icon": {
-			"type": "item",
+			"type": "texture",
 			"data": {
-				"texture": "runes:arcane_stone"
+				"texture": "icons/weapons/Book06.png"
 			}
 		},
 		"rewards": [
@@ -21,46 +22,36 @@
 					"value": 2,
 					"operation": "addition"
 				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:root_mage"
-				}
 			}
 		]
 	},
-	"warding": {
-		"title": "+1 Warding",
+	"more-xp": {
+		"title": "Avid Learner",
+		"description": "§8You were promised cake when you're done doing science.\n\n§a+10% XP Gained",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile143.png"
+				"texture": "icons/skills/Magic09.png"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "extraspellattributes:spellsuppression",
-					"value": 1,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:warding"
+					"attribute": "additionalentityattributes:player.dropped_experience",
+					"value": 0.10,
+					"operation": "multiply_base"
 				}
 			}
 		]
 	},
-	"fire_damage": {
-		"title": "+5% Fire Damage",
+	"fire": {
+		"title": "Firefighter Fighter",
+		"description": "§8When you fight *with* fire, not against it.\n\n§a+10% Fire Magic Efficacy",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile005.png"
+				"texture": "icons/skills/Fire04.png"
 			}
 		},
 		"rewards": [
@@ -68,99 +59,39 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "spell_power:fire",
-					"value": 0.05,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:fire"
-				}
-			}
-		]
-	},
-	"spell_cd": {
-		"title": "-5% Spell Cooldown",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "textures/items/efficiency.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "spell_power:haste",
-					"value": 0.05,
+					"value": 0.10,
 					"operation": "multiply_base"
 				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:spellcd"
-				}
 			}
 		]
 	},
-	"luck": {
-		"title": "+0.25 Luck",
+	"lightning": {
+		"title": "Lightning Legend",
+		"description": "§8Don't give up the fight to be shaman mcKing.\n\n§a+10% Lightning Magic Efficacy",
 		"icon": {
-			"type": "effect",
+			"type": "texture",
 			"data": {
-				"effect": "luck"
+				"texture": "icons/skills/Thunder02.png"
 			}
 		},
 		"rewards": [
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "generic.luck",
-					"value": 0.25,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:luck"
+					"attribute": "spell_power:lightning",
+					"value": 0.10,
+					"operation": "multiply_base"
 				}
 			}
 		]
 	},
-	"healing": {
-		"title": "+7% Healing Power",
+	"arcane": {
+		"title": "Arcane Acolyte",
+		"description": "§8I don't expect many of you to appreciate the subtle science and exact art that is arcane magic.\n\n§8No silly incantations here that's for sure.\n\n§a+10% Arcane Magic Efficacy",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile080.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "spell_power:healing",
-					"value": 0.07,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:healing"
-				}
-			}
-		]
-	},
-	"arcane_damage": {
-		"title": "+5% Arcane Damage",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "textures/items/tile037.png"
+				"texture": "icons/skills/Shadow05.png"
 			}
 		},
 		"rewards": [
@@ -168,24 +99,39 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "spell_power:arcane",
-					"value": 0.05,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:arcane"
+					"value": 0.10,
+					"operation": "multiply_base"
 				}
 			}
 		]
 	},
-	"frost_damage": {
-		"title": "+5% Frost Damage",
+	"soul": {
+		"title": "Soul Society",
+		"description": "§8You wish you were part of something greater. Maybe stick to the Minecraft universe though. Join the Pillager Pilgrims?\n\n§a+10% Soul Magic Efficacy",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile069.png"
+				"texture": "icons/skills/Magic01.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:soul",
+					"value": 0.10,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"frost": {
+		"title": "Freezing Frost",
+		"description": "§8Remember to never eat the yellow snow.\n\n§a+10% Frost Magic Efficacy",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Ice02.png"
 			}
 		},
 		"rewards": [
@@ -193,24 +139,79 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "spell_power:frost",
-					"value": 0.05,
-					"operation": "multiply_total"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:frost"
+					"value": 0.10,
+					"operation": "multiply_base"
 				}
 			}
 		]
 	},
-	"critical_damage": {
-		"title": "+10% Crit Damage",
+	"heal": {
+		"title": "Healing Herald",
+		"description": "§8Studies have shown that this will be the branch no one picks.\n\n§8Go on. Prove me wrong.\n\n§a+10% Healing Magic Efficacy",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "textures/items/tile144.png"
+				"texture": "icons/skills/Holy02.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:healing",
+					"value": 0.10,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"cooldown": {
+		"title": "Time Turner",
+		"description": "§8Why aren't we using those again?\n\n§a+10% Spell Cooldown Speed",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/items/Clock.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:haste",
+					"value": 0.10,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"spell-critical-chance": {
+		"title": "Lucky Latinology",
+		"description": "§8Lorem ipsum dolor sit amet, si haec legis, simia es.\n\n§a+10% Spell Critical Chance",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Physic01.png"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:critical_chance",
+					"value": 0.10,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"spell-critical-damage": {
+		"title": "Emotional Damage",
+		"description": "§8Your spell critical hits make your target lose self-confidence.\n\n§a+10% Spell Critical Damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Magic06.png"
 			}
 		},
 		"rewards": [
@@ -220,37 +221,6 @@
 					"attribute": "spell_power:critical_damage",
 					"value": 0.10,
 					"operation": "multiply_base"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:spell_critdmg"
-				}
-			}
-		]
-	},
-	"critical_chance": {
-		"title": "+15% Crit Chance",
-		"icon": {
-			"type": "texture",
-			"data": {
-				"texture": "textures/items/strenght.png"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "spell_power:critical_damage",
-					"value": 15,
-					"operation": "addition"
-				}
-			},
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "function commands:spell_critrate"
 				}
 			}
 		]
