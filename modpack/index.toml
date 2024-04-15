@@ -206,23 +206,23 @@ hash = "2902b62ed6e9272c7a93bbd22fccf6120b0c753b992b00a4af9026d1306794b4"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/category.json"
-hash = "80a199c7fc88406220fa7962a6f9fc21adc81b8850fd6727bfba5b88be98c6ec"
+hash = "d1094ffe4601e21eb27b47986c6218368f3756c0ea161616705af9523b12b804"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/connections.json"
-hash = "6db5e2590f04af654f26cd45341c9ad43f541deaac52299f3d1fcee6cbe9284e"
+hash = "23312f14ec3d63c0dbd79d1dff7cbf952063fb4af26ead2608682e76113e8afd"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/definitions.json"
-hash = "3887c73c333553161bb5d7845b7852cb5f612c5be97350ffc9d5e98e0fb8e648"
+hash = "b0ae5226abe6481e0dcbf9c1ba27faf6b4f34bdecd0423ef6eb5a6a69ecd6418"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/experience.json"
-hash = "6d266416524b291bebf2331932c590b1932daa2c145a28460c92546b55c7225a"
+hash = "0435557043b79a271d621bf2136d1a66c17b9d3fb9bc51d0cccc3a322c413c53"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/skills.json"
-hash = "6bc176ac46db38c9b705c4e356ef394fbfc93c8160bcb5fe9a33f34822942fe5"
+hash = "95359b2beec35fcafa2e23945c489b3e8907c065db0249981ecc64ea786337ee"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/category.json"
@@ -250,11 +250,11 @@ hash = "887f035e348a94bc250c1d055309626213ed599aea515ad590bc9a1644083e1f"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/connections.json"
-hash = "351014126d5ab99803c166b0b24f62f185acb98deee5bfd768585b4388111e84"
+hash = "d8d2125a309e7b4186298c598ac2cd78367f2d8eaf8b8c76dd91ab487ca57c7d"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/definitions.json"
-hash = "806aa034b39d323e5121a3329fce380893b44bbaac18e7e1ab5781c8d4e28e1b"
+hash = "39a4b394b35473331194b99decafa6ec119e2d8092b681202be6a7e7616900a6"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/experience.json"
@@ -262,7 +262,7 @@ hash = "029a8a16828100c52431ffde63b2ff8d637e048909ef42e1dd67b1da95c17ead"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/skills.json"
-hash = "d48263982f182af408e25d11cb5cd6d72ae8b348fc4ffd7626a698a3e20b45b1"
+hash = "2133e93a777e28a8e7dc6ad9fb3ba4d8b86961d4a43dfd1a462a94218140cd50"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/category.json"
@@ -274,15 +274,15 @@ hash = "459536897ebe4267931a820869c1dbdbde0434473009734e9ab7e9f471994e64"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/definitions.json"
-hash = "2ca5aa44a83e2e7ba44e252b92cd25b623f1f2219e9954584c6b1b35d9737578"
+hash = "d8fe1ab6171ee79fe38db793e1fb57222622bb7ec3f4cc98c3e7c7385ee747fd"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/experience.json"
-hash = "fb70e40e84066663c3edbf4791e2a62efaac39e2235da037434b53d516e8e7f7"
+hash = "bab26de14f8d0812fdd474bfd99d33db4925b34d6ac9b08186f20ecf66d94983"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/skills.json"
-hash = "f8f9518f67f5bfd677edbdf8c296e9179e9f15010a8eee17ecf22e297175f4f5"
+hash = "7d7dede1fb05867fbffae4afc7c8a10b0e4094e792a8246581a063ffc865ba52"
 
 [[files]]
 file = "config/puffish_skills/config.json"
@@ -366,6 +366,10 @@ hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
 
 [[files]]
+file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
+hash = "1e12688df5b051d4d399bf4bb919be7f30d18322507f1c7fd924b7217c103a9c"
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "29857ebb80e0c8a7cb570ac609b49e7ac3f3262b6dcce93614dd23cda51e7c1d"
 metafile = true
@@ -382,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "0ba524b7123e6376687b0420f9dfc4794dea3f3bf64bda2a1b16a912b4dc7a1b"
+hash = "21f9ee5742ddcddfda730b1ad832f313118d6881268f23abe0a28b758a26957c"
 metafile = true
 
 [[files]]
@@ -437,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "47905703987fc920ebda3a22309910845e08f888ad959b2000b5fed657231eea"
+hash = "c3c0934476bb1a8438b382b7ba9c32d1be0c97cb10b38d7494a60c518d99d0a7"
 metafile = true
 
 [[files]]
@@ -577,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "ffbc244ff8dc311ffb6f0c83ff86edceb814ebead8fce9e32e4b061db38af14b"
+hash = "8eda14f9c18b7886871baf01634f2c8d3225e2c909a41da07437e2018f186784"
 metafile = true
 
 [[files]]
@@ -666,13 +670,8 @@ hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
 
 [[files]]
-file = "mods/extra-rpg-attributes.pw.toml"
-hash = "94868d8279a32470710b3a2bc4386ff0ab99d4b2b2204ad691a67b86c51a5850"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -811,6 +810,10 @@ hash = "c9f4a8f985932269b8c9159c320929f81216f7197c2909c24c1498346f371b32"
 metafile = true
 
 [[files]]
+file = "mods/iris-1.7.0-snapshot+mc1.20.1-7f0ecaa-dirty.jar"
+hash = "fe2c2423b8825865807e7613063c00dd65c48b288125f91aae6e311f9bffa2ec"
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
@@ -827,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/jewelry.pw.toml"
-hash = "83deffcfa6ff9b091047a7c4db75fb3b98ae1fcbe6e4b9fb16f083d960012f44"
+hash = "fcd6df67efdcf3fb109b0d0c0051eba085a18ea92ac64f8de482e7fa44051d63"
 metafile = true
 
 [[files]]
@@ -927,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "39c3e92a27da25ebec1de7aa1f3055e83464c75279917dd8ec4534b4408c1be9"
+hash = "fc17f54efea6b8e4640320a9a96f65af058eed05aa2c2f07b34940ffd91092e4"
 metafile = true
 
 [[files]]
@@ -962,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
-hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
+hash = "f14e3456af647e073ad42512f4312a34ffdc2ed3ae72b1304031ebedc5e41a15"
 metafile = true
 
 [[files]]
@@ -972,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "23d596d1d2e39ae3b05415790663819401fc62d745d6a817e88d9c36d07bce53"
+hash = "3cda85e2da5d48c8ae89c43c0519c6e4dce11e1d4c6fce66bdb98c9fe17a32d7"
 metafile = true
 
 [[files]]
@@ -1012,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/skills.pw.toml"
-hash = "22bdf3049a5a061ed3723ebe2365c9e02f62380594f8e839ce93df51494f51f4"
+hash = "c6e6498dd3e75ffc15ca89c5db3805e5b795e618e16888736a6a2d6a824a406c"
 metafile = true
 
 [[files]]
@@ -1047,17 +1050,12 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "333e71ff460100726d0074d98f157d6641d95e4fbb1ea50b862d3dfa0dcf0fa6"
+hash = "aaf3d7ccbcd050662a4ad01e82a561403716e74a45410da71d05d4c8cb42dcdc"
 metafile = true
 
 [[files]]
 file = "mods/spell-power.pw.toml"
-hash = "930b34fba49b8fa535d0bd23bcce6329b45ffde876809ba144eefe8489d76938"
-metafile = true
-
-[[files]]
-file = "mods/spellblades-and-such.pw.toml"
-hash = "d53e4ff56d8321c660148ad835bf063ea8bc48d292ea24309bbe631cc8223d22"
+hash = "90d44341ae2126a91ebdd1ecab13a23e2ee0f21af87fc286bb5eb8a53e87e463"
 metafile = true
 
 [[files]]
@@ -1160,17 +1158,17 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "8d142e1319e2fef1dfe2cce0069befc9278e32ccb2a22c208fbe00efa99a232f"
+hash = "140e98c0720e92b4ed9864a485b1b73a088a3d321ecc7439a3c6bb17235a2fa0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e60b866379fdfec0c9b6eed19159fe591e5276127e45b0b3d2e555197cecd3f5"
+hash = "a1a6470be9ee58c67e7815f5d066dab22dba2191d3c25996554655cc9ac1fa49"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7ea3c2a391ac210d51b66be41938be4a02ee2481c9f1e19d27a4c1212cf912b3"
+hash = "6ca173b39896794f2d2c120c3d9edab1cdcc45ca55c02daaf5b07bd6ff65fb3f"
 metafile = true
 
 [[files]]
@@ -1269,6 +1267,11 @@ hash = "7445301c2503e0ea130a3426f2c4a35c9f6969b64386b5902a91a7aacd26b1a3"
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "a52f50c5447c760342a7ab6e8f3f29269aa8f8fe8cc8dcda0e603c26ef199e9d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "a2469bd8aa76676f6d186935dbffd7bdc8a56212fa47ab628ea7def6eb330ea8"
 metafile = true
 
 [[files]]
