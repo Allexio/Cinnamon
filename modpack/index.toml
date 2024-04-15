@@ -58,7 +58,7 @@ hash = "2b89c6868da2000aece619ff4d3ab67497688656f0653e92ecc8de7129a2f896"
 
 [[files]]
 file = "config/iris.properties"
-hash = "3a84a443bb05e44ae153dc3553227ab697f9a78ff2953b306f16da6eef8189d3"
+hash = "71bc5bd314078075e48c2422b3a92d234f41d5febd6355525df8cbcffe8be75a"
 
 [[files]]
 file = "config/plasmovoice/.crowdin/de_de.json"
@@ -210,11 +210,11 @@ hash = "d1094ffe4601e21eb27b47986c6218368f3756c0ea161616705af9523b12b804"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/connections.json"
-hash = "23312f14ec3d63c0dbd79d1dff7cbf952063fb4af26ead2608682e76113e8afd"
+hash = "6fb86f3851aa6b38725c79ff1b7e88a232c458cb67d7da03843ab361fa2e414b"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/definitions.json"
-hash = "b0ae5226abe6481e0dcbf9c1ba27faf6b4f34bdecd0423ef6eb5a6a69ecd6418"
+hash = "2b2d8aaeddf86bf05c72c1a3559fbf283f07ddda3222ddf11b277f9e3c023c45"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/experience.json"
@@ -222,19 +222,19 @@ hash = "0435557043b79a271d621bf2136d1a66c17b9d3fb9bc51d0cccc3a322c413c53"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/skills.json"
-hash = "95359b2beec35fcafa2e23945c489b3e8907c065db0249981ecc64ea786337ee"
+hash = "661a0bd184fb84624dec3c7154162c546c7ab9bc75cb750a7d0582d7f280fc77"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/category.json"
-hash = "a1fc01bf48ca9d4393a5f75fc9b52fbed59b6ad969eed072e77519bc480c2386"
+hash = "b60d7fb59741d75a9d1cfe06325d05f978c7a70766d9afe8e1f27f91393728a2"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/connections.json"
-hash = "c47faeb25065cadd861babaecd4021ff77acaf38e89c8a5453223808013d7e75"
+hash = "038fec29caa522c9f98457d8caf82fa5d6209814f1ed4e500d491d137556348a"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/definitions.json"
-hash = "ee0facb46e7600e4c41992341d4addf39a45c27abfc829ef3c5ce1153358409d"
+hash = "899f7d37a1d490e1ad2b31641906f055d82a7ab22986f5a611c83e6fbd1df86c"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/experience.json"
@@ -242,7 +242,7 @@ hash = "25c3fef48ca662f92b9b11c07994a7b4c19b51ba34f9c9559957e0279d15110f"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/skills.json"
-hash = "7df27ebbb8066c5cfa7c8c8242002bfb45a9870c35e1a25f2b86817d6fbfff6b"
+hash = "9c1dfad3f43b2e1918e094456e71eefb1b7cbf1189fbba0e1ae769142a5f4ae5"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/category.json"
@@ -1271,12 +1271,8 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
-hash = "a2469bd8aa76676f6d186935dbffd7bdc8a56212fa47ab628ea7def6eb330ea8"
+hash = "3560c89c0fb17a64316a7308f6bbcac2dc2f71b7ccac27a2b84942d9bfb8401d"
 metafile = true
-
-[[files]]
-file = "shaderpacks/photon.zip"
-hash = "348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684"
 
 [[files]]
 file = "shaderpacks/photon.zip.txt"

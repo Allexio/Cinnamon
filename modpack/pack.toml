@@ -1,12 +1,12 @@
 name = "Cinnamon"
 author = "Allexio"
-version = "2.0.5"
+version = "2.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b500f59228df594778a9a78ab2a6a3fdee29c6a188484237e734bc416dc4e213"
+hash = "66d71b367cb4049c0e3e348c08c88f8d3608d102d7bb32d6f0f6491c611ce42b"
 
 [versions]
 fabric = "0.15.7"
