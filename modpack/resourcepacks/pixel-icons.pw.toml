@@ -1,13 +1,13 @@
 name = "Pixel RPG icons"
-filename = "open_rpg_icons.zip"
+filename = "pixel-rpg-icons.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/L3oL3u9X/versions/oDTj6uIY/open_rpg_icons.zip"
+url = "https://cdn.modrinth.com/data/L3oL3u9X/versions/wm6eNOPR/pixel-rpg-icons.zip"
 hash-format = "sha1"
-hash = "bb0eb92c141b8896f1f1ab92b10075661fcc6460"
+hash = "091512a0517bc7f396e6d578865aae571cab86ef"
 
 [update]
 [update.modrinth]
 mod-id = "L3oL3u9X"
-version = "oDTj6uIY"
+version = "wm6eNOPR"
