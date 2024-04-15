@@ -32,8 +32,8 @@
 					}
 				],
 				"anti_farming":{
-					"limit_per_chunk":"10",
-					"reset_after_seconds":"120"
+					"limit_per_chunk":"13",
+					"reset_after_seconds":"180"
 				}
 			}
 		}
