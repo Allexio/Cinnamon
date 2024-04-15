@@ -2,313 +2,313 @@
 	"es2wmb874pwemo2l": {
 		"definition": "root_warrior",
 		"x": 0,
-		"y": 630,
+		"y": 288,
 		"root": true
 	},
 	"lr8eo1psjc6s65tu": {
 		"definition": "knockback",
-		"x": -40.4145188432738,
-		"y": 770,
+		"x": -32,
+		"y": 352,
 		"root": false
 	},
 	"9zy6a7goe0qq9y0f": {
 		"definition": "knockback",
-		"x": 40.414518843273825,
-		"y": 770,
+		"x": 32,
+		"y": 352,
 		"root": false
 	},
 	"6q8wkyswux7rmo2l": {
 		"definition": "regen",
-		"x": 40.41451884327381,
-		"y": 490,
+		"x": 32,
+		"y": 224,
 		"root": false
 	},
 	"jneuwkm6etby0wq4": {
 		"definition": "regen",
-		"x": -40.4145188432738,
-		"y": 490,
+		"x": -32,
+		"y": 224,
 		"root": false
 	},
 	"aiypwpmlu79jn4xj": {
-		"definition": "knockback",
-		"x": 101.03629710818453,
-		"y": 455,
+		"definition": "resistance",
+		"x": 64,
+		"y": 192,
 		"root": false
 	},
 	"2dswul0jdc8xps9c": {
 		"definition": "knockback",
-		"x": -101.0362971081845,
-		"y": 455,
+		"x": -64,
+		"y": 192,
 		"root": false
 	},
 	"c116fwt0b53etwdm": {
 		"definition": "penetrator",
-		"x": 262.69437248127986,
-		"y": 315,
+		"x": 192,
+		"y": 128,
 		"root": false
 	},
 	"jinx2hxwfqoyo5ti": {
 		"definition": "knockback-res",
-		"x": -303.1088913245535,
-		"y": 455,
+		"x": -192,
+		"y": 192,
 		"root": false
 	},
 	"o21tkwp2fdgswad4": {
-		"definition": "roller",
-		"x": -404.145188432738,
-		"y": 350,
+		"definition": "knockback-res",
+		"x": -224,
+		"y": 160,
 		"root": false
 	},
 	"te0yb7qpl610yc13": {
 		"definition": "roller",
-		"x": 181.86533479473218,
-		"y": 385,
+		"x": 96,
+		"y": 160,
 		"root": false
 	},
 	"ki2mmxa9ykrugex2": {
 		"definition": "knockback-res",
-		"x": -262.69437248127974,
-		"y": 315,
+		"x": -192,
+		"y": 128,
 		"root": false
 	},
 	"gd7c8aeuq6yzq607": {
 		"definition": "health",
-		"x": 101.03629710818451,
-		"y": 35,
+		"x": 64,
+		"y": 0,
 		"root": false
 	},
 	"b0wot07ua1y7sj52": {
 		"definition": "melee_damage",
-		"x": -101.03629710818451,
-		"y": -245,
+		"x": -64,
+		"y": -128,
 		"root": false
 	},
 	"7ojq3y21hw0aa4g3": {
 		"definition": "ultimate-warrior",
 		"x": 0,
-		"y": -910,
+		"y": -480,
 		"root": false
 	},
 	"0yzkytbpupq9qls0": {
 		"definition": "health",
-		"x": 101.03629710818451,
-		"y": -105,
+		"x": 64,
+		"y": -64,
 		"root": false
 	},
 	"zddv1i8zu1j6gi9j": {
 		"definition": "melee_damage",
-		"x": -101.03629710818453,
-		"y": -385,
+		"x": -64,
+		"y": -192,
 		"root": false
 	},
 	"bp4tfo6z7rtjmo7q": {
 		"definition": "melee_damage",
-		"x": -101.03629710818453,
-		"y": -525,
+		"x": -64,
+		"y": -256,
 		"root": false
 	},
 	"y3ztx5ut6ql6oira": {
 		"definition": "health",
-		"x": 101.0362971081845,
-		"y": -245,
+		"x": 64,
+		"y": -128,
 		"root": false
 	},
 	"nevja30ji0h2txl0": {
 		"definition": "health",
-		"x": 101.0362971081845,
-		"y": -385,
+		"x": 64,
+		"y": -192,
 		"root": false
 	},
 	"fslbx6c3hurraqp0": {
 		"definition": "melee_damage2",
-		"x": -101.0362971081845,
-		"y": -665,
+		"x": -64,
+		"y": -320,
 		"root": false
 	},
 	"o5vtnnugbad5e6x6": {
 		"definition": "health",
-		"x": 101.0362971081845,
-		"y": -805,
+		"x": 64,
+		"y": -384,
 		"root": false
 	},
 	"4kr9azmurxqmzhaa": {
 		"definition": "melee_damage2",
-		"x": -101.03629710818453,
-		"y": -805,
+		"x": -64,
+		"y": -384,
 		"root": false
 	},
 	"dqe8qj0s9la22nk9": {
 		"definition": "health",
-		"x": 101.0362971081845,
-		"y": -525,
+		"x": 64,
+		"y": -256,
 		"root": false
 	},
 	"njqkessm7rh0wgni": {
 		"definition": "health",
-		"x": 101.0362971081845,
-		"y": -665,
+		"x": 64,
+		"y": -320,
 		"root": false
 	},
 	"48niv240axj7altr": {
 		"definition": "health",
-		"x": 60.6217782649107,
-		"y": -35,
+		"x": 32,
+		"y": -32,
 		"root": false
 	},
 	"mb7iel0pkykau5nw": {
 		"definition": "health",
-		"x": 60.6217782649107,
-		"y": -175,
+		"x": 32,
+		"y": -96,
 		"root": false
 	},
 	"wsvzrg17g8aq20z2": {
 		"definition": "health",
-		"x": 60.62177826491069,
-		"y": -315,
+		"x": 32,
+		"y": -160,
 		"root": false
 	},
 	"w8z0tvkxu8sa04zl": {
 		"definition": "health",
-		"x": 60.62177826491069,
-		"y": -455,
+		"x": 32,
+		"y": -224,
 		"root": false
 	},
 	"9vlb5djrsne9hbc6": {
 		"definition": "health",
-		"x": 60.621778264910745,
-		"y": -595,
+		"x": 32,
+		"y": -288,
 		"root": false
 	},
 	"0h1mwqa25fzxuiuf": {
 		"definition": "health",
-		"x": 60.62177826491069,
-		"y": -735,
+		"x": 32,
+		"y": -352,
 		"root": false
 	},
 	"juif3f066czrs0qb": {
 		"definition": "resistance",
-		"x": 181.86533479473218,
-		"y": 525,
+		"x": 96,
+		"y": 224,
 		"root": false
 	},
 	"f5op5l4cfbmsn1d5": {
 		"definition": "melee_damage",
-		"x": -101.0362971081845,
-		"y": -105,
+		"x": -64,
+		"y": -64,
 		"root": false
 	},
 	"pnbvrczojkc16tdq": {
 		"definition": "melee_damage",
-		"x": -101.0362971081845,
-		"y": 35,
+		"x": -64,
+		"y": 0,
 		"root": false
 	},
 	"f464nt4t0u3q4pc7": {
 		"definition": "health",
-		"x": 60.6217782649107,
-		"y": 105,
+		"x": 32,
+		"y": 32,
 		"root": false
 	},
 	"5kjt2sxr32vrp4df": {
 		"definition": "health",
-		"x": 101.03629710818451,
-		"y": 315,
+		"x": 64,
+		"y": 128,
 		"root": false
 	},
 	"akcms9eh8wiqllg8": {
 		"definition": "health",
-		"x": 101.0362971081845,
-		"y": 175,
+		"x": 64,
+		"y": 64,
 		"root": false
 	},
 	"8othz2rwrmy4zdcr": {
 		"definition": "health",
-		"x": 1.4210854715202004e-14,
-		"y": 910,
+		"x": 0,
+		"y": 480,
 		"root": false
 	},
 	"pvg1w7wgl0i5rant": {
 		"definition": "health",
-		"x": 80.82903768654764,
-		"y": 840,
+		"x": 64,
+		"y": 416,
 		"root": false
 	},
 	"mkzbbgc2pyzxoil4": {
 		"definition": "health",
-		"x": -80.82903768654761,
-		"y": 840,
+		"x": -64,
+		"y": 416,
 		"root": false
 	},
 	"qdnz5vpopeywe8mz": {
 		"definition": "melee_damage",
-		"x": -101.0362971081845,
-		"y": 175,
+		"x": -64,
+		"y": 64,
 		"root": false
 	},
 	"eouuq43pvp8emg85": {
 		"definition": "resistance2",
-		"x": 1.4210854715202004e-14,
-		"y": 840,
+		"x": 0,
+		"y": 416,
 		"root": false
 	},
 	"kvdypi1vjgncilh7": {
-		"definition": "resistance",
-		"x": -181.86533479473206,
-		"y": 525,
+		"definition": "knockback",
+		"x": -96,
+		"y": 224,
 		"root": false
 	},
 	"8v9pri2nadlpz0zi": {
-		"definition": "melee_damage",
-		"x": 303.1088913245536,
-		"y": 455,
+		"definition": "penetrator",
+		"x": 192,
+		"y": 192,
 		"root": false
 	},
 	"ll27xfhvbs7lbeuc": {
-		"definition": "melee_damage",
-		"x": 404.145188432738,
-		"y": 350,
+		"definition": "penetrator",
+		"x": 224,
+		"y": 160,
 		"root": false
 	},
 	"a3eb2eoegclqp4ro": {
 		"definition": "roller",
-		"x": -181.86533479473206,
-		"y": 385,
+		"x": -96,
+		"y": 160,
 		"root": false
 	},
 	"9gx0j573oy4ghqhy": {
 		"definition": "melee_damage",
-		"x": -101.03629710818448,
-		"y": 315,
+		"x": -64,
+		"y": 128,
 		"root": false
 	},
 	"im8cwbkzcgsf668g": {
-		"definition": "fortress",
-		"x": 262.69437248127974,
-		"y": 385,
+		"definition": "glass-cannon",
+		"x": 160,
+		"y": 160,
 		"root": false
 	},
 	"s00virkm05j1u1w1": {
-		"definition": "glass-cannon",
-		"x": -262.69437248127974,
-		"y": 385,
+		"definition": "fortress",
+		"x": -160,
+		"y": 160,
 		"root": false
 	},
 	"hpw5v57gw26gr1ui": {
 		"definition": "health",
-		"x": 60.6217782649107,
-		"y": 245,
+		"x": 32,
+		"y": 96,
 		"root": false
 	},
 	"x5q24riztm4hv95p": {
 		"definition": "knockback2",
 		"x": 0,
-		"y": -840,
+		"y": -416,
 		"root": false
 	},
 	"wt3pti4k2101iinh": {
 		"definition": "vampire",
 		"x": 0,
-		"y": 280,
+		"y": 64,
 		"root": false
 	}
 }
