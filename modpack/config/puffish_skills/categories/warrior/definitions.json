@@ -47,7 +47,7 @@
 	},
 	"resistance": {
 		"title": "Stone Skin",
-		"description" : "§8Your skin feels harder to the touch. No more paper cuts for you! \n\n§a+1% Damage Resist",
+		"description" : "§8Your skin feels harder to the touch. No more paper cuts for you! \n\n§a+3% Damage Resist",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -59,7 +59,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_skills:player.resistance",
-					"value": 0.01,
+					"value": 0.03,
 					"operation": "multiply_base"
 				}
 			}
@@ -67,7 +67,7 @@
 	},
 	"resistance2": {
 		"title": "Iron Skin",
-		"description" : "§8Your skin feels even harder to the touch. You could probably use this for things other than fighting? \n\n§a+3% Damage Resist",
+		"description" : "§8Your skin feels even harder to the touch. You could probably use this for things other than fighting? \n\n§a+10% Damage Resist",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -79,7 +79,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_skills:player.resistance",
-					"value": 0.03,
+					"value": 0.10,
 					"operation": "multiply_base"
 				}
 			}
@@ -263,7 +263,7 @@
 	},
 	"fortress": {
 		"title": "Specialisation: Unmoving Fortress",
-		"description": "§8You are a true fortress, a bastion standing tall against the enemy.\n§8They won't breach your defences, but they are so entrenched you have trouble moving.\n\n§a+30% Damage Resistance \n\n§a+50% Knockback Resistance \n\n§c-40% Movement Speed",
+		"description": "§8You are a true fortress, a bastion standing tall against the enemy.\n§8They won't breach your defences, but they are so entrenched you have trouble moving.\n\n§a+30% Damage Resistance \n\n§a+50% Knockback Resistance \n\n§c-30% Movement Speed",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -275,7 +275,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "minecraft:generic.movement_speed",
-					"value": -0.40,
+					"value": -0.30,
 					"operation": "multiply_base"
 				}
 			},
