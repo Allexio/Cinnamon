@@ -9,9 +9,9 @@
 			}
 		},
 		"icon": {
-			"type": "item",
+			"type": "texture",
 			"data": {
-				"item": "naturescompass:naturescompass"
+				"texture": "icons/items/Telescope.png"
 			}
 		},
 		"rewards": [

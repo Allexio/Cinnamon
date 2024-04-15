@@ -2,9 +2,9 @@
 	"unlocked_by_default": true,
 	"title": "Path of the Explorer",
 	"icon": {
-		"type": "item",
+		"type": "texture",
 		"data": {
-			"item": "naturescompass:naturescompass"
+			"texture": "icons/items/Telescope.png"
 		}
 	},
 	"background": "textures/gui/advancements/backgrounds/adventure.png"
