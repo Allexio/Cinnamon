@@ -14,7 +14,7 @@
 The goal of this modpack is to provide a relatively well rounded experience that provides a fair amount of content, great performance, and breathtaking visuals all the while remaining a vanilla aesthetic and maintaining the player immersed in the world.
 
 This modpack is suited for:
-- [x] low-end to high-end machines (shaders are included and soon DH will be as well)
+- [x] low-end to high-end machines (shaders are included as well as Distant Horizons)
 - [x] people who want a lot of extra content but want to feel like they're still playing Minecraft
 - [x] playing with friends or friends' friends up to 20 simultaneous players (tested for long periods with 15)
 
