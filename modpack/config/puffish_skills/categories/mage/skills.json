@@ -6,7 +6,7 @@
 		"root": true
 	},
 	"chzu7pizrworxuyk": {
-		"definition": "frost",
+		"definition": "arcane",
 		"x": 129.32646029847615,
 		"y": 96,
 		"root": false
@@ -24,13 +24,13 @@
 		"root": false
 	},
 	"epiddszew4psk1ix": {
-		"definition": "arcane",
+		"definition": "frost",
 		"x": 18.475208614068023,
 		"y": -32,
 		"root": false
 	},
 	"qfknlbwl536gokqw": {
-		"definition": "frost",
+		"definition": "arcane",
 		"x": -36.95041722813605,
 		"y": 0,
 		"root": false
@@ -66,7 +66,7 @@
 		"root": false
 	},
 	"jizi24si8ospabg5": {
-		"definition": "frost",
+		"definition": "arcane",
 		"x": -36.95041722813605,
 		"y": 64,
 		"root": false
@@ -90,13 +90,13 @@
 		"root": false
 	},
 	"j8ffwrt0zxblhhnc": {
-		"definition": "arcane",
+		"definition": "frost",
 		"x": -18.475208614068023,
 		"y": -96,
 		"root": false
 	},
 	"3vygdgqbi4ytwuhd": {
-		"definition": "arcane",
+		"definition": "frost",
 		"x": -92.37604307034012,
 		"y": -96,
 		"root": false
@@ -108,7 +108,7 @@
 		"root": false
 	},
 	"jvg6huh5r12j7m2w": {
-		"definition": "frost",
+		"definition": "arcane",
 		"x": 0,
 		"y": 128,
 		"root": false
@@ -174,7 +174,7 @@
 		"root": false
 	},
 	"bltf2s41xnndm5q2": {
-		"definition": "arcane",
+		"definition": "frost",
 		"x": -184.75208614068023,
 		"y": 0,
 		"root": false
@@ -240,13 +240,13 @@
 		"root": false
 	},
 	"99wt5g1oxsbtnvex": {
-		"definition": "frost",
+		"definition": "arcane",
 		"x": 184.75208614068023,
 		"y": 64,
 		"root": false
 	},
 	"ujaby37al0w5wqyg": {
-		"definition": "frost",
+		"definition": "arcane",
 		"x": 221.70250336881628,
 		"y": 0,
 		"root": false
@@ -282,13 +282,13 @@
 		"root": false
 	},
 	"cui0h53akpwpkrsq": {
-		"definition": "arcane",
+		"definition": "frost",
 		"x": -184.75208614068023,
 		"y": 64,
 		"root": false
 	},
 	"385q0e7arpmmik9v": {
-		"definition": "arcane",
+		"definition": "frost",
 		"x": -147.8016689125442,
 		"y": 128,
 		"root": false
@@ -342,7 +342,7 @@
 		"root": false
 	},
 	"b9nvm1v7r94mmd7h": {
-		"definition": "spell-critical-chance",
+		"definition": "spec-elemental",
 		"x": 147.8016689125442,
 		"y": 256,
 		"root": false
@@ -360,7 +360,7 @@
 		"root": false
 	},
 	"ry08zkdbz5zu9kc8": {
-		"definition": "spell-critical-damage",
+		"definition": "spec-spiritual",
 		"x": -147.8016689125442,
 		"y": -256,
 		"root": false
