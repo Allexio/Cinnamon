@@ -228,7 +228,7 @@
 	},
 	"versatile": {
 		"title": "Addicted",
-		"description": "§8Best not look at the label before you wolf it down.\n\n§a+20% Item use Speed",
+		"description": "§8Best not look at the label before you wolf it down.\n\n§a-33% Item use Slowdown",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -240,8 +240,8 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "miapi:generic.player_item_use_speed",
-					"value": 0.20,
-					"operation": "multiply_base"
+					"value": 0.28,
+					"operation": "addition"
 				}
 			}
 		]
