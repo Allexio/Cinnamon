@@ -19,7 +19,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "projectile_damage:generic",
-					"value": 0.5,
+					"value": 0.1,
 					"operation": "addition"
 				}
 			}
@@ -47,7 +47,7 @@
 	},
 	"ranged_damage": {
 		"title": "Sharper Tips",
-		"description": "§8You sharpen your arrow tips. Cavemen are proud of you.\n\n\n§a+3% Arrow Damage",
+		"description": "§8You sharpen your arrow tips. Cavemen are proud of you.\n\n\n§a+8% Arrow Damage",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -59,7 +59,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_skills:player.ranged_damage",
-					"value": 0.03,
+					"value": 0.8,
 					"operation": "multiply_total"
 				}
 			}
@@ -168,7 +168,7 @@
 	},
 	"crit_damage": {
 		"title": "It's over 9%!",
-		"description": "§8Sometimes your hits do more damage.\n§8Now they do even more damage when that happens.\n\n§a+5% Critical Damage",
+		"description": "§8Sometimes your hits do more damage.\n§8Now they do even more damage when that happens.\n\n§a+10% Critical Damage",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -188,7 +188,7 @@
 	},
 	"back_stabber": {
 		"title": "Back Stabber",
-		"description": "§8Trust is overrated.\n\n§a+10% Backstab Damage",
+		"description": "§8Trust is overrated.\n\n§a+15% Backstab Damage",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -200,7 +200,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "miapi:generic.back_stab",
-					"value": 0.10,
+					"value": 0.15,
 					"operation": "multiply_base"
 				}
 			}
@@ -228,7 +228,7 @@
 	},
 	"versatile": {
 		"title": "Addicted",
-		"description": "§8Best not look at the label before you wolf it down.\n\n§a+10% Item use Speed",
+		"description": "§8Best not look at the label before you wolf it down.\n\n§a+20% Item use Speed",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -240,7 +240,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "miapi:generic.player_item_use_speed",
-					"value": 0.10,
+					"value": 0.20,
 					"operation": "multiply_base"
 				}
 			}

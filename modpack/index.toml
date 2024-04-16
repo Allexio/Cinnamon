@@ -218,7 +218,7 @@ hash = "cadbd05e3a39d035f2a8a26ed3bc04eee630b12dc4631298cbdf868f885286d8"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/definitions.json"
-hash = "c57343339cf6947bb9d6940ed5377a309d85929a6fd756496adc402869c43c3e"
+hash = "5a324db263f63bd0a28f72cd24baf961514bc96a6954909bb9a87a8f137033c3"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/experience.json"

@@ -27,7 +27,7 @@
 	},
 	"luck": {
 		"title": "Lucky",
-		"description": "§8You must be a punk because you're feeling lucky.\n\n§a+0.25 Luck",
+		"description": "§8You must be a punk because you're feeling lucky.\n\n§a+0.5 Luck",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -39,7 +39,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "generic.luck",
-					"value": 0.25,
+					"value": 0.5,
 					"operation": "addition"
 				}
 			}
@@ -47,7 +47,7 @@
 	},
 	"scavenger": {
 		"title": "Scavenger",
-		"description": "§8It's a good thing you grew up watching those survivalist youtube videos.\n\n§a+3% Stamina Efficiency",
+		"description": "§8It's a good thing you grew up watching those survivalist youtube videos.\n\n§a+10% Stamina Efficiency",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -59,7 +59,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_skills:player.stamina",
-					"value": 0.03,
+					"value": 0.10,
 					"operation": "multiply_total"
 				}
 			}
@@ -147,7 +147,7 @@
 	},
 	"aquaman": {
 		"title": "Aquaman",
-		"description": "§8You move underwater like a dolphin.\n\n§a+10% Movement Speed in Water",
+		"description": "§8You move underwater like a dolphin.\n\n§a+20% Movement Speed in Water",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -159,7 +159,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "additionalentityattributes:generic.water_speed",
-					"value": 0.10,
+					"value": 0.20,
 					"operation": "multiply_base"
 				}
 			}
@@ -167,7 +167,7 @@
 	},
 	"lavaman": {
 		"title": "Lavaman",
-		"description": "§8You move underlava like a... like a... \n\n§8You move faster in lava.\n\n§a+10% Movement Speed in Lava",
+		"description": "§8You move underlava like a... like a... \n\n§8You move faster in lava.\n\n§a+20% Movement Speed in Lava",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -179,7 +179,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "additionalentityattributes:generic.lava_speed",
-					"value": 0.10,
+					"value": 0.20,
 					"operation": "multiply_base"
 				}
 			}
@@ -199,7 +199,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "additionalentityattributes:generic.lung_capacity",
-					"value": 0.10,
+					"value": 0.20,
 					"operation": "multiply_base"
 				}
 			}
