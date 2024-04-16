@@ -91,7 +91,7 @@
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/items/Sword004.png"
+				"texture": "icons/weapons/Sword004.png"
 			}
 		},
 		"rewards": [
@@ -111,7 +111,7 @@
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/skills/Sword009.png"
+				"texture": "icons/weapons/Sword009.png"
 			}
 		},
 		"rewards": [
