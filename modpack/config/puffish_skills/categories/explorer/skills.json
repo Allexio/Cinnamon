@@ -2,7 +2,7 @@
 	"698xom8sy3bwlkaq": {
 		"definition": "root_explorer",
 		"x": 0,
-		"y": -32,
+		"y": 0,
 		"root": true
 	},
 	"0tn55sacugpimsbp": {
@@ -240,13 +240,13 @@
 		"root": false
 	},
 	"z27xqcuwsz563vyg": {
-		"definition": "deep-breaths",
+		"definition": "scavenger",
 		"x": 64,
 		"y": -224,
 		"root": false
 	},
 	"971huuk1bvsy63nw": {
-		"definition": "luck",
+		"definition": "sprint1",
 		"x": -64,
 		"y": -224,
 		"root": false
@@ -258,43 +258,43 @@
 		"root": false
 	},
 	"c8jluzob8yr4f5zi": {
-		"definition": "sprint1",
+		"definition": "scavenger",
 		"x": -128,
 		"y": 224,
 		"root": false
 	},
 	"cyd1dtqhscbf1wdg": {
-		"definition": "sprint1",
+		"definition": "scavenger",
 		"x": -224,
 		"y": 128,
 		"root": false
 	},
 	"48bpmw57mjn02pmv": {
-		"definition": "deep-breaths",
+		"definition": "sprint1",
 		"x": -224,
 		"y": -64,
 		"root": false
 	},
 	"d34kfe72np6988k0": {
-		"definition": "sprint1",
+		"definition": "scavenger",
 		"x": 128,
 		"y": -224,
 		"root": false
 	},
 	"guob9hvefv602yg5": {
-		"definition": "sprint1",
+		"definition": "scavenger",
 		"x": 224,
 		"y": -128,
 		"root": false
 	},
 	"rr50vrcd62xja1pk": {
-		"definition": "sprint1",
+		"definition": "scavenger",
 		"x": 224,
 		"y": -64,
 		"root": false
 	},
 	"2wm0nmfidh1o6yez": {
-		"definition": "sprint1",
+		"definition": "scavenger",
 		"x": -64,
 		"y": 224,
 		"root": false
@@ -324,13 +324,13 @@
 		"root": false
 	},
 	"37pevjdygfdzk26w": {
-		"definition": "sprint1",
+		"definition": "scavenger",
 		"x": 192,
 		"y": -192,
 		"root": false
 	},
 	"g5xggryjkiu6d7rq": {
-		"definition": "sprint1",
+		"definition": "scavenger",
 		"x": -192,
 		"y": 192,
 		"root": false
@@ -372,7 +372,7 @@
 		"root": false
 	},
 	"tma91fmldhfgcfa4": {
-		"definition": "deep-breaths",
+		"definition": "scavenger",
 		"x": -224,
 		"y": 64,
 		"root": false
@@ -381,6 +381,12 @@
 		"definition": "bigger-jumps",
 		"x": 0,
 		"y": 32,
+		"root": false
+	},
+	"j2x45c3m26wbqfri": {
+		"definition": "scavenger",
+		"x": 0,
+		"y": -32,
 		"root": false
 	}
 }
