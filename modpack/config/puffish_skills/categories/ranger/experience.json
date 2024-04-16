@@ -15,6 +15,12 @@
 						"data": {
 							"tag": "minecraft:is_projectile"
 						}
+					},
+					"knife": {
+						"type": "weapon_tag",
+						"data": {
+							"tag": "c:knives"
+						}
 					}
 				},
 				"parameters": {
@@ -28,6 +34,10 @@
 				"experience": [
 					{
 						"condition": "bow",
+						"expression": "dropped_xp + max_health / 40"
+					},
+					{
+						"condition": "knife",
 						"expression": "dropped_xp + max_health / 40"
 					}
 				],
