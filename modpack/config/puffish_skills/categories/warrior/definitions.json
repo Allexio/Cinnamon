@@ -148,6 +148,12 @@
 	"vampire": {
 		"title": "Specialisation: Vampiric Tendencies",
 		"description": "§8You leech the life straight out of your enemies with every hit.\n§8What a sucker.\n\n§aSiphon 50% of damage dealt to enemies to overheal, caps at half max health \n\n§c-80% Regen from all other sources",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -264,6 +270,12 @@
 	"fortress": {
 		"title": "Specialisation: Unmoving Fortress",
 		"description": "§8You are a true fortress, a bastion standing tall against the enemy.\n§8They won't breach your defences, but they are so entrenched you have trouble moving.\n\n§a+30% Damage Resistance \n\n§a+50% Knockback Resistance \n\n§c-30% Movement Speed",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -300,6 +312,12 @@
 	"glass-cannon": {
 		"title": "Specialisation: Glass Cannon",
 		"description": "§8Who thought it would be a good idea to make a cannon out of glass? \n\n§a+20% Melee Damage \n\n§c-30% Resistance",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
 		"icon": {
 			"type": "texture",
 			"data": {

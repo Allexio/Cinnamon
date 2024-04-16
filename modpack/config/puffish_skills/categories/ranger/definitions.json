@@ -167,7 +167,7 @@
 		]
 	},
 	"crit_damage": {
-		"title": "It's over 5%!",
+		"title": "It's over 9%!",
 		"description": "§8Sometimes your hits do more damage.\n§8Now they do even more damage when that happens.\n\n§a+5% Critical Damage",
 		"icon": {
 			"type": "texture",
@@ -180,7 +180,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "additionalentityattributes:player.critical_bonus_damage",
-					"value": 0.05,
+					"value": 0.10,
 					"operation": "multiply_base"
 				}
 			}
@@ -200,7 +200,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "miapi:generic.back_stab",
-					"value": 0.05,
+					"value": 0.10,
 					"operation": "multiply_base"
 				}
 			}
@@ -220,7 +220,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "minecraft:generic.attack_speed",
-					"value": 0.05,
+					"value": 0.10,
 					"operation": "multiply_base"
 				}
 			}
@@ -249,6 +249,12 @@
 	"spec-Archery": {
 		"title": "Ultimate Ranger",
 		"description": "§8Let the other guys fight in front while you take the enemies' rea- ...while you take them out from the rear.\n\n§a+10% Bow Draw Speed\n\n§a+10% Ranged Damage\n\n§c-30% Melee Damage",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -285,6 +291,12 @@
 	"spec-sniper": {
 		"title": "Specialisation: Sniper",
 		"description": "§8You have a strong fear of blood. Good thing you'll never see it given how far you'll be.\n\n§a+20% Bow Damage \n\n§c-25% Bow Draw Speed",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -313,6 +325,12 @@
 	"spec-rapid-fire": {
 		"title": "Specialisation: Rapid Fire",
 		"description": "§8When you shoot that fast, it's fine if some of them miss. Turn your enemies into veritable porcupines.\n\n§a+25% Bow Draw Speed\n\n§c-15% Damage\n\n§c-40% Arrow Velocity",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
 		"icon": {
 			"type": "texture",
 			"data": {
