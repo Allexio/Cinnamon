@@ -258,7 +258,7 @@ hash = "6ecb7342ea3fd3d3adfc38cecf2334c68f97ab2b8848812698cd928194adace9"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/definitions.json"
-hash = "7556185141084b54c3e6a859ef8ac0ba263ddae5f443f9a9e9fafa2d984286d0"
+hash = "b9c9eb37bd01d084e810da20d2243818b4daab9697025fc0267bdb4226ce6e9b"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/experience.json"
