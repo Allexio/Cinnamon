@@ -187,7 +187,7 @@
 	},
 	"deep-breaths": {
 		"title": "Water Breather",
-		"description": "§8You can breathe underwater!\n\n§8Okay I lied you can't breathe underwater BUT you CAN hold your breath a bit longer!\n\n§a+10% Lung Capacity",
+		"description": "§8You can breathe underwater!\n\n§8Okay I lied you can't breathe underwater BUT you CAN hold your breath a bit longer!\n\n§a+20% Lung Capacity",
 		"icon": {
 			"type": "texture",
 			"data": {

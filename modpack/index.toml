@@ -230,7 +230,7 @@ hash = "c2f9a6d745f3b6375b26f2e4c99a5fbb6d90d2c8f5919bd7d311ec85ca2ee6ef"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/category.json"
-hash = "b60d7fb59741d75a9d1cfe06325d05f978c7a70766d9afe8e1f27f91393728a2"
+hash = "b8b8826d239f7aad20c2ccf6c0c0a73b613bd482673c1aebf476782c67db9ad1"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/connections.json"
@@ -238,7 +238,7 @@ hash = "038fec29caa522c9f98457d8caf82fa5d6209814f1ed4e500d491d137556348a"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/definitions.json"
-hash = "899f7d37a1d490e1ad2b31641906f055d82a7ab22986f5a611c83e6fbd1df86c"
+hash = "879ac0663bcf642eec83a62b81aadb412e18c930f4bdbe96001db8424f4ecac9"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/experience.json"
@@ -246,7 +246,7 @@ hash = "8d192eebba136ae0ec3c66729ba8606abf1d292ae4bbe172c321ef0e0fab2553"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/skills.json"
-hash = "9c1dfad3f43b2e1918e094456e71eefb1b7cbf1189fbba0e1ae769142a5f4ae5"
+hash = "a98e58a292e9193d3b86044cec540fb798b2335708acf4e11738d0bb9bfceb98"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/category.json"
@@ -258,7 +258,7 @@ hash = "6ecb7342ea3fd3d3adfc38cecf2334c68f97ab2b8848812698cd928194adace9"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/definitions.json"
-hash = "44c3bff6596b9cbcf447ec96551a6887e1c7eda8ef1bd7074297e9b22673dc02"
+hash = "a11d121505a08742ad68cd9afb7b82c9526dcf8d5fa6394cfe24f8c1bc276884"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/experience.json"
@@ -278,7 +278,7 @@ hash = "dfba1af6a460daeb4e006fee8ed25cdf50dbb7e39bbf35f5ec0a59ee38bc2a3d"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/definitions.json"
-hash = "d7499201f63cf06e9a55862ecf36d9aeffa65dca89a527e2c581a5596f159c49"
+hash = "968cc2bef75c17b85bc0ee54c13a90a815ceb25fe645c1bf9629a78fa236f632"
 
 [[files]]
 file = "config/puffish_skills/categories/warrior/experience.json"
@@ -343,6 +343,10 @@ hash = "ee74c1a8f8ad824707d1fb67fb84c601e6c886a7ed086e961867d14e008c7020"
 [[files]]
 file = "config/sihywtcamd/zombies.json"
 hash = "5f5e595ec78ffc6d56c43ba5a7d849089d9d95d32aa725e52091d568730dfa56"
+
+[[files]]
+file = "config/sparsestructures.json5"
+hash = "dae901c7e0bb4a3361ba332be2b151e24cab8f3da147d7f5325289f4b48d8ffb"
 
 [[files]]
 file = "config/starterkit.json5"
