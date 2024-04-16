@@ -86,12 +86,12 @@
 		]
 	},
 	"melee_damage": {
-		"title": "Strong Hands",
-		"description": "§8Something feels different and you now have a better grip on your sword... What have you been doing with your hands?! \n\n§a+3% Melee Damage",
+		"title": "Sharp Sword",
+		"description": "§8Your sword got an upgrade! Don't cut yourself.\n\n§a+3% Melee Damage",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/skills/Buff02.png"
+				"texture": "icons/items/Sword004.png"
 			}
 		},
 		"rewards": [
@@ -106,12 +106,12 @@
 		]
 	},
 	"melee_damage2": {
-		"title": "StrongER Hands",
-		"description": "§8Who needs a whole hand to hold a sword, you can do it with two fingers if you try. Really hard. Don't do this for too long. \n\n§a+6% Melee Damage",
+		"title": "Sharper Sword",
+		"description": "§8When you think about it, who needs sharp wit when you've got a sharp sword? \n\n§a+6% Melee Damage",
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/skills/Buff09.png"
+				"texture": "icons/skills/Sword009.png"
 			}
 		},
 		"rewards": [
