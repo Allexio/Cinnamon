@@ -258,7 +258,7 @@ hash = "6ecb7342ea3fd3d3adfc38cecf2334c68f97ab2b8848812698cd928194adace9"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/definitions.json"
-hash = "f048b73129a7044482b122047aa5f1cb714d36d38c9f99fb046fcc75fb4977ea"
+hash = "7556185141084b54c3e6a859ef8ac0ba263ddae5f443f9a9e9fafa2d984286d0"
 
 [[files]]
 file = "config/puffish_skills/categories/ranger/experience.json"
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "dad6de832b60078367a447af1c9197f09fbc6391feaff5c78de8c6bada335c2f"
+hash = "8661452972ef497ed18fc5ef81e3ab8aababe1e40ece7df049dd47c77e7b52e0"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/bucketem.pw.toml"
-hash = "8e0bd0f4d256dffac105609264aa04c3f201963c9db3f779bd1fd2b92a4a7bdb"
+hash = "10712d1b5252180f3299c5de9ff2e3d91ef0c5e4fb6a01edfb3498292b5cae12"
 metafile = true
 
 [[files]]
@@ -978,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "0e64ce1d4ea3e8bc03882aad9efe4671d154eb786ec60a44bd26d4ed4e9adeae"
+hash = "043d2cd5212920411ea4bfeba5cc4ff330b504d24e3af947897de6268b76805c"
 metafile = true
 
 [[files]]
@@ -1231,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e58273c83e878f35f64d620d303e42b8c8eb01af2d7b1c5e9864e5af9f6ad5f9"
+hash = "db1b6a3059ed165804b30fde4226640b86e18079cfa3349d353aa86524466379"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"

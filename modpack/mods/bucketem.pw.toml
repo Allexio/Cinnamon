@@ -1,13 +1,13 @@
 name = "Bucket'Em"
-filename = "bucketem-1.0.2.jar"
+filename = "bucketem-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/l8gfuK54/versions/8cOeKNdk/bucketem-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/l8gfuK54/versions/TluMN9mK/bucketem-1.0.3.jar"
 hash-format = "sha1"
-hash = "3a8e718727a7fecf1c637e7e9509f3b74afd4459"
+hash = "c0f1808f64e5b3d42deb6fb437408061a4fcbd4d"
 
 [update]
 [update.modrinth]
 mod-id = "l8gfuK54"
-version = "8cOeKNdk"
+version = "TluMN9mK"
