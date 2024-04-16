@@ -111,7 +111,7 @@
 		"icon": {
 			"type": "texture",
 			"data": {
-				"texture": "icons/skills/Buff11.png"
+				"texture": "icons/skills/Buff09.png"
 			}
 		},
 		"rewards": [
