@@ -214,7 +214,7 @@ hash = "903ffc9099594b7855d2f3fcd65ddc4c16e9c10d260e6997987e9a2c4ff9c3e0"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/connections.json"
-hash = "6fb86f3851aa6b38725c79ff1b7e88a232c458cb67d7da03843ab361fa2e414b"
+hash = "47cbb96c924772cea772313f764c8ccf40d9b2bc644aa66a33f074eff97c173f"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/definitions.json"
@@ -226,7 +226,7 @@ hash = "0435557043b79a271d621bf2136d1a66c17b9d3fb9bc51d0cccc3a322c413c53"
 
 [[files]]
 file = "config/puffish_skills/categories/explorer/skills.json"
-hash = "661a0bd184fb84624dec3c7154162c546c7ab9bc75cb750a7d0582d7f280fc77"
+hash = "42eb4bce11071894cbee9fd473c890c605098a97ac1bbd69c7bd3a7a0efd60ad"
 
 [[files]]
 file = "config/puffish_skills/categories/mage/category.json"
@@ -1246,10 +1246,6 @@ hash = "cdd1d7879c9e72d4cbc10e3a5daa6d87c5f5e91ccbd4617f30941e35a6d13338"
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
-
-[[files]]
-file = "resourcepacks/icons.zip"
-hash = "c268aadcd24fc8536a5a91170fc2505bf1fbfb1e23df8665ff41ec0fb4b5d3df"
 
 [[files]]
 file = "resourcepacks/pixel-icons.pw.toml"
