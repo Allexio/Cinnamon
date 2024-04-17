@@ -16,8 +16,36 @@
         "factor": 2
     },
     {
+        "structure": "totw_reworked:derelict",
+        "factor": 1
+    },
+    {
+        "structure": "totw_reworked:derelict_grass",
+        "factor": 1
+    },
+    {
+        "structure": "totw_reworked:ice",
+        "factor": 1
+    },
+    {
+        "structure": "totw_reworked:jungle",
+        "factor": 1
+    },
+    {
+        "structure": "totw_reworked:ocean",
+        "factor": 1
+    },
+    {
+        "structure": "totw_reworked:ocean_warm",
+        "factor": 1
+    },
+    {
+        "structure": "totw_reworked:regular",
+        "factor": 1
+    },
+    {
         "structure": "joshie:village_ocean",
-        "factor": 10
+        "factor": 8
     }
     // add the structures you want to modify in the format:
     // {
