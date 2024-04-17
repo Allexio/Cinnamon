@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "030b5adce4dd6f31635992d8eebe27b2bae86b14fba1469ad19e1cae473c59df"
+hash = "25e1e73bf7e589d6ecf692a12bcb942e0559b609bff871cd3b7701719ff68119"
 metafile = true
 
 [[files]]
@@ -580,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/create-structures.pw.toml"
 hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
 metafile = true
 
 [[files]]
@@ -1023,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "8bc19b2297c704b501c34367b2c0f73adef7781d9099bd61becd62df5caea303"
+hash = "338fb36ccda30ae118170eb13da6414aaed8e250b7dff56d71a9ef935c76c3cd"
 metafile = true
 
 [[files]]
@@ -1113,6 +1118,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
 
 [[files]]
