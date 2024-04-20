@@ -346,7 +346,7 @@ hash = "5f5e595ec78ffc6d56c43ba5a7d849089d9d95d32aa725e52091d568730dfa56"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "dae901c7e0bb4a3361ba332be2b151e24cab8f3da147d7f5325289f4b48d8ffb"
+hash = "e9b751261efb70a01061d298de8abe967cbb4204bbd881c9cfa2b82e6d6e1a17"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -374,8 +374,8 @@ hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
-hash = "1e12688df5b051d4d399bf4bb919be7f30d18322507f1c7fd924b7217c103a9c"
+file = "mods/DistantHorizons-fabric-2.0.3-a-dev-1.20.1.jar"
+hash = "7b2ff43aa0b6704ce465dbe6ca226af082debcbc7b531bfca37de11f3352b55b"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "25e1e73bf7e589d6ecf692a12bcb942e0559b609bff871cd3b7701719ff68119"
+hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
 metafile = true
 
 [[files]]
@@ -733,8 +733,8 @@ hash = "ebb242e321ae99b8802c08adcd82cc7fadbe89234749f5d7543264b1bc53661b"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "b7a1fb2faac9cd962d6ce3fad226e9deeb2194b10f6b545b10ce65fc2e63f73d"
 metafile = true
 
 [[files]]
@@ -823,13 +823,8 @@ hash = "c9f4a8f985932269b8c9159c320929f81216f7197c2909c24c1498346f371b32"
 metafile = true
 
 [[files]]
-file = "mods/iris-1.7.0-snapshot+mc1.20.1-7f0ecaa-dirty.jar"
-hash = "fe2c2423b8825865807e7613063c00dd65c48b288125f91aae6e311f9bffa2ec"
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
-metafile = true
+file = "mods/iris-1.7.0-snapshot+mc1.20.1-318a4d0-dirty.jar"
+hash = "bb015772859bb2727c1594ee81bf80693dbed7a0da27f9a126d120251cfd9b00"
 
 [[files]]
 file = "mods/items-displayed.pw.toml"
@@ -993,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "b69842f8a03fcbe7750796dba224362e72f12876caec63977e2284f21a651588"
+hash = "a95672abc4c02cbc9f42cee5f7b95299ef66b3f499ef4b86fd078ee302929590"
 metafile = true
 
 [[files]]
@@ -1028,7 +1023,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "338fb36ccda30ae118170eb13da6414aaed8e250b7dff56d71a9ef935c76c3cd"
+hash = "7cfd850586a354b0a14b04234dbc5254f80610b69f7ffc1a7e60a63332739cf1"
 metafile = true
 
 [[files]]
@@ -1107,10 +1102,6 @@ hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
 metafile = true
 
 [[files]]
-file = "mods/test.jar"
-hash = "11ae265d2903b1da0e2dea2984ac0559d49e3ffd55b7646c5baa7f609731197b"
-
-[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "b47c07f5182af99016791a7008a241cd19442cb9e993cd56f5f90961a5f1375f"
 metafile = true
@@ -1119,6 +1110,10 @@ metafile = true
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
+
+[[files]]
+file = "mods/totw_reworked_modded.jar"
+hash = "11ae265d2903b1da0e2dea2984ac0559d49e3ffd55b7646c5baa7f609731197b"
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
@@ -1201,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "28e9e1ae5ced7de0e0338f9d5ebc6a0fc4f717ab45721e68f11a22d0b4c3ae63"
+hash = "e7e2cc03c81bad91f62c77e988a3ac2c198a5c3e9a11ba7a7ca6d8cdc7122a60"
 metafile = true
 
 [[files]]
@@ -1262,6 +1257,11 @@ hash = "b2702f14ce25a21172423614934d1234bbd08412c65327915a0c7bde76b363c8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "ba4f361658c76d787a2d3fef31ab759d1d027b322cc2f020a42deae3fec7b2bb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/stay_true_fixed.zip"
 hash = "54ab5f8171ec3e410900fc3c870fc0ea274400318323f2d3f7ba9c1a02f195e5"
 
@@ -1279,9 +1279,8 @@ hash = "a52f50c5447c760342a7ab6e8f3f29269aa8f8fe8cc8dcda0e603c26ef199e9d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/photon-shader.pw.toml"
-hash = "3560c89c0fb17a64316a7308f6bbcac2dc2f71b7ccac27a2b84942d9bfb8401d"
-metafile = true
+file = "shaderpacks/photon.zip"
+hash = "0b7c731ccda8fe7fd493279bbc393d144e61a42369002601a2fbd6f446efaa50"
 
 [[files]]
 file = "shaderpacks/photon.zip.txt"
