@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "e57f37c3874885ee031dfb33d83ec0f0d6440de3de5a7674c2077de18395fc89"
+hash = "6707525ccf67d6237616198ad7d5b2721f6af06302a22f10e5b74e52950376b9"
 
 [[files]]
 file = "config/betterf3.json"
@@ -374,8 +374,8 @@ hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.0.3-a-dev-1.20.1.jar"
-hash = "7b2ff43aa0b6704ce465dbe6ca226af082debcbc7b531bfca37de11f3352b55b"
+file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
+hash = "1e12688df5b051d4d399bf4bb919be7f30d18322507f1c7fd924b7217c103a9c"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -823,8 +823,8 @@ hash = "c9f4a8f985932269b8c9159c320929f81216f7197c2909c24c1498346f371b32"
 metafile = true
 
 [[files]]
-file = "mods/iris-1.7.0-snapshot+mc1.20.1-318a4d0-dirty.jar"
-hash = "bb015772859bb2727c1594ee81bf80693dbed7a0da27f9a126d120251cfd9b00"
+file = "mods/iris-1.7.0-snapshot+mc1.20.1-7f0ecaa-dirty.jar"
+hash = "fe2c2423b8825865807e7613063c00dd65c48b288125f91aae6e311f9bffa2ec"
 
 [[files]]
 file = "mods/items-displayed.pw.toml"
@@ -1236,7 +1236,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "db1b6a3059ed165804b30fde4226640b86e18079cfa3349d353aa86524466379"
+hash = "a2008973ac1d41e7949b6724f13e832dc3059853acf27882301a04b0d0da0665"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"
@@ -1258,12 +1258,8 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/stay-true.pw.toml"
-hash = "ba4f361658c76d787a2d3fef31ab759d1d027b322cc2f020a42deae3fec7b2bb"
+hash = "54e438cb59d890f0d1cfd43d6791889b14e9b6bbb4eee6e796cfdd463c71713f"
 metafile = true
-
-[[files]]
-file = "resourcepacks/stay_true_fixed.zip"
-hash = "54ab5f8171ec3e410900fc3c870fc0ea274400318323f2d3f7ba9c1a02f195e5"
 
 [[files]]
 file = "scripts/remove-waystone-recipe.zs"
@@ -1280,8 +1276,1596 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon.zip"
-hash = "0b7c731ccda8fe7fd493279bbc393d144e61a42369002601a2fbd6f446efaa50"
+hash = "f99114accf6be5612fe166c20b5a82691685d64cdaeaf3ec7b1846e2a20db7bd"
 
 [[files]]
 file = "shaderpacks/photon.zip.txt"
 hash = "a88da27909be77fe3e49366470fe4fe0c917fffa4fdc3b61e72e56ba93154b06"
+
+[[files]]
+file = "shaderpacks/photon/LICENSE"
+hash = "8aafa7cbd6e5de25e9fd9f6a9e1a1cd103c4ad162bfd6a1e88be91a31828353a"
+
+[[files]]
+file = "shaderpacks/photon/README.md"
+hash = "356ef30d6e57379e8c66a92acbdae7ed47aae7de6954bd13dcf0cc4f946584a3"
+
+[[files]]
+file = "shaderpacks/photon/shaders/block.properties"
+hash = "db3b38a8eb272669a489a90fd8cd4ff8d079eb2bad4df5280493b51023db7e55"
+
+[[files]]
+file = "shaderpacks/photon/shaders/entity.properties"
+hash = "458205c650a19e76970d9faf3cf1b6c50fe7574d0e46878fb1f11f93894bcec0"
+
+[[files]]
+file = "shaderpacks/photon/shaders/image/atmosphere/scattering.dat"
+hash = "d4834ef3babc1376f923f39d495d69dd9d7099f56feb40335a184af8a6b98fc6"
+
+[[files]]
+file = "shaderpacks/photon/shaders/image/atmosphere/scattering.dat.mcmeta"
+hash = "95ba6cc1fe6746376a695d95274e4f7b2dec30ed5bdfc9c13aa47af80f37a3c6"
+
+[[files]]
+file = "shaderpacks/photon/shaders/image/curl_noise.dat"
+hash = "897b0bea7ec267518c397fadbfae238be93f0dab48601fbc29dfcf76ed400ac4"
+
+[[files]]
+file = "shaderpacks/photon/shaders/image/curl_noise.dat.mcmeta"
+hash = "a74d9e0d21ac66b314df62542a1b8750cc16412da6148089fb0c007ab6e9685d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/image/noise.png"
+hash = "9972ae2cad05ccf00fbe2d81209244e265e3c089e840862f3cf0859443f77c34"
+
+[[files]]
+file = "shaderpacks/photon/shaders/image/noise.png.mcmeta"
+hash = "a74d9e0d21ac66b314df62542a1b8750cc16412da6148089fb0c007ab6e9685d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/image/worley_noise.dat"
+hash = "ed77f3b2519b1a58c00b0ed917f67be52b12e28d46192ee5ffce29db9cf86e28"
+
+[[files]]
+file = "shaderpacks/photon/shaders/image/worley_noise.dat.mcmeta"
+hash = "a74d9e0d21ac66b314df62542a1b8750cc16412da6148089fb0c007ab6e9685d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/aces/aces.glsl"
+hash = "2e3fffb6dab8c6928f1c8b10485e4f0d068ca2283ae145abea35bb5a6ce8d571"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/aces/license.md"
+hash = "c2f8fe5754224b2d0a7acb405fdbdb4a8032bec4da48f95dff5e23da86a18018"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/aces/matrices.glsl"
+hash = "af26e50a533cc28ee47b4ede6c5a21de916614d3e8c86c0e9a935095e1f1883c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/aces/tonescales.glsl"
+hash = "873cf552c85d2570376c74304b04edcdab677a32e53c827abc683515cb4fbf89"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/aces/utility.glsl"
+hash = "6a47657b95d751383d755b2d74bfde2d19af935752dafa31f88d7ef297032631"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/fog/air_fog_vl.glsl"
+hash = "37a63ee8ce2e7a21afc5b36e7fa1a22db3f315472462f8f61f0f577b464c1260"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/fog/end_fog_vl.glsl"
+hash = "36bdf4aedbd411fa828e12ddc11e5b8e53e7e04012272cc0251e7265096d5066"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/fog/simple_fog.glsl"
+hash = "f65ab3a058bc31a73edcb786fde1b23affdfc8bdd1ff029f98bae25d54ddcb49"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/fog/water_fog_vl.glsl"
+hash = "61e84d1d04c4c8101fb5e14cfa018e80cdec57da33122fc337cf77efd38726a6"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/global.glsl"
+hash = "d6354aa21eeeb21956d6a2a49f4c208ff641eb0ee82674a55d6c710fc4bf987a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/bsdf.glsl"
+hash = "d863380db3eb275017cd4207c5f9ba3d8e014ab5f74bf1bd36cee43d3011db72"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/cloud_shadows.glsl"
+hash = "294653d79e53572be35b0b9e2b30e5a19522c063933169fe96f406d58365341f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/colors/blocklight_color.glsl"
+hash = "e93b71d73be89b3e0ee0169a0797f1e1bf00dbcef674668422c31bb79ebcb43b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/colors/end_color.glsl"
+hash = "b0d9fd2efbbab9d954f585dff596b5bff36931bce199a2eee861b7dcae896661"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/colors/light_color.glsl"
+hash = "098390cd337025cc909c1d8d04a6e2f3960189feaa805b19fb3bd1f9d0e8d25d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/colors/nether_color.glsl"
+hash = "09537073794a79c241090567082f14972dac43d4367a0ae2761b86b08e2a6616"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/colors/skylight_approx.glsl"
+hash = "a694385da7be1abb4ee1cfaa4cd26ef52837626bb8d4235247887a48fc56103f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/colors/weather_color.glsl"
+hash = "0a82182e1df5687237c091997206ab6ed5485601d50f02140531ba2bfbee1fad"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/diffuse_lighting.glsl"
+hash = "225778344eef9a4d554ce8f60745dcb6fd331f4b8ca185da5c59fa4abe8fa148"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/directional_lightmaps.glsl"
+hash = "3e8ee09291fafaf0500ce2044f16037f3316c6f6b3a9f942265d28bc18c196b4"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/distortion.glsl"
+hash = "2470ebf3de4f2d57bffeeb7d1a917ded9971f65c1d5678ac93bdbc83ceb063de"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/handheld_lighting.glsl"
+hash = "90456e3a8545a1f35bb18458936ae6568dc999b601466e77cde5f2958582ce6e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/lpv/blocklight.glsl"
+hash = "dde41f04c0e115202da935cc816b8cdab6b75d8e3bb2f909b6d6dffde2e3f6bb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/lpv/floodfill.glsl"
+hash = "5d10125ee8152a222c207b10ffabcd2c3b2805f5ac27bf2f1dcce94b3ce36dbc"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/lpv/light_colors.glsl"
+hash = "2b68d4ad5179641a6313cd94fdfe046e84baed7a8537f0ead3aaec426e898e3b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/lpv/voxelization.glsl"
+hash = "3d6f99ecafda971bc302140308e729206120462005a1e287cb5e8f1ac0af3955"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/shadows.glsl"
+hash = "1845577d59375fb1d1636b1ea8297110114d62efef29d49306a6a8886b0c46b0"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/light/specular_lighting.glsl"
+hash = "c8f8882dd4c08fce02b1a0ac164a1d370de8029b638b76807eb53c4a1cd3a6d2"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/distant_horizons.glsl"
+hash = "e966b859e304fa9e2fe3e2a398228bdcbc037d825b6484c5dbc224e89c4b5b3a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/edge_highlight.glsl"
+hash = "c99e6bb889045a0f9806e718ec01e7ba4cea7068386ad92483bfc9257551e556"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/end_lighting_fix.glsl"
+hash = "1114ed2061222ce01ae34365885ac4c583afdf2358d9dca4ecce90677b34d0dc"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/material.glsl"
+hash = "318d447b47b2dba66cc99b98630fde8165c31ae8f2f313307f80943fdd748466"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/material_fix.glsl"
+hash = "c933876d323a6080d89284069d47e6b1bb86ad8f752122a4afad810cb85eebc7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/parallax.glsl"
+hash = "326873b322e2ac111655c8ab81646a4a78d43d273e505fa3e3ef03383a8257b8"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/rain_puddles.glsl"
+hash = "adff6bb11e1d40e71c194db14e01ac3e1f426fa6fd477028205f25c667a514fe"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/raytracer.glsl"
+hash = "d65436e664277f41ce1a6e5aa2b177fda13ca8bf919b199a416624140f2714ec"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/water_normal.glsl"
+hash = "dd217e8e17dc7c27793dc1690016f7598202300c454ac3fae2af8484a2b65c46"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/misc/weather.glsl"
+hash = "1389049ff421165e8cb1d5cba89cb68e9ffaf4e575cf095b7a9ce0cf4cbaeb64"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/sky/atmosphere.glsl"
+hash = "fcac34ac53f51b1f037bf3f86c6c2c1af6e74e144a3bc1a51732f915a2f8f7c7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/sky/aurora.glsl"
+hash = "c0eb2ac8b5caf2fbb29d3cc3f3a07995e78ec1c836d4425ef52efe0934fe4a43"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/sky/blocky_clouds.glsl"
+hash = "8615fc35a5b99a0934bcaeb372a1f865be277c3f48e8f7be35617cdeb13ef164"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/sky/clouds.glsl"
+hash = "244cc127432dc6d2ecbfb151d7fd1fd89d482682d3d1d24792c65daa017d8714"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/sky/projection.glsl"
+hash = "e93648d9f61a63335fb2528c03d326c6acf1b50b628beada0afd58ca64a3ab7f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/sky/sky.glsl"
+hash = "2c425e66c75cf817379e0f5355455947ae6819ff55be5fe24c98bc9df599a204"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/bicubic.glsl"
+hash = "9e31f4475dbdc9c6b647320c6cfc8c297c0e1062f281aec2bf8bf24b88e1fb13"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/checkerboard.glsl"
+hash = "0f24751fdcd36be1723c76d0bece40bcb844ac219d0078b16dcb64bb96d7c50f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/color.glsl"
+hash = "60eac8e46fb32c9a82f94e4ad75787006a96e7fe1f7f8da150605eed022c7357"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/dithering.glsl"
+hash = "62cd06166011af41c2952929872ae75a86fd4731341787d4341454346be1ae64"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/encoding.glsl"
+hash = "c90230bef6a6fc82996bed7b3a2e09e89551e345c5aa9e1fb1280a6fc6253947"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/fast_math.glsl"
+hash = "aa75e6fd19ec4b6e74e6021fffe7ad4f3e706c3765600e6a8b92f733fee82eba"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/geometry.glsl"
+hash = "9f38abb58bec7167a28c504ba5c34484481b1bbf4b4c8df1a7b8d3578eca270c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/phase_functions.glsl"
+hash = "0cd06d36abc5154d3ad6903cd598e0d4fd5a31ac9e98964c53b8d6757c0fd289"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/random.glsl"
+hash = "7372efb5511e155f5a26d68e842720384a560b37dc19521842a32aa19d314b19"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/rotation.glsl"
+hash = "16ca09277c02c42cc762d6aa54f6266b4ff474b6823d1c5952c93b38a763eab6"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/sampling.glsl"
+hash = "fe94108069cb36859dadbcfbcbf95a9d33cd637990f822d7d0fa621e3ac29a36"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/space_conversion.glsl"
+hash = "c61a5f510a9ca78f2121cdcd50d542087aa28aa67d817c1114ff1971d9555b88"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/spherical_harmonics.glsl"
+hash = "9b458e5b46b7bdd3f219ec32734119eb75a737af3f0f59d99b6e91d4151a7876"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/utility/text_rendering.glsl"
+hash = "6e10173177c51a3294d466d983bf778265e06bbecbbedd26000e3bde45ffd997"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/vertex/displacement.glsl"
+hash = "f5d11b6c1ceb280558d149c14f3e6c9c0f96e2bdf193971c642718c9afc1c91b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/include/vertex/utility.glsl"
+hash = "709794a575f8f4320ad3587fe18d2c4793f85dc6066f275a3e995c23392a6831"
+
+[[files]]
+file = "shaderpacks/photon/shaders/item.properties"
+hash = "f6a9c7d584367aa8c3d379e04abd30a5e5b6b1c008f3c098f20445b4ed10cfaf"
+
+[[files]]
+file = "shaderpacks/photon/shaders/lang/en_US.lang"
+hash = "eb291575f174da323aa91d6e706ec642df3e4fb9f773237d5a170f5e6648f708"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/composite0.glsl"
+hash = "0dbd3ddf08727e799eaaff637b38781fbf6aa03daf6848040decb14e33fa04ce"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/composite1.glsl"
+hash = "41daffa62701f076dd3ab9c415c91bc013037d4dbad08bcd8442c5a298e15f92"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/deferred0.glsl"
+hash = "bada380b4261744f8d66dbf13699ea9b07827c446b364c83cb0c5c547674931a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/deferred1.glsl"
+hash = "0c6a1a7df45b73842cfaa7286ea638b4db14bab7551fdcb35db08dce4b3712aa"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/deferred2.glsl"
+hash = "9c3cd81448e3fb40075814b76ebea224fae070810cce8af6652dbdc7ed1953b0"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/deferred3.glsl"
+hash = "a8a78d139a1030bba3d8eff9bae3d0b5bb7abbaa34cadcc69c76872585127f85"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/deferred4.glsl"
+hash = "ee5f0946fbb8a5c9e50dd6696daf80f4269fc587292b5284a864a5309293f36c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/gbuffer/armor_glint.glsl"
+hash = "75d1be21eee5d7798dacf665620dc39c56966857b2ecaceb3b357adf4b5ac090"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/gbuffer/basic.glsl"
+hash = "c0efd9475d48d51471a642da6a86787b523917d9e2e871b70713ae6836620fa7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/gbuffer/damage_overlay.glsl"
+hash = "46003d26edf77e1547c2dc1909c1539bf379d9d035defd0d80338b96b761b1dc"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/gbuffer/distant_horizons/terrain.glsl"
+hash = "caed44d4cc52eadc9b8389ba95ada37bd7f878d0d7fa6cd57017ee5a60224d7a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/gbuffer/distant_horizons/water.glsl"
+hash = "f0769fd088f0902125e73029761ddcfc58f55fb8620ff45019d7966af270872e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/gbuffer/skytextured.glsl"
+hash = "8324ad5b149fac060232482dafb181f8af4d9add9334c854f4eea0459b01efc9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/gbuffer/solid.glsl"
+hash = "8540f778244c7505e70f1aebb7a52fe7b7d8be044c641bdf1954ac6259a15749"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/gbuffer/translucent.glsl"
+hash = "bd438f1f1a32a2b488f1309d0f6cc069c1dda9220121f98db32b1cf6d279c74d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/gbuffer/weather.glsl"
+hash = "653df8de5a9b958addbb40b0245afba8a3a554e6a3bfc181306715e41a3d55fa"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/lpv/floodfill.csh"
+hash = "9124d8c4eb88f185d7e0c90e1eae3e25ab0d5fe390b1d36e7b85412a7966f480"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/lpv/setup.csh"
+hash = "3495ca06fb054d0a1a8a3fc420e26352d68b9867040491d66513c87b3849a50d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/bloom/downsample.glsl"
+hash = "3a30626cb088571f181a7777372214bb45ae5590703e396dd249f874cdbada9f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/bloom/gaussian0.glsl"
+hash = "6fc44b418b870baa1c7b5cc724244dbfd97357086803791c2b236758c9030e68"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/bloom/gaussian1.glsl"
+hash = "7642ef68b17083bbeecb2a5377e77cc838bec2b196c83a98b771da64eb2d7a82"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/bloom/merge_buffers.glsl"
+hash = "8483c274009b9a7c0f8a24a2b01c27ae9e70d078e25aab89001abe02245d2075"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/dof.glsl"
+hash = "9477d86314cb4f50272e6b0eb0923614e7f2c193ea4e13bad9a51e36a6c5e0e0"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/final.glsl"
+hash = "c3f1e7a1c0aa82cb5f4b92251e1d1e3b58bdbfc1521bfcf3db2c67f4453fcb16"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/fxaa.glsl"
+hash = "8ddd6372b27392873d2013fe0db7f65283c0b83cb15d7a523919b0d71df8dc12"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/grade.glsl"
+hash = "01cc6d7c9655927cffeb39c00477a5d9745a54d97ae11f2c51f931c93c5ab5eb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/motion_blur.glsl"
+hash = "84690445ba3109c03572b4ab22153fc3356cf8edff983e499b9b76d2f1f4a280"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/temporal.glsl"
+hash = "79f497a20c5de9f8bc8d669bbde42eaf41d37b6d5f6ce3b702a78cc7306c3f84"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/post/temporal_pre.glsl"
+hash = "05680bb0ce401acebf967e12d901bbdc8aa9161e0e8514183a3784df5cd253e6"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/shadow.glsl"
+hash = "93788049a78c1095d0d7fca73c5bde1e140f82266353fc4deb64c13404b8c128"
+
+[[files]]
+file = "shaderpacks/photon/shaders/program/template.glsl"
+hash = "f049022db35f47f897208600063efaffccd683ec2ea99411454b5753d10e38b7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/settings.glsl"
+hash = "49e048381e73c415d94801801efe39b7a03f323012421780e9788b99bbd1eb83"
+
+[[files]]
+file = "shaderpacks/photon/shaders/shaders.properties"
+hash = "c6032b2b6bf92a69d81031abf6af5d63b2cd12846422d974a278cfbebd7f29ca"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite.fsh"
+hash = "c2bc244bb7a1ff7e4ea28e86d13fd22d6949691f4f68db75f1158e5ec78e4e74"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite.vsh"
+hash = "5129f6e6a3c4845ceb29faf58456d7919d0cbd9ccf67cfee6530eb83ac76a78a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite1.fsh"
+hash = "a2f1e62ad7e3668cfd290c4879aece41593138c4619895dbf4bd257787ffd689"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite1.vsh"
+hash = "94d5557e7ce8418da6d8b3767866d2e302c2d07a33cc494a435a76d793b19121"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite10.fsh"
+hash = "6b68cbda2c9af5d77dad379169d1b6b252bd8bc38c604c601f7ef088deaa0d0a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite10.vsh"
+hash = "65d66c501ae6753dbb1851918ae77e840ad6487ea933a488308c5d198063c466"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite11.fsh"
+hash = "5faaccac1501a025d78402e1dc0c618c4a201ff9b881b1f8a47cc1fab3f1370e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite11.vsh"
+hash = "91a4477378abd064f7ab0ef8a0bd1f969192342899b4126c2e043f6340763d6a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite12.fsh"
+hash = "5d6ae6162b8a1cac0c2db90601b25d398d241f673e67bbf32647edb2b7620b9a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite12.vsh"
+hash = "a5f46e18ad76cf452829df67dd3c703ab52ce9edbe671fb703148fe00695343b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite13.fsh"
+hash = "8b625976ebb1ffa48ef7705da651ff80a867799d0ed43f2bb1034064a9516a60"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite13.vsh"
+hash = "606e0feb6cd7a49fd2ddbe834fe61e2f1cd1e1b000f2b3374dabc8a65ea28eca"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite14.fsh"
+hash = "a469d8e1249de7df9442bd2ee1b5368d8a8c32c3e23fe667efc4fb5f46c1cbaf"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite14.vsh"
+hash = "2d24c87c6180f65d2d01b07d8784c4ae140fd489ca3450739e9d8519d41d1c84"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite15.fsh"
+hash = "6b9c7fc04e415813bf9f214822c947443b427b1ef9a5cbfaf25f62e48b4f656d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite15.vsh"
+hash = "23828e2f7044a170549cb320a3d04afd7c3b2b115ab1b67145a3782a0d0900ce"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite16.fsh"
+hash = "179224e1398bdb4f2e760fbc408d8771300ebaafec1ee96365d54cf7656041ad"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite16.vsh"
+hash = "84102d01efc12df27846a224a1f4b767de40a492bd928bab69a86f8883f73999"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite2.fsh"
+hash = "8f711c0256eb81ed63081e7aff858e19ced7c9f3615cc56b6b87dbe791407213"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite2.vsh"
+hash = "8c71ae1d0f43d89016b1d8ddbffdbfc4824b25214d6d4f097d78100d6578a7fe"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite3.fsh"
+hash = "13ea278f837773f5fe7ba10cf256cd63aa352ae8c840e613eecd82c261aeceaf"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite3.vsh"
+hash = "d05554ab442079c60a40393cf3feb63b5521a004396e30640e8fabe8502969d8"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite4.fsh"
+hash = "b9ee92b9c7748bd41fc9f6ae61617a316c3168c50536c4fbf1e9e27e68919fc5"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite4.vsh"
+hash = "88e52adcd2f2a74dc2b48c4a2cc86eaac75728599f3e77ffacd4a31407424162"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite5.fsh"
+hash = "7dd24cc687ecc8c6c91d7152765fe31ef12f9a73e310bdaa17c059d37488c8b1"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite5.vsh"
+hash = "959e5577ac598c7961084281088858b7f498175d6a856bfce6464866dbc85f70"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite6.fsh"
+hash = "6612c9d302fe83af26bbc90014a975b813b63b0864b27b93028a5129b8cba6a1"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite6.vsh"
+hash = "5e65fc9a5e7dd8d298cc917362aefa13d36e8edf8aa46bb9b6ada3a8f175c50c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite7.fsh"
+hash = "621d43c2ef13c0c0f6433119c767817f86e5f5695da9e3e1d9000dba74344362"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite7.vsh"
+hash = "eb5cf40fda4563082c7188fa1ecef81508ed7cedb8eb7c87d1b711cc494df877"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite8.fsh"
+hash = "8d140f188dafa7e901a5017bcf74f4da64758d66bf2833e52997afdb8548788d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite8.vsh"
+hash = "c18917d937c8fa7156f6a3068d09840863ccc44a9824f77f4e06aa8d86aac720"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite9.fsh"
+hash = "bb016631c6d71e600d31d68cc549608083ed1ea5f959bae4403b4a21361ace1d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/composite9.vsh"
+hash = "0f28bce2e5d965b9afad5916edabbfb3269213b8a7f302b4ca683a162fcbac10"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred.fsh"
+hash = "1e6ce373c32c96f1646df91e04843b7a2fdfb106ab81dca2aac43c8a9ca5ff23"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred.vsh"
+hash = "e97cdfa161df7c986351b1a30d6b637556738b61733ec20bdd20944fbc3c3dad"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred1.fsh"
+hash = "a4ebdffb36fb589a411414dc4aa71005d55f07d0fba9684fa99b7c316333d62b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred1.vsh"
+hash = "40bc2e8f658bbb05283268e40017b4d68ccab534f6391164fd632bb9bad56b0e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred2.fsh"
+hash = "72572492b957d0b7a43d04c75acabccdde39a16866f7d68cdec01dae415bef80"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred2.vsh"
+hash = "6c890727a1d86cc28dc4c24f27b7cde305e7d8fbe768b5c777a422c211aed234"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred3.fsh"
+hash = "80541a2ff74aae1f0964c2b018a2102a05722243d1a799eda9c5d5af50d15f84"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred3.vsh"
+hash = "0fdfd0181b444733607b01f82405f6b4e6891f3ffa5ce256da56f9dc9e1517cf"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred4.fsh"
+hash = "e7b1e48bb2f0be17bd83898d5611469cebb07057573851c17316d7dc668ad23a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/deferred4.vsh"
+hash = "ba7a378d26baff86acef4b8c750b7c2ef3401f7122fc0dedc12b4b572158fb98"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/dh_terrain.fsh"
+hash = "aeaa786504d60ce9d5a706d759355c08f1ee2745ffc3cda923fff75bfbe9917b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/dh_terrain.vsh"
+hash = "1ee15b29af9d27855123ebb1ede927a62f909340bad69475b1a9a7f48a404a2c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/dh_water.fsh"
+hash = "2adfb2f70c3bf881819fc34317b21545a2852f5c5930b17e97b4812b44433229"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/dh_water.vsh"
+hash = "000d00a871df7da4fd99d5a410e339b2ce752450d72d94a5377f2a71afe5eb3c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/final.fsh"
+hash = "5a11c7f69e18b510adf83c83a3f6c9b1136a10e6d75af172e445ed2cbb925023"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/final.vsh"
+hash = "8bdee6084c1c47aad2eec94ecb494d27f60e5a45a4cb2607aff983f6a07ec9ec"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_armor_glint.fsh"
+hash = "9039a4f8ac1abbb7ee5bac181e58aedf8081e2ffb830d472dfb9d1d595ecc557"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_armor_glint.vsh"
+hash = "479e6627cf8d56ddf1710df4082b7c854fcce0e2d36a8fc2d54a05136efe0b34"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_basic.fsh"
+hash = "23b8a9ca8049aaefd00bad6fdbbc8578287c9cf7875082a0dc4204e1673a2f09"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_basic.vsh"
+hash = "f1b5215daa11c16eba550cfa05c375f0e3dfe23b0588aa7417403edc655e23d2"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_beaconbeam.fsh"
+hash = "fe020de6ec3122dd8600803dc95c7b5507dfcaced8ae3f9df33ccc83d55dd168"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_beaconbeam.vsh"
+hash = "4de7d566d6e2e6d2e240cd4a0b48c45c01743d6682165afcf072940bd6aeaeac"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_block.fsh"
+hash = "593426fd227be6a4be7e17b38f7ba3a11726cb6e3764e69fe2cc0b3b85ce5e2d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_block.vsh"
+hash = "7782ddb6c0f5e251419eff71a345286c8252018e2c7aed471affca7b4bc465e4"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_block_translucent.fsh"
+hash = "3ef9f87919aa5b0e45ed78c4be805d712807147561446e9c9d7c0d28be7d7ee7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_block_translucent.vsh"
+hash = "b4808fd283e87938a50f7fd901024630f8cc77b63b8f61238da4ce5650ccb378"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_clouds.fsh"
+hash = "b3c96c6d3c70aaa50b8e62249e7bafd974bd1c2b5d11d837a8da806ee86b0c77"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_clouds.vsh"
+hash = "05966ba9298344b2eaa39d2fc5f7bfe0aeb5a0a3bd480afbd4fe5dd92cded8e9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_damagedblock.fsh"
+hash = "b12f0ed7fd81a0b5fc9a99523b1350df466760fda7b9b8bec8a9784f0395993c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_damagedblock.vsh"
+hash = "fecd5a51e476cc3cb9f7e80ca497dfeff1a0ab2b4a232ad0301597e3b09d5919"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_entities.fsh"
+hash = "eb997e86745a9e9a0c4b748e67e56022850ef49b69e9ce7b2db4319830d9292b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_entities.vsh"
+hash = "709fe737b2af47b140a1a7f470c73e9c67dce92f81cbcd68a907025b0d64e8d9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_entities_translucent.fsh"
+hash = "609775914eb17f8b0659446c35f0b1cdfc30918e22cf48db90159af232eb530a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_entities_translucent.vsh"
+hash = "95a3f28bc5fff53af0184ea8ec0a5babe0fc1fd7abd467b69280fcc2b5e741dc"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_hand.fsh"
+hash = "1eb9d34c8325b34e8a6a97b1f3e4fd1a0bbc6289ef4e3c7c1137879d7e291948"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_hand.vsh"
+hash = "ac4a13b3719abcf87af6d2d16935f252b38b3a69b0e5cc7b04901551bc6eaeae"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_hand_water.fsh"
+hash = "01bd06059d32e7533958aeb8f93912b1dae34f9879b3adc3be4498b0c19c6e77"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_hand_water.vsh"
+hash = "bd208c1b0ae05c82ef0bbd0d6b08f07da8cb1bede96a5721da336788ff73c1bb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_line.fsh"
+hash = "a93b28d171c870ab6fe9f27d4b8a420d7aa656e290ef6927baf0fece13fc8241"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_line.vsh"
+hash = "4d8991fb6def8b348a8bfc7dafbf708f165c4078cae99b3cad10468926fe9125"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_particles.fsh"
+hash = "f3487bc9efea710ee4ee0dec205bf9df3153dcc95f57e9d09512e9fa0730e342"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_particles.vsh"
+hash = "392d09e292465660d7f7699593b9dd414bc6680bcf58d71d84d8adc52e605217"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_particles_translucent.fsh"
+hash = "ce2a682fbf564950878595cd0f9c803a427a040214c72719f610724ce91620c1"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_particles_translucent.vsh"
+hash = "d413c7218390f6c623e4fa3fcf85ea1a1153cb988a3c640f9206f681093b51e3"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_skybasic.fsh"
+hash = "b3c96c6d3c70aaa50b8e62249e7bafd974bd1c2b5d11d837a8da806ee86b0c77"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_skybasic.vsh"
+hash = "05966ba9298344b2eaa39d2fc5f7bfe0aeb5a0a3bd480afbd4fe5dd92cded8e9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_skytextured.fsh"
+hash = "f3118b307f266e65e39b7efd574854c3ebcfd81fd0ae1a7808b9375deed84dc7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_skytextured.vsh"
+hash = "ecc4f6bcb2baa3fb037354ae1d8b2db1c59e729b1e2f9ccec3c0fe824fad8c05"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_spidereyes.fsh"
+hash = "162eb52d876bc7801592365667db08865b357b9066880b8048d736830f550104"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_spidereyes.vsh"
+hash = "83c476cc7e7d78a0dafbb97089b79bf94f18ba07c527e1c0d7bcd0eba70d8aad"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_terrain.fsh"
+hash = "146e175605257c7469db2e37bfb1278a611881034e9d7b12e52cb896a0242b2d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_terrain.vsh"
+hash = "9800ed6d271e0914439371469f59d1ee56dcefe3a98c9642f95fd3495a592c23"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_textured.fsh"
+hash = "1763b108e18a2997e2abb6b2548880e07801f9f80183026038376a7fe2a534b3"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_textured.vsh"
+hash = "e6e71c64516568915b4f9509ef55980df266e7a95a70e6895fb53588117cd919"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_water.fsh"
+hash = "808a4da3f4ea07aa75344b3ef598210d1c2a78cd90b840543c5e8a9d852938ec"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_water.vsh"
+hash = "cf3116b7df34b97d4b22fdf9305d546a97ec5303b21967128f905e7a40e2c6c5"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_weather.fsh"
+hash = "1d1cb66382cd1eb41315e8d311a75708db738f2fc7fa465b52cd87ae67b4ff5e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/gbuffers_weather.vsh"
+hash = "6ba71059799573a1b5a933273a8c1a38135d939eae79053d6e54838550bab7ab"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/setup.csh"
+hash = "35eb0d9a1f551659150883fe7ed386f62f07342e6057142cb64e8f94adc91b58"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/shadow.fsh"
+hash = "b082b0244ec8c8744f7babc97ca594653d3933654d7cfe888b5efff37a5c44fb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/shadow.vsh"
+hash = "44dd17ad83916592849b99dd18fe0760b0056b155b6684b5624b53f164a1a846"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world-1/shadowcomp.csh"
+hash = "d3c723e2ed1c05239a87a3f1b4484dbc3dd34f77909b2d5d4965eeec9c8f6634"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite.fsh"
+hash = "f0a90cb82c858ba2c4547f2fbbbe491c12323a78dedc0919a872c981336dd0fe"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite.vsh"
+hash = "cba8d31e0e36495f22a73268b0ec401254fa682de0e5ff64ab836338f7bfcd66"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite1.fsh"
+hash = "e36f0a45ffdd1dee2b62d2472236bebab60f30eddc034ce7bcdba1c36cad869e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite1.vsh"
+hash = "cd307d5ae76273c4d6836951482b6a032707e64367607230e1773aa468e379d1"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite10.fsh"
+hash = "f79394e7c95a16a8a154adb7184f31ba375acf8516dfb671dd5bb866de2871c0"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite10.vsh"
+hash = "04e1fb19b4a6cc31466cc0ef2525f8b7bd3184ef6ebc01b0252d2fa967a9096a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite11.fsh"
+hash = "4ebf10d18077e0288bfff32acc5920fc89a2f0715fc45af20e68eec603bb04db"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite11.vsh"
+hash = "e0b400d6f69b5ae51838bba78d43b1de92854f6b1b01a985aaf1dea9177b3b36"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite12.fsh"
+hash = "269af7e5a5bba3b3b9aafb22ecd2998167191967f2614305b32bba7dc49290d4"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite12.vsh"
+hash = "3da480519245bafab66436ccf981fb5ee9b87143962eeca27e9f717ff1687026"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite13.fsh"
+hash = "0e0ebe4b5c7a33bd738cdff0ba6836bf937b304bb1a7261ea4f4b12e10ee49b3"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite13.vsh"
+hash = "4edfc4af3f3f42bd26a6f01ed281eff363e39a7c3817b4571bb6b42b41b34810"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite14.fsh"
+hash = "f37c46e6bcb64d632c62b5f6dedd83cef006f17a8693c21e14f43d7c3ca19729"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite14.vsh"
+hash = "c739a86f1d279c04b4b3906bd6ce060c277f98c2325c6b9101f0d362980901c9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite15.fsh"
+hash = "6c7dda0ecb14e26b7cdbda3aab5e8c455e33ddd99f5f4ca559b750daaed101b9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite15.vsh"
+hash = "ace1b1282c6c59f78b6937fa1072664642684064d11543a8cf02a460f7b3819a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite16.fsh"
+hash = "cefd525e7d6869bf7dcea9a9cab9f4a3bc568340d8d25bb1ca4c75d0dca436a4"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite16.vsh"
+hash = "73a95ac9789ba6e3288100cbc83a6e27555a5ea05963c240aafa8e3db79c0b5c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite2.fsh"
+hash = "7e4c5a9f22619c91ad4226e64c5282a6b6eb7f3b8c694512473b30ec31b2cafc"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite2.vsh"
+hash = "3aa71f6c14fb071d8a762565080634a1774310402756a1fd6a78305a682a6975"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite3.fsh"
+hash = "0459cf666518f355cd8b565422bf8d37e3271f158d0b0d59134d0ad23c332ded"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite3.vsh"
+hash = "d99a530bfd2bca5a65bee90c17ee6fe6c54be6c929b399aebe9cf0471625f432"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite4.fsh"
+hash = "35d85413c1b55715d2298bb2f803e193a5cb597236d509000584655676b3b245"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite4.vsh"
+hash = "81200c3f195b678fcfe04e37ee9e4a245c3ba79653361635a6c5c52d8eef4e8a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite5.fsh"
+hash = "4d4acde0141b1fd9500bd2e69244b362f6e3706bfeb2347dbe0b5bab5837072c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite5.vsh"
+hash = "39a2691a62e552739b7710e413393fea3aacc93f89d846cd05e623f6d5be1fcd"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite6.fsh"
+hash = "79f9437de3a60fe491630944801739e162a85a8f6460619b0d5754c23c784283"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite6.vsh"
+hash = "4ec7d87c026ba3f60cffecd8f13561b8d8f0343248edd13c1e992d84628a935c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite7.fsh"
+hash = "231d42fb7d756a4f31ce6a40eeccda9fd9f8cc2be8abe75f33fbda7749581aad"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite7.vsh"
+hash = "d57f95e48b756363d1b5acd9ee09fb8b468a8bf94cb6ace3dc575aaa615b982c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite8.fsh"
+hash = "9cf85b1445cbcb4b58d10d22a9519e7d6502ca098cab2a40d8f530dcc5a315f7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite8.vsh"
+hash = "22bce3cd7a715856bede3f7121a967f11419bc25e66c18775930a10a83b7fbbb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite9.fsh"
+hash = "a0fc575f70d2e3f397b603b39a9423e46bf335d9b194225858fca05769c77c94"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/composite9.vsh"
+hash = "1dfce6576d0862cf189ccf888dbd456a8b34aa41ef9961bd0928b3ba95bef684"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred.fsh"
+hash = "daec4d4529e7c68e985e4fc73280d2da5dc36ee6be2ffd379e749f4313f33fd2"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred.vsh"
+hash = "0ce5f9ad77aef334cda0cea643ab1f9b0973b50c622353721bb88e6450b402ab"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred1.fsh"
+hash = "59744196221eb55071b980e7322d7a12e21d3fbc223c5a7f38147d93c3baaea6"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred1.vsh"
+hash = "b29601af5de39de4ed73c59738359e1a75ece795ed282f86f436425a51f4cf14"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred2.fsh"
+hash = "6fcc76926d83f4783bea8896392fc3a9f66270daef866b0c60482366ecaeb770"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred2.vsh"
+hash = "32d311580960ac5c5f7c9dd844391931165f6b5c866203990d8714947d961cde"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred3.fsh"
+hash = "bb5ef090a7f8d85dbdf12e2b1cd699fe1a2e491981bf99081f00fc029a7014c7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred3.vsh"
+hash = "ad5a653a726f6cfed6ac9017673d647c615420589afd6fbd38500597cf48783e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred4.fsh"
+hash = "ed5984087c81c6e082b0ead502c9bd5cf6db3d2de1d122e87aff47f0218a3e0b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/deferred4.vsh"
+hash = "c9bce9b25b6041b69a29a59c24dc46fcd2762e25fb401044f261b58922559253"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/dh_terrain.fsh"
+hash = "5d820b10217610063aa6a6742ff3e318a847beb7a90c306f2254cfbd4487e238"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/dh_terrain.vsh"
+hash = "19679f3c7d2422f2047561b133218b5636ded0a2ccc04a3e0f5e296421770e14"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/dh_water.fsh"
+hash = "0082b0efe795c11bf7efb245187fac38a75add7c7ca502e69e59b58d388b087d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/dh_water.vsh"
+hash = "7ba9b758329ed5ae992b24151ef0c7f7e3adf5b7674f4ee2bbbbc50e1f539554"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/final.fsh"
+hash = "ffb2333c268b3ac3d9e6995e24a8331c98d269116fdd05e12bea8e2afd786ccb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/final.vsh"
+hash = "494a4b7476657ccc3257bed3d0d7d2f07474299f6c5c580140814051064f47fb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_armor_glint.fsh"
+hash = "ced1b51efeaa4ab096a31664288858f39f331a1fbbd3e322e3b9b7fc9c8fe081"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_armor_glint.vsh"
+hash = "d177e0440ab30ebde89f8ef843e5c4c07c6533e0f428811ed219323e52b554da"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_basic.fsh"
+hash = "409893e8f9bbc2f3502206f747ab6584959bb0bd50a6e158462e61039c55c0d7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_basic.vsh"
+hash = "64e131c8ac002543aaef0c6c536a6582dc8eea9430af2c2809292a5a31bd8f34"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_beaconbeam.fsh"
+hash = "f93ff81c4b1031742bb3aa8924c887048d2b7ae13336f4d451c90a656f5edc61"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_beaconbeam.vsh"
+hash = "84ac6f38de06a019717bbe9cba1a949f4909479081d95bfe089e70cc8a5d9887"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_block.fsh"
+hash = "045e822c647d437402d509d377e8335f2e22363963f659a38b2712b903ab30eb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_block.vsh"
+hash = "7e00b26d75c378c4b82714666afcfde2c239e8f02deecdf9bde9cfc9e5548bf9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_block_translucent.fsh"
+hash = "047e1ffcc966833e9b02b3f71b373ddf38f8dd504cd4ce5c112217dc608c6bc6"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_block_translucent.vsh"
+hash = "9001ef2ed3d2464a31940faa47a6f67310152bc9d60ca01a79f44862608cc1a1"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_clouds.fsh"
+hash = "b3c96c6d3c70aaa50b8e62249e7bafd974bd1c2b5d11d837a8da806ee86b0c77"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_clouds.vsh"
+hash = "05966ba9298344b2eaa39d2fc5f7bfe0aeb5a0a3bd480afbd4fe5dd92cded8e9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_damagedblock.fsh"
+hash = "e6fe091459779a48d21366370ca786ab9fc290092bc9f428ab17af5e63ecc64e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_damagedblock.vsh"
+hash = "cb4b0c3329ad765853eac65e3d04dc468e7f77e21235b52e0cc059f37a868532"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_entities.fsh"
+hash = "583e96f82f0e4478e78f118376e47c37bc72d54895d74fcc041bbf2dcf696f32"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_entities.vsh"
+hash = "343a282584bb3c917b09d3415c51f1d76c103cb52e7e9a2a434ca5ed63f679cb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_entities_translucent.fsh"
+hash = "3452aed458d39c1b9a54bdc77f607314f3b9e1bbba8754f711050e6f4c9ceffb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_entities_translucent.vsh"
+hash = "f35aed43fb49c98cba92901cd5c6637902da5e7998d5899f9bd4d0bd5df5541f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_hand.fsh"
+hash = "cf869b972585a3770b6a14e11a9178b9f309d13d47ae71904960167aabcb709a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_hand.vsh"
+hash = "155c35ddd3a21312a8f4d8d75144ab11d6b8546bb1ea53b580d8524abc1a3932"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_hand_water.fsh"
+hash = "42387b325ddbcf075a09ebbff78e016a5e415a9f462c0e400f200ba705426d3b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_hand_water.vsh"
+hash = "8127508d2c715ac91630b3205150ac923b5cf2ab286016561be179292a54a75a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_line.fsh"
+hash = "7636f5eeb0879012bd296f4acd46e3d9c093cffb283e35f6685727555b344bf9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_line.vsh"
+hash = "4ca41cf8fd70c52813322d39f27ac4158348be13ff967a2186eef296cd4915e5"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_particles.fsh"
+hash = "5fd93ce13890608fa02a3a50e56b3e8c69d0b80ba1f5527ca2ed30d5e7412a27"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_particles.vsh"
+hash = "0229667b07356aadffc9f2e08d7b917ee9ef1870c7fa1ce5ed34dc35f45cebda"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_particles_translucent.fsh"
+hash = "7e2129b019bd8681857003ff482520f7c13652f30bc4a0aab07c10f8fd9ed2ad"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_particles_translucent.vsh"
+hash = "c900ed5600c1b903c766feabefd9e4a204246d5282da467ac73c8a2a8ecfc324"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_skybasic.fsh"
+hash = "b3c96c6d3c70aaa50b8e62249e7bafd974bd1c2b5d11d837a8da806ee86b0c77"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_skybasic.vsh"
+hash = "05966ba9298344b2eaa39d2fc5f7bfe0aeb5a0a3bd480afbd4fe5dd92cded8e9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_skytextured.fsh"
+hash = "f3118b307f266e65e39b7efd574854c3ebcfd81fd0ae1a7808b9375deed84dc7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_skytextured.vsh"
+hash = "ecc4f6bcb2baa3fb037354ae1d8b2db1c59e729b1e2f9ccec3c0fe824fad8c05"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_spidereyes.fsh"
+hash = "182c11e9ca0383a0f1d17f6a74dfaf95ad520f4b3e5fcc8c00a584364ecf034f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_spidereyes.vsh"
+hash = "c6017f540e423c02ec562855ee0e60700c4896e5f237126703639511e4502aa8"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_terrain.fsh"
+hash = "e9a757922ad302fbfe4c49f443e50aaf0ed5f2b172da09147f8215766f80df86"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_terrain.vsh"
+hash = "04f91694d5ffb95670c1c88e6af6605eb3d978882b91230bf990e46f1104bf27"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_textured.fsh"
+hash = "420d83416fc4af33282c6d3308e63aaa521f348a91a7cb3343a22fe38a6a05e7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_textured.vsh"
+hash = "4730110843dd4c7c9e73287fa09484c5b1ec886ee4d8e2d2d273c2e9a0e70720"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_water.fsh"
+hash = "320517d9c01f02674026f353b59c4cb6d7009e27f16d1f1efbb35dcd611c6c16"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_water.vsh"
+hash = "d17fe67101c3e35c29c4f75f6664fe087af1a9d2abbc54e37c24bbee305b777f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_weather.fsh"
+hash = "20489dc6d589670d004a9a4faf641298cdc7bfb8b54f76098876a28590723ca7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/gbuffers_weather.vsh"
+hash = "ff9583e58e54dfa228a04a938ae0bebc608efb2dcb405e5cd8b107bbcfa7f7c9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/prepare.fsh"
+hash = "bcd9929a8078f173319a6d12d047cdeec287e35b351343b3ea9d19cd7a4c8848"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/prepare.vsh"
+hash = "749babb6b67ea4c3e6a58f71c6e329ee219a6954eba0580a23da41b03bb9537d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/setup.csh"
+hash = "35eb0d9a1f551659150883fe7ed386f62f07342e6057142cb64e8f94adc91b58"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/shadow.fsh"
+hash = "c6f5d98b1b8938007a33e1f9e995d40ce555726f98a1c4221a93f2a4b2a7747e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/shadow.vsh"
+hash = "f2825ff230d1d3eaf690d911922d182c56ccb00781e66d95a5ca39373624725c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world0/shadowcomp.csh"
+hash = "d3c723e2ed1c05239a87a3f1b4484dbc3dd34f77909b2d5d4965eeec9c8f6634"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite.fsh"
+hash = "38e21f52202beecda68ea79c0c366fec3a0448ee834a5ac4ac923e895110afd5"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite.vsh"
+hash = "397b0883ee3b1c3d105b9f063962f6f8bd03b7f55781dcfc3a7a058cc4fb411a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite1.fsh"
+hash = "bff3493f11524a3d9022b3d885a211309894d353f0ac49067b0ec0aa820a8e89"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite1.vsh"
+hash = "a96cd1501ab0d1ebe5c4e6817ec5c1e95b37d76cc6c1f7d0e3bf6296316b35ca"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite10.fsh"
+hash = "d3383fe1a655ff495907350b0e53c2c491f4f508c39162f9214c9f7241dbc6fb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite10.vsh"
+hash = "ef1c5edd796a7ce213c57e30e5429f2d4dcdd82f841b8f98a719d16495d37428"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite11.fsh"
+hash = "fcaf6399294e8ef3c4286d844b95368d600df9909df0ed4175cef4e0c87b66ed"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite11.vsh"
+hash = "eb80dff06ccb49322fe27b9d13de7b914ed543dc1c90ce4008ac4e60b10977f3"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite12.fsh"
+hash = "1eae92e0c557cf768b18c379375262b4a98dbf80f0e41b5a93acbb8ed86f88f8"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite12.vsh"
+hash = "a8b007fea88e9ebfb2f713a15c19f0b111c37ca7d63946afa499913b2c1e5929"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite13.fsh"
+hash = "702953330c29e8ca9b1efe6bd6e4e390e64edfe32e5c21f70db944259dbfce6b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite13.vsh"
+hash = "f976c653eedc1157f3308adcd08f58e1002f092c62e0ccec62247cf36f100c5b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite14.fsh"
+hash = "208e99e55e280981264832d6211403f99b311e6fac43c94988ef562bdb9354c7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite14.vsh"
+hash = "7fc5c0eb63d6f8862d4499f446351492fa42361635ffe2f53974cf6401663350"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite15.fsh"
+hash = "90a23bd08c50c9d60e5d8aab17c0f71f0644a9da60515df9dbea3a68a3121067"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite15.vsh"
+hash = "5bb4ff4134dc929450eb063ea2f7597cf7d8c8e27a5af00a9338839a644e91b8"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite16.fsh"
+hash = "2de8793a58966bada74cd41ac63b87571e52ab37d45afcfe4edab4a07e75a576"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite16.vsh"
+hash = "be0f2a3e253f68447a9d7aaa61e689525a3fa32ad3cbe2a3afdceedfac52222a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite2.fsh"
+hash = "f5a7484b0595c0556fa7c3f9767925ff3275013506990fab8ba310071822356b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite2.vsh"
+hash = "2c89619f92a3178d6a68fe744866ef02f019d896622f1134197fdd22bf1b3852"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite3.fsh"
+hash = "f1689495d56a72aee6bbbe578f2462f520051a32ef61833581f34a5c5f2e3dd0"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite3.vsh"
+hash = "bde8874256c75ccc3f617fe4efa1fe13aa3920a1730824947931b07cb8f8a65d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite4.fsh"
+hash = "e1bcc415a0eba94e9a16334973eb5b97712c71eb4c33260e78fac4514633d7fe"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite4.vsh"
+hash = "bf047f0f3f141060a95b2d8acb23bad8c8520c7979db844828eed0a081de2580"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite5.fsh"
+hash = "cb5afe9bf4b21ab502f8e49877e2dfe1fab286a9992a8c5f7d4093a258939d33"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite5.vsh"
+hash = "6390662fc0f0e15a2edb9769759aa300a229897b600a4594695539b683115a5e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite6.fsh"
+hash = "8a89db0069b13a05e0304f6b42b0ecd364b30ef4b999aa1c27a238f3a1d15b04"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite6.vsh"
+hash = "ebb074d24c97f70b4a3b42ae51a37169a0c58d77989da616dcad23588ffa9d27"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite7.fsh"
+hash = "f0b7b17bf3da7080718be3eb55c92ee8615eabbfefb612884beb033a1407d1b8"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite7.vsh"
+hash = "0382b021cf315c1e39909991c0180548d3d7e4b9bc2bc5ae63bd27cc16686009"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite8.fsh"
+hash = "16e3adc4d642a9a3d66bc48f14d92e7ace0c778721d03461296aa5a5818aa9e6"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite8.vsh"
+hash = "39876ae3ad286086610b6aea83c151b31db67eb0796fdd0e076f50a7cd14233a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite9.fsh"
+hash = "d26abbec31efaddc3cca17a23661ae42c1e4d1465a68487c87a1229969341aec"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/composite9.vsh"
+hash = "82e592c20fa4b7875f61226d31777147263fdd5176e60513da24ca4f2e0613c9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred.fsh"
+hash = "d7a2a076d55b730d915e80927ffacb9a8c59d95782f4e239906b81d8118c64f9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred.vsh"
+hash = "f33379fc26dc87e5eaea93d6e118318fd3bce9b6c72c160c57eb07d5ad3741ec"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred1.fsh"
+hash = "119eac0f804a086ff954d5c5901e84ad077f79dfc672bb1117e67ea6f7da1d3f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred1.vsh"
+hash = "d8a7a2d0bc82adf9f984901e35eedb6375adae826fb52af88a808ed564371bc0"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred2.fsh"
+hash = "19b60a0516e7f326ac33ea81e8f43a503b78d7899b3d634d167dbcdb8ea56365"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred2.vsh"
+hash = "c7cb16a4d97b74406d58f00fbb777daedad1538e8a4a00dfe9914acb269f3210"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred3.fsh"
+hash = "04668f076526c966ac46cbd282d4e1d2e93f6b12294894a0b281c491123c651e"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred3.vsh"
+hash = "961b10f9871abc510a0a9df3b6b9a9e988c259594e62e28657e26983d018d2af"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred4.fsh"
+hash = "2fb774906d1e06022db67f1251e6380e6064f3faeed4e47258206fe77b2ed4c1"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/deferred4.vsh"
+hash = "15de51d37ea03c95bf4be5a4883cfe13a8519d8eb3817bb274232e59e7ca9a04"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/dh_terrain.fsh"
+hash = "12d07e0cce94b56e545df1239f646b1c76305b918d0e3a2e1fdc5e3694ac3195"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/dh_terrain.vsh"
+hash = "d845592d135e98168082abd6ed765450aa73f72574a627929b2e6198fbb277ac"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/dh_water.fsh"
+hash = "f4d386aff56914dfbda7cf6a6c577878d578cc28107da525775ab71368f27f1c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/dh_water.vsh"
+hash = "bdc8f4bf50b6f6880c6bc44b5a753aa8009320b0afc6074a9ab336f6571f8e92"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/final.fsh"
+hash = "bd2666e238a83d258bde789658ac43f0ec1ed0e62f19f7211e5bb7e6cef442f5"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/final.vsh"
+hash = "bbfc4195af0ad8c9f29481ca2c18296ebc1b744fb3ea999bdaf11c7f35a514b1"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_armor_glint.fsh"
+hash = "fc03c0831933ab578f8124007a25a26a7221e0970ed1df9d43c71c37cbfcfd46"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_armor_glint.vsh"
+hash = "d28638d5fa6c953b75b21e3357775042b47e29a7b207f3e09dbc50d062736acf"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_basic.fsh"
+hash = "644679841c3cd1363db6d5c6126edb565a1c783815263934064a0e78635f23a0"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_basic.vsh"
+hash = "d91ee9b4935d6e7161340ab3bcac6320b0bc6c4271fd6c7e83d0c2556fc00cbb"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_beaconbeam.fsh"
+hash = "936af41e177433465c10378a2bbbebb1e3d3877195ecf12f0e39f867911dfd95"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_beaconbeam.vsh"
+hash = "50b806c327513f35af656e62e40b2e7048ef5d9d8715aad79f030699a586d189"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_block.fsh"
+hash = "d30706df0017eab7ffb1a1e52f2459abb8d3f9ae0acdca0fc6f85edb54929c74"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_block.vsh"
+hash = "6c62219b37d449e8379a695758d434d343ec1c57e895894f47f438b5126e1ec1"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_block_translucent.fsh"
+hash = "aa8b391cfd602b590ba640b3198cfa73f762ebe465d4b43d7211dcddaa92d340"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_block_translucent.vsh"
+hash = "4ef0607ab7815e22bd36f25a420bf70858a60b1f6428644b77d734cf4e903353"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_clouds.fsh"
+hash = "b3c96c6d3c70aaa50b8e62249e7bafd974bd1c2b5d11d837a8da806ee86b0c77"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_clouds.vsh"
+hash = "05966ba9298344b2eaa39d2fc5f7bfe0aeb5a0a3bd480afbd4fe5dd92cded8e9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_damagedblock.fsh"
+hash = "431cc58e144bcbf3b7ca2de361a4cba696847182fb02177c9876b0e2c9b39123"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_damagedblock.vsh"
+hash = "7f022e12aa13fd0f4198f110e39580ba9d1866ba3095dd7287a828a2f6bfaa56"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_entities.fsh"
+hash = "61516596cd4766fbf002da46141f86f29af7e79c5373a50fe990a719eff93fae"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_entities.vsh"
+hash = "b9bb80de8079205e686d0c267f0e821b7734453413f2f1067e8438135391cb3a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_entities_translucent.fsh"
+hash = "f1144207f6a697222ea5ef4d7fb7daea3ed340ea9c2fedb0b6b3678845b41202"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_entities_translucent.vsh"
+hash = "b7ceaae1887e5745ad7e530ea14456055a0c259e2c2b0f43eccfd65a29e6b60b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_hand.fsh"
+hash = "3241fa202a7d5a7f337cf002964cf1caab580dd470ae3ece75ae45197edc678d"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_hand.vsh"
+hash = "0d7e9c70ff614cf657d0127b89b6f7ce836fe1b4c7b5c2fe53233fd2c85d417c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_hand_water.fsh"
+hash = "8796f40af4078511357be2dd0b3293636cf533a8b992024c22e11e8c06af8b59"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_hand_water.vsh"
+hash = "bae9c39e08b4b5828f8ce9421c285a221dfe3d67e9f30183d5430bb1db53dc4c"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_line.fsh"
+hash = "3ca3585c6552b5a49f1e6a471ed8ccaf2e73c33b9bac313ff122431e5131c245"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_line.vsh"
+hash = "cb6da8a47bb6eca4b4c1451e5ca21fb4a894751ec49697afeb03299cc2978061"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_particles.fsh"
+hash = "1a1eb5c9c0f53154f2f67227c92c9d4b7742cb3c12285d6876b64ee4df20e556"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_particles.vsh"
+hash = "9f03a7dcb98dbf8be269acb3081696c828222f2fe683f59563bb53c622bb7b23"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_particles_translucent.fsh"
+hash = "5c1430fcbeba67d5d3cbc2910f6f93d7c91583c757e696d0252b9cebe7315838"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_particles_translucent.vsh"
+hash = "4f763daeb27de2a1a002b0cee705cc39add303a19bf207c357d520e540ce586f"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_skybasic.fsh"
+hash = "b3c96c6d3c70aaa50b8e62249e7bafd974bd1c2b5d11d837a8da806ee86b0c77"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_skybasic.vsh"
+hash = "05966ba9298344b2eaa39d2fc5f7bfe0aeb5a0a3bd480afbd4fe5dd92cded8e9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_skytextured.fsh"
+hash = "f3118b307f266e65e39b7efd574854c3ebcfd81fd0ae1a7808b9375deed84dc7"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_skytextured.vsh"
+hash = "ecc4f6bcb2baa3fb037354ae1d8b2db1c59e729b1e2f9ccec3c0fe824fad8c05"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_spidereyes.fsh"
+hash = "0542407e65ad63fddff185a7a851ea268f31cd4c629007893872f1229dbced9a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_spidereyes.vsh"
+hash = "8c6e3e72e3818d838044c5741fcdec86f9f6edf2caed847ebd1273d9b23dd83b"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_terrain.fsh"
+hash = "3cb497059e9f44eaee290974e31cfc9c1457c5835628ee1c9df76aeb2954a090"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_terrain.vsh"
+hash = "30bcbda50e34855c1def7feb37c2d1660b92842d7e65a789f90a942ddd66d6c9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_textured.fsh"
+hash = "0da1e1fe2ab6be4a71b4d44b9e8bf472ff4953dd539689a24092107be728bd02"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_textured.vsh"
+hash = "285e2e0d21d6a7e799e7b60f6252e424b2e9f02a6e5d03cc931a8c2fe780d9a4"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_water.fsh"
+hash = "e1811080cbf40d5f79e683fc836c3d9a8fc6ad8c706581ac8374f3f04c7bc167"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_water.vsh"
+hash = "48b942671e2c4fb78bfe60e359b40f3f26952e165b411b08e69e5e581aa78920"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_weather.fsh"
+hash = "03489b6de33588dbec51bac55d6915f402b4077777ca120d1580cc9244d8d553"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/gbuffers_weather.vsh"
+hash = "7d5809b50b4fc5dcd3daf7987cbb23b22bec4194aca867bba301ba71e49c3076"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/setup.csh"
+hash = "09e5271b3e46f8784901c0d7e5f6a63f73dca4988603a41623709b5e8e439ce9"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/shadow.fsh"
+hash = "04ee3312a5ddb50f81e8036e41dad4d9268543de60a5f39b73d47d1b0399ca3a"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/shadow.vsh"
+hash = "4aa4efda29c68da91d176e099f326db2bf46430dab6869b0ac0f0fd54eae6448"
+
+[[files]]
+file = "shaderpacks/photon/shaders/world1/shadowcomp.csh"
+hash = "909dbc0c272a02ff81e9a977f74cdf31fd2c5560bce8a37b65692da79fcb6f8d"
