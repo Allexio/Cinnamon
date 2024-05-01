@@ -27,7 +27,7 @@
 	},
 	"luck": {
 		"title": "Lucky",
-		"description": "§8You must be a punk because you're feeling lucky.\n\n§a+0.5 Luck",
+		"description": "§8You must be a punk because you're feeling lucky.\n\n§a+0.25 Luck",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -39,7 +39,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "generic.luck",
-					"value": 0.5,
+					"value": 0.25,
 					"operation": "addition"
 				}
 			}
@@ -67,7 +67,7 @@
 	},
 	"sprint1": {
 		"title": "Sunday Sprinter",
-		"description": "§8There are worse things for your health than sprinting once a week.\n\n§a+5% Movement Speed",
+		"description": "§8There are worse things for your health than sprinting once a week.\n\n§a+3% Sprint Speed",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -78,8 +78,8 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "minecraft:generic.movement_speed",
-					"value": 0.05,
+					"attribute": "puffish_skills:player.sprinting_speed",
+					"value": 0.03,
 					"operation": "multiply_base"
 				}
 			}
