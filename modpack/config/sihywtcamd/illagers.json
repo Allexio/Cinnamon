@@ -15,7 +15,7 @@
     "spawnInMansions": true
   },
   "ravager": {
-    "spawnInPatrols": true
+    "spawnInPatrols": false
   },
   "witch": {
     "fleeGoal": true,
