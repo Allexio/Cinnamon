@@ -10,10 +10,46 @@
 			"type": "puffish_skills:kill_entity",
 			"data": {
 				"conditions": {
-					"sword": {
+					"swords": {
 						"type": "weapon_tag",
 						"data": {
 							"tag": "c:swords"
+						}
+					},
+					"axes": {
+						"type": "weapon_tag",
+						"data": {
+							"tag": "c:axes"
+						}
+					},
+					"pickaxes": {
+						"type": "weapon_tag",
+						"data": {
+							"tag": "c:pickaxes"
+						}
+					},
+					"shovels": {
+						"type": "weapon_tag",
+						"data": {
+							"tag": "c:shovels"
+						}
+					},
+					"hammers": {
+						"type": "weapon_tag",
+						"data": {
+							"tag": "paladins:great_hammers"
+						}
+					},
+					"maces": {
+						"type": "weapon_tag",
+						"data": {
+							"tag": "paladins:maces"
+						}
+					},
+					"claymores": {
+						"type": "weapon_tag",
+						"data": {
+							"tag": "paladins:claymores"
 						}
 					}
 				},
@@ -27,13 +63,13 @@
 				},
 				"experience": [
 					{
-						"condition": "sword",
-						"expression": "dropped_xp + max_health / 40"
+						"condition": "swords | axes | pickaxes | shovels | hammers | maces | claymores",
+						"expression": "dropped_xp + max_health / 80"
 					}
 				],
 				"anti_farming":{
 					"limit_per_chunk":"15",
-					"reset_after_seconds":"180"
+					"reset_after_seconds":"200"
 				}
 			}
 		}
