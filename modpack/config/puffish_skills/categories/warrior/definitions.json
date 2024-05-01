@@ -147,7 +147,7 @@
 	},
 	"vampire": {
 		"title": "Specialisation: Vampiric Tendencies",
-		"description": "§8You leech the life straight out of your enemies with every hit.\n§8What a sucker.\n\n§aSiphon 50% of damage dealt to enemies to overheal, caps at half max health \n\n§c-80% Regen from all other sources",
+		"description": "§8You leech the life straight out of your enemies with every hit.\n§8What a sucker.\n\n§aSiphon damage dealt to overheal, caps at half max health \n\n§c-50% Regen from all other sources\n\n§c-10% Melee Damage",
 		"frame": {
 			"type": "advancement",
 			"data": {
@@ -173,8 +173,16 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_skills:player.healing",
-					"value": -0.80,
+					"value": -0.50,
 					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": -0.10,
+					"operation": "multiply_total"
 				}
 			}
 		]
