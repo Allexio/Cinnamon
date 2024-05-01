@@ -1,6 +1,6 @@
 {
   "general": {
-    "baby": true,
+    "baby": false,
     "babyQuickAttackGoal": true,
     "fleeGoal": true,
     "swimGoal": true
@@ -14,7 +14,7 @@
     "coldBiomeSpawn": true
   },
   "witherSkeleton": {
-    "baby": true,
+    "baby": false,
     "bow": true,
     "netheriteSword": true
   },
