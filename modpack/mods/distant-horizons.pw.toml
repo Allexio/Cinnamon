@@ -1,0 +1,8 @@
+name = "Distant Horizons"
+filename = "distant-horizons.jar"
+side = "client"
+
+[download]
+url = "https://rawcdn.githack.com/Allexio/Cinnamon/4520eeea82d7b9e85788a6834c90e42ea602d2d2/assets/other/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
+hash-format = "sha1"
+hash = "47d5802cdb4294621a6d34f2e4378bf366cf2999"
