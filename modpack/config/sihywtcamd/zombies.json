@@ -11,7 +11,7 @@
   },
   "drowned": {
     "tridentSpawn": true,
-    "highVelocity": true,
+    "highVelocity": false,
     "guardianJockeySpawn": true
   },
   "zombieHorse": {
