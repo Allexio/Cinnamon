@@ -75,10 +75,10 @@ _version = 2
 		[client.advanced.autoUpdater]
 			#  If DH should use the nightly (provided by Gitlab), or stable (provided by Modrinth) build
 			# 
-			updateBranch = "NIGHTLY"
+			updateBranch = "STABLE"
 			# Automatically check for updates on game launch?
 			# 
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			# Should Distant Horizons silently, automatically download and install new versions?
 			# 
 			enableSilentUpdates = false
