@@ -19,12 +19,6 @@
 					"knives": {
 						"type": "weapon_tag",
 						"data": {
-							"tag": "c:knives"
-						}
-					},
-					"knives2": {
-						"type": "weapon_tag",
-						"data": {
 							"tag": "c:tools/knives"
 						}
 					},
@@ -49,7 +43,7 @@
 						"expression": "dropped_xp + max_health / 60"
 					},
 					{
-						"condition": "knives | knives2",
+						"condition": "knives",
 						"expression": "dropped_xp + max_health / 40"
 					},
 					{
