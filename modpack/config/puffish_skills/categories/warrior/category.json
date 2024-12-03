@@ -7,5 +7,10 @@
 			"texture": "icons/weapons/Sword006.png"
 		}
 	},
-	"background": "textures/gui/advancements/backgrounds/adventure.png"
+	"background": {
+		"texture": "misc/rpg-backgrounds/warrior.png",
+		"width": 3442,
+		"height": 1295,
+		"position": "fill"
+	}
 }

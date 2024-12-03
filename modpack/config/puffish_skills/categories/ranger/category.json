@@ -7,5 +7,10 @@
 			"texture": "icons/weapons/Bow02.png"
 		}
 	},
-	"background": "textures/gui/advancements/backgrounds/adventure.png"
+	"background": {
+		"texture": "misc/rpg-backgrounds/ranger.png",
+		"width": 3840,
+		"height": 2160,
+		"position": "fill"
+	}
 }
