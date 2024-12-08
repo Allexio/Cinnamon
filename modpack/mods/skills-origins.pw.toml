@@ -1,0 +1,13 @@
+name = "Pufferfish's Skills x Origins"
+filename = "puffish_skills_origins-0.1.0-1.20.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G2gG8giX/versions/1SWLKBTa/puffish_skills_origins-0.1.0-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "bdaf755920f308bbebe0ea42bb4633ed21ec8a6a"
+
+[update]
+[update.modrinth]
+mod-id = "G2gG8giX"
+version = "1SWLKBTa"
