@@ -1,0 +1,13 @@
+name = "RPG Backgrounds"
+filename = "rpg-backgrounds.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AdIPqcyl/versions/YWnRkt8k/rpg-backgrounds.zip"
+hash-format = "sha1"
+hash = "344d85e7988421cba96624781390a3e2b0c4f56c"
+
+[update]
+[update.modrinth]
+mod-id = "AdIPqcyl"
+version = "YWnRkt8k"
