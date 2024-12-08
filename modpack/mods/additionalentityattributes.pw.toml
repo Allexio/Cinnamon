@@ -1,13 +1,13 @@
 name = "Additional Entity Attributes"
-filename = "additionalentityattributes-1.7.3+1.20.0.jar"
+filename = "additionalentityattributes-1.7.6+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6oFu5eHi/versions/xuitbZEz/additionalentityattributes-1.7.3%2B1.20.0.jar"
+url = "https://cdn.modrinth.com/data/6oFu5eHi/versions/w03ppuef/additionalentityattributes-1.7.6%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "b3ae8b5381ecaa9cc1756d4dbbcfdb8b4da8da8a"
+hash = "ea65874af9ae479c42024c671a1478e17da05b85"
 
 [update]
 [update.modrinth]
 mod-id = "6oFu5eHi"
-version = "xuitbZEz"
+version = "w03ppuef"

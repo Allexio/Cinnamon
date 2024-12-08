@@ -1,13 +1,13 @@
 name = "Fall Through Slime"
-filename = "fallthroughslime-1.20.1-3.2.jar"
+filename = "fallthroughslime-1.20.1-3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nLMuJxdy/versions/OzG4fMNr/fallthroughslime-1.20.1-3.2.jar"
+url = "https://cdn.modrinth.com/data/nLMuJxdy/versions/xZ5dULK2/fallthroughslime-1.20.1-3.4.jar"
 hash-format = "sha1"
-hash = "f54a7406745a83cd8f7da5c209450b47a493c0a0"
+hash = "088b78e7d23941d65c8b8fbc2fbe6e2edacec724"
 
 [update]
 [update.modrinth]
 mod-id = "nLMuJxdy"
-version = "OzG4fMNr"
+version = "xZ5dULK2"
