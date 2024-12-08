@@ -199,8 +199,8 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "additionalentityattributes:generic.lung_capacity",
-					"value": 0.20,
-					"operation": "multiply_base"
+					"value": 100,
+					"operation": "addition"
 				}
 			}
 		]
