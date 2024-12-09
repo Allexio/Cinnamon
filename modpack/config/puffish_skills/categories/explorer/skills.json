@@ -1,391 +1,391 @@
 {
 	"698xom8sy3bwlkaq": {
 		"definition": "root_explorer",
-		"x": 0,
+		"x": 192,
 		"y": 0,
 		"root": true
 	},
 	"0tn55sacugpimsbp": {
 		"definition": "long-arms",
-		"x": -32,
+		"x": 160,
 		"y": -192,
 		"root": false
 	},
 	"ouncfc1kb2xe9rqh": {
 		"definition": "long-arms",
-		"x": -32,
+		"x": 160,
 		"y": -256,
 		"root": false
 	},
 	"d2wihcmaksna5v8u": {
 		"definition": "long-arms",
-		"x": 32,
+		"x": 224,
 		"y": -192,
 		"root": false
 	},
 	"tqz7xkzl1yg3s4tv": {
 		"definition": "long-arms",
-		"x": 32,
+		"x": 224,
 		"y": -256,
 		"root": false
 	},
 	"2v343ir1gu79eix8": {
 		"definition": "elytra-expertise",
-		"x": 32,
+		"x": 224,
 		"y": 192,
 		"root": false
 	},
 	"cwb2nwwmxx8jn6ct": {
 		"definition": "elytra-expertise",
-		"x": -32,
+		"x": 160,
 		"y": 192,
 		"root": false
 	},
 	"qtvcqyqyavsgt8di": {
 		"definition": "sprint1",
-		"x": -32,
+		"x": 160,
 		"y": 224,
 		"root": false
 	},
 	"oy9rl3vvues4sdiu": {
 		"definition": "sprint1",
-		"x": 32,
+		"x": 224,
 		"y": 224,
 		"root": false
 	},
 	"p8w5vcpgttjx38jx": {
 		"definition": "sprint1",
-		"x": 32,
+		"x": 224,
 		"y": 256,
 		"root": false
 	},
 	"0einrrlictjo18kt": {
 		"definition": "sprint1",
-		"x": -32,
+		"x": 160,
 		"y": 256,
 		"root": false
 	},
 	"w9tybk845n3nqxlv": {
 		"definition": "loot-magnet",
-		"x": 256,
+		"x": 448,
 		"y": -32,
 		"root": false
 	},
 	"q1gcnveik9v80o4z": {
 		"definition": "loot-magnet",
-		"x": 192,
+		"x": 384,
 		"y": -32,
 		"root": false
 	},
 	"8appn6s6lgri5gjk": {
 		"definition": "loot-magnet",
-		"x": 192,
+		"x": 384,
 		"y": 0,
 		"root": false
 	},
 	"4e71ok9y2v6oeeoz": {
 		"definition": "loot-magnet",
-		"x": 192,
+		"x": 384,
 		"y": 32,
 		"root": false
 	},
 	"4bmsir4tdc16mls8": {
 		"definition": "loot-magnet",
-		"x": 256,
+		"x": 448,
 		"y": 32,
 		"root": false
 	},
 	"2f4iaihl38jo42kl": {
 		"definition": "loot-magnet",
-		"x": 256,
+		"x": 448,
 		"y": 0,
 		"root": false
 	},
 	"0z44jhnhqq131u6f": {
 		"definition": "deep-breaths",
-		"x": -256,
+		"x": -64,
 		"y": -32,
 		"root": false
 	},
 	"pigketut3zld8c53": {
 		"definition": "deep-breaths",
-		"x": -256,
+		"x": -64,
 		"y": 32,
 		"root": false
 	},
 	"dm6a2nyfgcsff2qx": {
 		"definition": "luck",
-		"x": -224,
+		"x": -32,
 		"y": 0,
 		"root": false
 	},
 	"pqg6wsljudya34ur": {
 		"definition": "luck",
-		"x": -192,
+		"x": 0,
 		"y": 32,
 		"root": false
 	},
 	"xip8x306fhnh9iyk": {
 		"definition": "luck",
-		"x": -192,
+		"x": 0,
 		"y": -32,
 		"root": false
 	},
 	"sy72hmfrv35ztqw9": {
 		"definition": "aquaman",
-		"x": 160,
+		"x": 352,
 		"y": -64,
 		"root": false
 	},
 	"jsehwftlw0k45l4w": {
 		"definition": "aquaman",
-		"x": 160,
+		"x": 352,
 		"y": 64,
 		"root": false
 	},
 	"2ktnvmlfpm0andsy": {
 		"definition": "aquaman",
-		"x": 288,
+		"x": 480,
 		"y": 64,
 		"root": false
 	},
 	"zls4i258decncjcb": {
 		"definition": "aquaman",
-		"x": 288,
+		"x": 480,
 		"y": -64,
 		"root": false
 	},
 	"2iwsz7gougm0h7i9": {
 		"definition": "lavaman",
-		"x": -288,
+		"x": -96,
 		"y": -64,
 		"root": false
 	},
 	"dbnh45efc2xvmfot": {
 		"definition": "lavaman",
-		"x": -160,
+		"x": 32,
 		"y": -64,
 		"root": false
 	},
 	"kjwmk0bh7qo1ysfj": {
 		"definition": "lavaman",
-		"x": -160,
+		"x": 32,
 		"y": 64,
 		"root": false
 	},
 	"zrraqom00ft4nxxb": {
 		"definition": "lavaman",
-		"x": -288,
+		"x": -96,
 		"y": 64,
 		"root": false
 	},
 	"iu265rsmf2eg9xl4": {
 		"definition": "sprint1",
-		"x": -224,
+		"x": -32,
 		"y": -128,
 		"root": false
 	},
 	"m7rll3ladsd7hi2i": {
 		"definition": "sprint1",
-		"x": -128,
+		"x": 64,
 		"y": -224,
 		"root": false
 	},
 	"32pbje80mplwhir5": {
 		"definition": "bigger-jumps",
-		"x": -64,
+		"x": 128,
 		"y": 160,
 		"root": false
 	},
 	"104ejmigy88npowt": {
 		"definition": "bigger-jumps",
-		"x": 64,
+		"x": 256,
 		"y": 160,
 		"root": false
 	},
 	"lgr3wf2i8s90wcbs": {
 		"definition": "sprint2",
-		"x": -64,
+		"x": 128,
 		"y": 288,
 		"root": false
 	},
 	"bxpuveai1zf6ukht": {
 		"definition": "sprint2",
-		"x": 64,
+		"x": 256,
 		"y": 288,
 		"root": false
 	},
 	"ys8f88yo0st3247f": {
 		"definition": "luck",
-		"x": -64,
+		"x": 128,
 		"y": -160,
 		"root": false
 	},
 	"1ld2dqdza6gqjpbk": {
 		"definition": "deep-breaths",
-		"x": 64,
+		"x": 256,
 		"y": -160,
 		"root": false
 	},
 	"72tiab2oapsuss2x": {
 		"definition": "deep-breaths",
-		"x": 64,
+		"x": 256,
 		"y": -288,
 		"root": false
 	},
 	"wzl7j36halze88by": {
 		"definition": "luck",
-		"x": -64,
+		"x": 128,
 		"y": -288,
 		"root": false
 	},
 	"z27xqcuwsz563vyg": {
 		"definition": "scavenger",
-		"x": 64,
+		"x": 256,
 		"y": -224,
 		"root": false
 	},
 	"971huuk1bvsy63nw": {
 		"definition": "sprint1",
-		"x": -64,
+		"x": 128,
 		"y": -224,
 		"root": false
 	},
 	"3xfz1sldnmqusmdq": {
 		"definition": "sprint1",
-		"x": 128,
+		"x": 320,
 		"y": 224,
 		"root": false
 	},
 	"c8jluzob8yr4f5zi": {
 		"definition": "scavenger",
-		"x": -128,
+		"x": 64,
 		"y": 224,
 		"root": false
 	},
 	"cyd1dtqhscbf1wdg": {
 		"definition": "scavenger",
-		"x": -224,
+		"x": -32,
 		"y": 128,
 		"root": false
 	},
 	"48bpmw57mjn02pmv": {
 		"definition": "sprint1",
-		"x": -224,
+		"x": -32,
 		"y": -64,
 		"root": false
 	},
 	"d34kfe72np6988k0": {
 		"definition": "scavenger",
-		"x": 128,
+		"x": 320,
 		"y": -224,
 		"root": false
 	},
 	"guob9hvefv602yg5": {
 		"definition": "scavenger",
-		"x": 224,
+		"x": 416,
 		"y": -128,
 		"root": false
 	},
 	"rr50vrcd62xja1pk": {
 		"definition": "scavenger",
-		"x": 224,
+		"x": 416,
 		"y": -64,
 		"root": false
 	},
 	"2wm0nmfidh1o6yez": {
 		"definition": "scavenger",
-		"x": -64,
+		"x": 128,
 		"y": 224,
 		"root": false
 	},
 	"0l09rrcrf9q0ekll": {
 		"definition": "sprint1",
-		"x": 64,
+		"x": 256,
 		"y": 224,
 		"root": false
 	},
 	"txlsx5dzmv4b03fn": {
 		"definition": "sprint1",
-		"x": 224,
+		"x": 416,
 		"y": 128,
 		"root": false
 	},
 	"1wczki8k0klzyzhd": {
 		"definition": "sprint1",
-		"x": 224,
+		"x": 416,
 		"y": 64,
 		"root": false
 	},
 	"qnrbjpqr5tq5bhhg": {
 		"definition": "sprint1",
-		"x": 192,
+		"x": 384,
 		"y": 192,
 		"root": false
 	},
 	"37pevjdygfdzk26w": {
 		"definition": "scavenger",
-		"x": 192,
+		"x": 384,
 		"y": -192,
 		"root": false
 	},
 	"g5xggryjkiu6d7rq": {
 		"definition": "scavenger",
-		"x": -192,
+		"x": 0,
 		"y": 192,
 		"root": false
 	},
 	"vlo0zz1vcou7lisa": {
 		"definition": "sprint1",
-		"x": -192,
+		"x": 0,
 		"y": -192,
 		"root": false
 	},
 	"5c2u3ivfpx3krw66": {
 		"definition": "sprint1",
-		"x": 32,
+		"x": 224,
 		"y": 0,
 		"root": false
 	},
 	"u4nlkegjgtayydct": {
 		"definition": "sprint1",
-		"x": 0,
+		"x": 192,
 		"y": -192,
 		"root": false
 	},
 	"32mphuj2duvwfl83": {
 		"definition": "sprint1",
-		"x": -32,
+		"x": 160,
 		"y": 0,
 		"root": false
 	},
 	"p5ohffrees5unvgo": {
 		"definition": "luck",
-		"x": -32,
+		"x": 160,
 		"y": -160,
 		"root": false
 	},
 	"wgcu3dxe2itjhh9u": {
 		"definition": "deep-breaths",
-		"x": 32,
+		"x": 224,
 		"y": -160,
 		"root": false
 	},
 	"tma91fmldhfgcfa4": {
 		"definition": "scavenger",
-		"x": -224,
+		"x": -32,
 		"y": 64,
 		"root": false
 	},
 	"cvlo6z653ac8qbw6": {
 		"definition": "bigger-jumps",
-		"x": 0,
+		"x": 192,
 		"y": 32,
 		"root": false
 	},
 	"j2x45c3m26wbqfri": {
 		"definition": "scavenger",
-		"x": 0,
+		"x": 192,
 		"y": -32,
 		"root": false
 	}
