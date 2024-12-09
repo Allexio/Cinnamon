@@ -79,7 +79,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_skills:player.sprinting_speed",
-					"value": 0.03,
+					"value": 0.06,
 					"operation": "multiply_base"
 				}
 			}
@@ -257,6 +257,192 @@
 					"attribute": "miapi:generic.elytra_turn_efficiency",
 					"value": 0.15,
 					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"mega-jump": {
+		"title": "Holy Jumper",
+		"description": "§8You can jump SUPER high, just make sure you've equipped your paraglider.\n\n§aActive Ability (G)\n\n§aJump 60 blocks into the air\n\n§cYou take more fall/elytra collision damage",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Wind06.png"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:launch_into_air"
+				}
+			},
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:more_kinetic_damage"
+				}
+			}
+		]
+	},
+	"teleport": {
+		"title": "Enderport",
+		"description": "§8You can shoot ender pearls out of your... uh, let's just say they come from your hands(?!)\n\n§aActive Ability (G)\n\n§aTeleport with ender pearls at will\n\n§cYou get claustrophobic in small places (you get debuffed when the ceiling is too low)",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Magic04.png"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:throw_ender_pearl"
+				}
+			}
+		]
+	},
+	"phantom": {
+		"title": "Phantom",
+		"description": "§8You've eaten one too many phantom membranes and your body has begun to change.\n\n§aActive Ability (G)\n\n§aYou can switch to Phantom state at will, during which you will be invisible.\n\n§cFood consumption is increased while in phantom state.\n\n§cYou will take damage whilst in direct sunlight and not in phantom state.",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Shadow10.png"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:phantomize"
+				}
+			},
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:invisibility"
+				}
+			},
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:burn_in_daylight"
+				}
+			}
+		]
+	},
+	"phantom-pass-through": {
+		"title": "Ghost",
+		"description": "§8You feel your connection to the phantom growing stronger.\n\n§aActive Ability Upgrade (G)\n\n§aYou can phase through walls and blocks in Phantom state\n\n§8(You can not phase through obsidian or bedrock - duh.).)",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Shadow10.png"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:phasing"
+				}
+			}
+		]
+	},
+	"gills": {
+		"title": "Gill-y Suit",
+		"description": "§8You breathe underwater, but not overwater.\n\n§aYou can breathe underwater\n\n§aYou no longer have a mining penalty in water\n\n§aYou do not fall in water\n\n§cYou cannot breathe air",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Shadow10.png"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:water_breathing"
+				}
+			},
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:aquatic"
+				}
+			},
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:like_water"
+				}
+			}
+		]
+	},
+	"wallclimb": {
+		"title": "SpiderSteve",
+		"description": "§8Spider Steve, Spider Steve, climbs whatever a Spider Steve climbs.\n\n§aYou can climb walls\n\n§cYou cannot use shields\n\n§cYou exhaust yourself faster",
+		"icon": {
+			"type": "texture",
+			"data": {
+				"texture": "icons/skills/Shadow10.png"
+			}
+		},
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:climbing"
+				}
+			},
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:no_shield"
+				}
+			},
+			{
+				"type": "puffish_skills_origins:power",
+				"data": {
+					"power": "origins:more_exhaustion"
 				}
 			}
 		]
