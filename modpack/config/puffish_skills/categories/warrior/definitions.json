@@ -27,7 +27,7 @@
 	},
 	"health": {
 		"title": "Hearty",
-		"description": "§8You suddenly feel healthier, as if you could take just one more hit before dying. A very small hit. Somewhere between a mosquito bite and a bee sting. \n\n§a+1/2 heart container",
+		"description": "§8You suddenly feel healthier, as if you could take just one more hit before dying. A very small hit. Somewhere between a mosquito bite and a bee sting. \n\n§a+1 heart container",
 		"icon": {
 			"type": "texture",
 			"data": {
@@ -39,7 +39,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "generic.max_health",
-					"value": 1,
+					"value": 2,
 					"operation": "addition"
 				}
 			}
