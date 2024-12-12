@@ -1,15 +1,15 @@
 name = "Cinnamon"
 author = "Allexio"
-version = "2.1.2"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d893c553fc25da9cd0d413feffc707687a3db2fbbc84fe6fa81588a8e8363a80"
+hash = "5ffca42aeb1a7d2ed6fc39692ce8711859cf87e38f9ca35a701121ae26e499cc"
 
 [versions]
-fabric = "0.15.7"
+fabric = "0.16.9"
 minecraft = "1.20.1"
 
 [options]
